@@ -1,5 +1,0 @@
-{
-  "error_code": 0,
-  "reason": "ok",
-  "result": "{\"nodes\":[{\"id\":\"948954637\",\"labels\":[\"Company\"],\"properties\":{\"name\":\"阜阳领育教育咨询有限公司\",\"ntype\":\"s\"}},{\"id\":\"1989544547\",\"labels\":[\"Human\"],\"properties\":{\"name\":\"李紫菲\",\"ntype\":\"s\"}},{\"id\":\"1989537051\",\"labels\":[\"Human\"],\"properties\":{\"name\":\"李紫墨\",\"ntype\":\"s\"}}],\"relationships\":[{\"id\":\"175212850\",\"type\":\"OWN\",\"startNode\":\"1989544547\",\"endNode\":\"948954637\",\"properties\":{\"labels\":[\"法人\"]}},{\"id\":\"23117878\",\"type\":\"SERVE\",\"startNode\":\"1989544547\",\"endNode\":\"948954637\",\"properties\":{\"labels\":[\"执行董事兼总经理\"]}},{\"id\":\"48101351\",\"type\":\"INVEST_H\",\"startNode\":\"1989544547\",\"endNode\":\"948954637\",\"properties\":{\"labels\":[\"参股\"]}},{\"id\":\"231907279\",\"type\":\"SERVE\",\"startNode\":\"1989537051\",\"endNode\":\"948954637\",\"properties\":{\"labels\":[\"监事\"]}},{\"id\":\"23858947\",\"type\":\"INVEST_H\",\"startNode\":\"1989537051\",\"endNode\":\"948954637\",\"properties\":{\"labels\":[\"参股\"]}}]}"
-}
