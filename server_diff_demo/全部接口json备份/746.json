@@ -1,0 +1,60 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "chainList": [
+          [
+            {
+              "cid": null,
+              "id": null,
+              "info": "注：未识别出股比>25%的自然人，因此决定以最终法定代表人作为受益所有人结果",
+              "investType": null,
+              "title": "决定路径",
+              "type": "title",
+              "value": "法定代表人"
+            },
+            {
+              "cid": 3228569237,
+              "id": 1810958501,
+              "info": "",
+              "investType": null,
+              "title": "",
+              "type": "human",
+              "value": "刘延峰"
+            },
+            {
+              "cid": null,
+              "id": null,
+              "info": "",
+              "investType": null,
+              "title": "",
+              "type": "percent",
+              "value": "法定代表人"
+            },
+            {
+              "cid": 3228569237,
+              "id": null,
+              "info": "",
+              "investType": null,
+              "title": "",
+              "type": "company",
+              "value": "乐为互联投资管理（北京）有限公司"
+            }
+          ]
+        ],
+        "cid": 3228569237,
+        "id": 1810958501,
+        "logo": "",
+        "name": "刘延峰",
+        "percent": "",
+        "serviceCount": null,
+        "serviceType": 1,
+        "total": null,
+        "type": "human"
+      }
+    ],
+    "total": 1
+  }
+}

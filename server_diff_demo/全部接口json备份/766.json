@@ -1,0 +1,53 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "areaname": "天津",
+        "businessId": "v9eeb84ced1c2607297f1c1c2l48e7d4",
+        "businessentity": "韩玺",
+        "cardnum": "752211871",
+        "casecode": "(2011)开法滨功执字第00804号",
+        "cid": 2861521122,
+        "courtname": "天津经济技术开发区人民法院",
+        "disrupttypename": "其他有履行能力而拒不履行生效法律文书确定义务",
+        "duty": "给付24435.45元；",
+        "gistid": "(10)仲257",
+        "gistunit": "仲裁委员会",
+        "id": 2766,
+        "iname": "天津市红宝石商务宾馆有限公司",
+        "legelId": 2271044788,
+        "legelToco": 4,
+        "legelType": 2,
+        "performance": "全部未履行",
+        "publishdate": 1381248000000,
+        "regdate": 1308153600000,
+        "type": "1"
+      },
+      {
+        "areaname": "天津",
+        "businessId": "v99c894deb7ad9fc7d3f6616alcc9a14",
+        "businessentity": "韩玺",
+        "cardnum": "752211871",
+        "casecode": "(2011)开法滨功执字第00806号",
+        "cid": 2861521122,
+        "courtname": "天津经济技术开发区人民法院",
+        "disrupttypename": "其他有履行能力而拒不履行生效法律文书确定义务",
+        "duty": "给付32671.7元；",
+        "gistid": "(10)仲258",
+        "gistunit": "仲裁委员会",
+        "id": 2770,
+        "iname": "天津市红宝石商务宾馆有限公司",
+        "legelId": 2271044788,
+        "legelToco": 4,
+        "legelType": 2,
+        "performance": "全部未履行",
+        "publishdate": 1381248000000,
+        "regdate": 1308153600000,
+        "type": "1"
+      }
+    ],
+    "total": 2
+  }
+}

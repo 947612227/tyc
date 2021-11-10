@@ -1,0 +1,14 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "city": "北京市",
+    "district": "朝阳区",
+    "graphId": 2069,
+    "latitude": 39.9893267843751,
+    "longitude": 116.388897865193,
+    "name": "北京正方向汽车租赁有限公司",
+    "province": "北京市",
+    "regLocation": "北京市朝阳区华严北里9号院35号楼4层1门7号"
+  }
+}

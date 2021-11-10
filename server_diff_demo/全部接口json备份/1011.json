@@ -1,0 +1,192 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "filter": [],
+    "items": [
+      {
+        "base": "上海市-上海市",
+        "buildCompany": "上海福星实业有限公司",
+        "buildCompanyId": 752207064,
+        "businessId": "5d43b94c478d18a66bdd61f6",
+        "proName": "7号会所装修",
+        "proNum": "3101010806049901",
+        "proType": "其他"
+      },
+      {
+        "base": "上海市-市辖区-长宁区",
+        "buildCompany": "上海市长宁区住宅建设管理中心",
+        "buildCompanyId": null,
+        "businessId": "5d43b959478d18a66bdd622f",
+        "proName": "长宁区迎世博600天行动计划旧居住小区二次供水改造工程",
+        "proNum": "3101050909289901",
+        "proType": "其他"
+      },
+      {
+        "base": "上海市-市辖区-长宁区",
+        "buildCompany": "史泰博（上海）有限公司",
+        "buildCompanyId": 22866905,
+        "businessId": "5d43b933478d18a66bdd6134",
+        "proName": "史泰博新办公室装修工程",
+        "proNum": "3101051104209901",
+        "proType": "其他"
+      },
+      {
+        "base": "上海市-上海市",
+        "buildCompany": "上海世邦机器有限公司",
+        "buildCompanyId": 36909989,
+        "businessId": "5d41717ff23e4be3bb6d1f5a",
+        "proName": "上海世邦高端矿机研制项目",
+        "proNum": "3101151409049901",
+        "proType": "其他"
+      },
+      {
+        "base": "江西省-吉安市",
+        "buildCompany": "井冈山市城市建设投资开发有限公司",
+        "buildCompanyId": 2340266006,
+        "businessId": "5d437449478d18a66bdbafb7",
+        "proName": "井冈山市红军大道新建工程",
+        "proNum": "3608811807230001",
+        "proType": "市政基础设施工程"
+      },
+      {
+        "base": "江西省-抚州市",
+        "buildCompany": "东乡县红星垦殖场",
+        "buildCompanyId": null,
+        "businessId": "5d43b144478d18a66bdd29a5",
+        "proName": "东乡县红星垦殖场生活垃圾填埋处理场工程",
+        "proNum": "3610291712240201",
+        "proType": "市政基础设施工程"
+      },
+      {
+        "base": "江西省-上饶市",
+        "buildCompany": "玉山县城市建设综合开发公司",
+        "buildCompanyId": 1091149429,
+        "businessId": "5d4122f3f23e4be3bb6adad5",
+        "proName": "银海御庭1#商住楼",
+        "proNum": "3611231708010102",
+        "proType": "房屋建筑工程"
+      },
+      {
+        "base": "山东省-聊城市",
+        "buildCompany": "东阿阿胶股份有限公司",
+        "buildCompanyId": 181541556,
+        "businessId": "5d42d993478d18a66bd8592e",
+        "proName": "养生体验酒店",
+        "proNum": "3715241904270001",
+        "proType": "房屋建筑工程"
+      },
+      {
+        "base": "河南省-郑州市",
+        "buildCompany": "郑州港荣实业有限公司",
+        "buildCompanyId": 197100796,
+        "businessId": "5d411dc2f23e4be3bb6ab562",
+        "proName": "大运城白鹭源五号地块住宅项目施工",
+        "proNum": "4101011704260102",
+        "proType": "房屋建筑工程"
+      },
+      {
+        "base": "河南省-郑州市",
+        "buildCompany": "河南省郑州新区建设投资有限公司",
+        "buildCompanyId": 254532118,
+        "businessId": "5d43668f478d18a66bdb4b2d",
+        "proName": "郑东新区合村并城祭城南安置区项目八标",
+        "proNum": "4101011707060101",
+        "proType": "房屋建筑工程"
+      },
+      {
+        "base": "河南省-郑州市",
+        "buildCompany": "郑州新郑综合保税区（郑州航空港区）建设投资有限公司",
+        "buildCompanyId": 421586359,
+        "businessId": "5d42d1d6478d18a66bd81e57",
+        "proName": "郑州新郑综合保税区（郑州航空港区）航兴路跨南水北调总干渠桥梁工程",
+        "proNum": "4101011707210201",
+        "proType": "市政基础设施工程"
+      },
+      {
+        "base": "河南省-郑州市",
+        "buildCompany": "郑州市公共交通总公司",
+        "buildCompanyId": 461593970,
+        "businessId": "5d43b0ac478d18a66bdd24f9",
+        "proName": "郑州市公共交通总公司商都路郑港大道公交场站",
+        "proNum": "4101011712300201",
+        "proType": "市政工程"
+      },
+      {
+        "base": "河南省-郑州市",
+        "buildCompany": "郑州市城乡建设委员会",
+        "buildCompanyId": null,
+        "businessId": "5d42cbfa478d18a66bd7f4cc",
+        "proName": "开元路（江山路-天河路）排水管道改造工程",
+        "proNum": "4101011808160025",
+        "proType": "市政基础设施工程"
+      },
+      {
+        "base": "河南省-郑州市",
+        "buildCompany": "郑州市市政工程管理处",
+        "buildCompanyId": 782277093,
+        "businessId": "5d43b0ca478d18a66bdd25cc",
+        "proName": "盛豪帝湖国际广场硬质铺装工程",
+        "proNum": "4101011808160027",
+        "proType": "市政基础设施工程"
+      },
+      {
+        "base": "河南省-郑州市",
+        "buildCompany": "郑州市建设投资集团有限公司",
+        "buildCompanyId": 139882462,
+        "businessId": "5d411dbdf23e4be3bb6ab539",
+        "proName": "月季公园休闲广场硬质铺装工程",
+        "proNum": "4101011808160053",
+        "proType": "市政基础设施工程"
+      },
+      {
+        "base": "河南省-郑州市",
+        "buildCompany": "河南运昌置业有限公司",
+        "buildCompanyId": 726418160,
+        "businessId": "5d408e4bf23e4be3bb66d838",
+        "proName": "和昌湾景公寓",
+        "proNum": "4101021508180101",
+        "proType": "房屋建筑工程"
+      },
+      {
+        "base": "河南省-郑州市",
+        "buildCompany": "郑州华瑞紫韵置业有限公司",
+        "buildCompanyId": 1549217442,
+        "businessId": "5d411dc1f23e4be3bb6ab55c",
+        "proName": "华瑞紫韵城丽园",
+        "proNum": "4101021601080101",
+        "proType": "房屋建筑工程"
+      },
+      {
+        "base": "河南省-郑州市",
+        "buildCompany": "郑州华瑞紫韵置业有限公司",
+        "buildCompanyId": 1549217442,
+        "businessId": "5d40aeeaf23e4be3bb67d23b",
+        "proName": "华瑞紫韵城景园",
+        "proNum": "4101021601080102",
+        "proType": "房屋建筑工程"
+      },
+      {
+        "base": "河南省-郑州市",
+        "buildCompany": "河南荣威置业有限公司",
+        "buildCompanyId": 1468116601,
+        "businessId": "5d408c6ef23e4be3bb66cab4",
+        "proName": "永威微棠大厦",
+        "proNum": "4101021608220101",
+        "proType": "房屋建筑工程"
+      },
+      {
+        "base": "河南省-郑州市",
+        "buildCompany": "河南荣威置业有限公司",
+        "buildCompanyId": 1468116601,
+        "businessId": "5d408c6ff23e4be3bb66cabe",
+        "proName": "永威金桂苑",
+        "proNum": "4101021608220102",
+        "proType": "房屋建筑工程"
+      }
+    ],
+    "pageNum": 1,
+    "pageSize": 20,
+    "total": 783
+  }
+}

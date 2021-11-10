@@ -1,0 +1,69 @@
+被测服务:
+请求:
+http://10.39.222.108:20064/services/v4/open/djw/baseinfo?name=%E9%9B%84%E5%8E%BF%E9%9B%84%E5%B7%9E%E9%95%87%E4%B8%B8%E4%B8%B8%E6%97%A5%E7%94%A8%E5%93%81%E7%BB%8F%E8%90%A5%E9%83%A8
+参数：http://10.39.222.108:20064/services/v4/open/djw/baseinfo?name=%E9%9B%84%E5%8E%BF%E9%9B%84%E5%B7%9E%E9%95%87%E4%B8%B8%E4%B8%B8%E6%97%A5%E7%94%A8%E5%93%81%E7%BB%8F%E8%90%A5%E9%83%A8
+
+
+找到的差异点是：
+
+
+被测接口调用结果:
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "actualCapital": "",
+    "actualCapitalCurrency": "",
+    "alias": "丸丸",
+    "approvedTime": 1569513600000,
+    "base": "heb",
+    "bondName": null,
+    "bondNum": null,
+    "bondType": null,
+    "businessScope": "母婴用品 日用品 零售（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "cancelDate": null,
+    "cancelReason": "",
+    "city": "保定市",
+    "companyOrgType": "个体工商户",
+    "creditCode": "92130638MA0E50YW59",
+    "district": "安新县",
+    "email": "",
+    "estiblishTime": 1569513600000,
+    "fromTime": null,
+    "historyNameList": null,
+    "historyNames": null,
+    "id": 3374361026,
+    "industry": "零售业",
+    "industryAll": {
+      "category": "批发和零售业",
+      "categoryBig": "零售业",
+      "categoryMiddle": "货摊、无店铺及其他零售业",
+      "categorySmall": "其他未列明零售业"
+    },
+    "isMicroEnt": 1,
+    "legalPersonName": "吕扬",
+    "name": "雄县雄州镇丸丸日用品经营部",
+    "orgNumber": "MA0E50YW5",
+    "percentileScore": 1000,
+    "phoneNumber": null,
+    "property3": "",
+    "regCapital": null,
+    "regCapitalCurrency": "人民币",
+    "regInstitute": "雄县市场监督管理局",
+    "regLocation": "河北省雄安新区雄县雄州路709号雄州创业孵化基地420室",
+    "regNumber": "130638690154659",
+    "regStatus": "存续",
+    "revokeDate": null,
+    "revokeReason": "",
+    "socialStaffNum": null,
+    "staffList": null,
+    "staffNumRange": null,
+    "tags": "存续;小微企业",
+    "taxNumber": "92130638MA0E50YW59",
+    "toTime": null,
+    "type": 1,
+    "updateTimes": 1625478584000,
+    "usedBondName": null,
+    "websiteList": ""
+  }
+}

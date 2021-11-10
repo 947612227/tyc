@@ -1,0 +1,62 @@
+标准服务:
+请求:
+http://open.api.tianyancha.com/services/open/ic/baseinfo/2.0?keyword=3404540664
+参数：http://open.api.tianyancha.com/services/open/ic/baseinfo/2.0?keyword=3404540664
+
+
+标准接口调用结果:
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "actualCapital": "",
+    "actualCapitalCurrency": "人民币",
+    "alias": "瑞兰",
+    "approvedTime": 1627488000000,
+    "base": "sx",
+    "bondName": null,
+    "bondNum": null,
+    "bondType": null,
+    "businessScope": "建设工程：建筑工程；市政公用工程；电子与智能化工程；钢结构工程；机电安装工程；消防设施工程；园林绿化工程；装修装饰工程；输变电工程；防水防腐保温工程；地基基础工程；通信工程；桥梁工程；环保工程；城市及道路照明工程；电力工程；古建筑工程；模板脚手架工程的设计与施工；建筑劳务分包。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "cancelDate": null,
+    "cancelReason": "",
+    "city": "临汾市",
+    "companyOrgType": "有限责任公司(自然人投资或控股)",
+    "creditCode": "91140100MA0KWU0L3X",
+    "district": "曲沃县",
+    "estiblishTime": 1578412800000,
+    "fromTime": 1578412800000,
+    "historyNameList": null,
+    "historyNames": null,
+    "id": 3404540664,
+    "industry": "房屋建筑业",
+    "industryAll": {
+      "category": "建筑业",
+      "categoryBig": "房屋建筑业",
+      "categoryMiddle": "住宅房屋建筑",
+      "categorySmall": ""
+    },
+    "isMicroEnt": 0,
+    "legalPersonName": "孟武",
+    "name": "山西瑞兰建设工程有限公司",
+    "orgNumber": "MA0KWU0L3",
+    "percentileScore": 7378,
+    "property3": "",
+    "regCapital": "1080万人民币",
+    "regCapitalCurrency": "人民币",
+    "regInstitute": "山西转型综合改革示范区市场监督管理局",
+    "regLocation": "山西综改示范区太原学府园区发展路88号华顿大厦8、9层蜻蜓智创众创空间第9076号工位",
+    "regNumber": "140100061577171",
+    "regStatus": "存续",
+    "revokeDate": null,
+    "revokeReason": "",
+    "socialStaffNum": 0,
+    "staffNumRange": "-",
+    "tags": "存续",
+    "taxNumber": "91140100MA0KWU0L3X",
+    "toTime": null,
+    "type": 1,
+    "updateTimes": 1629058733000,
+    "usedBondName": null
+  }
+}

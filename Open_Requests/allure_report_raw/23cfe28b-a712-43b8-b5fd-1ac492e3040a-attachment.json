@@ -1,0 +1,80 @@
+{
+  "result": {
+    "total": 4,
+    "items": [
+      {
+        "toco": 2,
+        "amount": "",
+        "capital": [
+          {
+            "amomon": "-",
+            "paymet": "-",
+            "time": "-",
+            "percent": "-"
+          }
+        ],
+        "name": "沈皓瑜",
+        "startTime": 1297612800000,
+        "id": "2045127266",
+        "endTime": 1329321600000,
+        "type": 2
+      },
+      {
+        "toco": 25,
+        "amount": "",
+        "capital": [
+          {
+            "amomon": "-",
+            "paymet": "-",
+            "time": "-",
+            "percent": "-"
+          }
+        ],
+        "name": "王湛",
+        "startTime": 1329321600000,
+        "id": "2074091018",
+        "endTime": 1499097600000,
+        "type": 2
+      },
+      {
+        "toco": 0,
+        "amount": "",
+        "capital": [
+          {
+            "amomon": "-",
+            "paymet": "-",
+            "time": "-",
+            "percent": "-"
+          }
+        ],
+        "name": "徐勇",
+        "startTime": 991670400000,
+        "id": "1939484677",
+        "endTime": 1297612800000,
+        "type": 2
+      },
+      {
+        "toco": 16,
+        "amount": "",
+        "capital": [
+          {
+            "amomon": "-",
+            "paymet": "-",
+            "time": "-",
+            "percent": "-"
+          }
+        ],
+        "name": "向海龙",
+        "startTime": 1499097600000,
+        "id": "1839080315",
+        "endTime": 1566230400000,
+        "type": 2
+      }
+    ]
+  },
+  "reason": "ok",
+  "error_code": 0,
+  "debugInfo": {
+    "traceId": "5dab6729c4c64591ab65fa18a3ec3c55.28761.16278116104902063"
+  }
+}

@@ -1,0 +1,65 @@
+被测服务:
+请求:
+http://10.39.222.108:20064/services/open/ic/baseinfo/2.0?keyword=3125216335
+参数：http://10.39.222.108:20064/services/open/ic/baseinfo/2.0?keyword=3125216335
+
+
+找到的差异点是：
+
+
+被测接口调用结果:
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "actualCapital": "1600万人民币",
+    "actualCapitalCurrency": "人民币",
+    "alias": "百度雄安",
+    "approvedTime": 1512057600000,
+    "base": "heb",
+    "bondName": null,
+    "bondNum": null,
+    "bondType": null,
+    "businessScope": "人工智能、大数据、云计算、物联网和区块链等技术开发和应用；无人车的技术开发及营运；人机交互平台研发及服务；与智能城市相关的交通、出行、家居、环保技术研发及服务；与智能城市相关的教育、医疗、安防技术研发；计算机软、硬件的设计、技术开发、销售；数据库及计算机互联网络信息服务，系统集成服务；设计、制作、代理、发布广告；经济信息咨询；数据内容服务，数据处理和存储服务；以上技术及相关业务的咨询服务。（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "cancelDate": null,
+    "cancelReason": "",
+    "city": "保定市",
+    "companyOrgType": "有限责任公司（自然人投资或控股的法人独资）",
+    "creditCode": "91130629MA09DHY337",
+    "district": "容城县",
+    "estiblishTime": 1512057600000,
+    "fromTime": 1512057600000,
+    "historyNameList": null,
+    "historyNames": null,
+    "id": 3125216335,
+    "industry": "软件和信息技术服务业",
+    "industryAll": {
+      "category": "信息传输、软件和信息技术服务业",
+      "categoryBig": "软件和信息技术服务业",
+      "categoryMiddle": "软件开发",
+      "categorySmall": "其他软件开发"
+    },
+    "isMicroEnt": 1,
+    "legalPersonName": "陈尚义",
+    "name": "百度雄安科技有限公司",
+    "orgNumber": "MA09DHY33",
+    "percentileScore": 8898,
+    "property3": "",
+    "regCapital": "10000万人民币",
+    "regCapitalCurrency": "人民币",
+    "regInstitute": "雄安新区公共服务局",
+    "regLocation": "河北省保定市容城县澳森南大街1号",
+    "regNumber": "130629000020925",
+    "regStatus": "存续",
+    "revokeDate": null,
+    "revokeReason": "",
+    "socialStaffNum": 0,
+    "staffNumRange": "-",
+    "tags": "存续;小微企业;投资机构:百度投资并购部;企业集团",
+    "taxNumber": "91130629MA09DHY337",
+    "toTime": null,
+    "type": 1,
+    "updateTimes": 1629076391000,
+    "usedBondName": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "ASTOCK_CN": "广发证券",
+    "ASTOCK_CODE": "000776",
+    "accounting_firm_name": "安永华明会计师事务所（特殊普通合伙）",
+    "law_firm_name": "北京市嘉源律师事务所",
+    "sec_type": "深交所A股"
+  }
+}

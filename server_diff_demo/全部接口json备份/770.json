@@ -1,0 +1,34 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "areaName": "江苏省",
+        "punishmentName": "南京亿高微波系统工程有限公司生产不符合国家标准的ECO-600B型半导体激光治疗仪案",
+        "url": "https://img5.tianyancha.com/companyPunishmentCreditChinaN/25fe94cf80a79ffd0b1c62077a59414e/d3oxfWx7S3I=.JPEG@!watermark01"
+      },
+      {
+        "areaName": "江苏省",
+        "punishmentName": "南京亿高微波系统工程有限公司生产不符合强制性要求的ECO-100E型微波治疗仪案",
+        "url": "https://img5.tianyancha.com/companyPunishmentCreditChinaN/25fe94cf80a79ffd0b1c62077a59414e/ZTk2dm9ndFE=.JPEG@!watermark01"
+      },
+      {
+        "areaName": "南京市",
+        "punishmentName": "生产不合格医疗器械高频电刀案",
+        "url": "https://img5.tianyancha.com/companyPunishmentCreditChinaN/25fe94cf80a79ffd0b1c62077a59414e/fTF7cyxbNG8w.JPEG@!watermark01"
+      },
+      {
+        "areaName": "南京市",
+        "punishmentName": "南京亿高微波系统工程有限公司生产不符合国家标准的ECO-600B型半导体激光治疗仪案",
+        "url": "https://img5.tianyancha.com/companyPunishmentCreditChinaN/25fe94cf80a79ffd0b1c62077a59414e/QWt5bEtrdmQ=.JPEG@!watermark01"
+      },
+      {
+        "areaName": "南京市",
+        "punishmentName": "南京亿高微波系统工程有限公司生产不符合强制性要求的ECO-100E型微波治疗仪案",
+        "url": "https://img5.tianyancha.com/companyPunishmentCreditChinaN/25fe94cf80a79ffd0b1c62077a59414e/QXV5LEZBWzY=.JPEG@!watermark01"
+      }
+    ],
+    "total": 5
+  }
+}

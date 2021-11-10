@@ -1,0 +1,65 @@
+被测服务:
+请求:
+http://10.39.222.108:20064/services/open/ic/baseinfo/normal?keyword=3342737886
+参数：http://10.39.222.108:20064/services/open/ic/baseinfo/normal?keyword=3342737886
+
+
+找到的差异点是：
+
+
+被测接口调用结果:
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "actualCapital": "0",
+    "actualCapitalCurrency": "人民币",
+    "alias": "乾润建材",
+    "approvedTime": 1561305600000,
+    "base": "heb",
+    "bondName": null,
+    "bondNum": null,
+    "bondType": null,
+    "businessScope": "销售：建筑材料、管件、管材、塑胶制品、五金机电、电线电缆（依法须经批准的项目，经相关部门批准后方可开展经营活动）。",
+    "cancelDate": null,
+    "cancelReason": "",
+    "city": "保定市",
+    "companyOrgType": "有限责任公司(自然人投资或控股)",
+    "creditCode": "91130638MA0DPXAQ1L",
+    "district": "安新县",
+    "estiblishTime": 1561305600000,
+    "fromTime": 1561305600000,
+    "historyNameList": null,
+    "historyNames": null,
+    "id": 3342737886,
+    "industry": "零售业",
+    "industryAll": {
+      "category": "批发和零售业",
+      "categoryBig": "零售业",
+      "categoryMiddle": "货摊、无店铺及其他零售业",
+      "categorySmall": "其他未列明零售业"
+    },
+    "isMicroEnt": 1,
+    "legalPersonName": "高培",
+    "name": "雄县乾润建材销售有限公司",
+    "orgNumber": "MA0DPXAQ1",
+    "percentileScore": 5839,
+    "property3": "",
+    "regCapital": "100万人民币",
+    "regCapitalCurrency": "人民币",
+    "regInstitute": "雄县市场监督管理局",
+    "regLocation": "河北省雄安新区雄县昝岗镇东河岗村2组019号",
+    "regNumber": "130638000060517",
+    "regStatus": "存续",
+    "revokeDate": null,
+    "revokeReason": "",
+    "socialStaffNum": 0,
+    "staffNumRange": "-",
+    "tags": "存续;小微企业",
+    "taxNumber": "91130638MA0DPXAQ1L",
+    "toTime": 2192198400000,
+    "type": 1,
+    "updateTimes": 1629026113000,
+    "usedBondName": null
+  }
+}

@@ -1,0 +1,10 @@
+main:
+  HOST: rr-2ze0192gu4c05laot.mysql.rds.aliyuncs.com
+  USER: jindi
+  PASSWORD: jindichangsheng
+  DB: prism1
+company_change:
+  HOST: rr-2ze97dv7q6pua6zk8.mysql.rds.aliyuncs.com
+  USER: jindi
+  PASSWORD: J1ndiChange
+  DB: company_change

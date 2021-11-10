@@ -1,0 +1,53 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "alias": "百瑞翔",
+        "company_logo": "",
+        "company_name": "达孜县百瑞翔创业投资管理有限责任公司",
+        "estiblish_date": "2017-05-09",
+        "legalLogo": "",
+        "legal_person_id": 2245069626,
+        "legal_person_name": "陆原",
+        "legal_person_type": 1,
+        "reg_capital": "1181000万人民币"
+      },
+      {
+        "alias": "鼎鹿中原",
+        "company_logo": "https://img5.tianyancha.com/logo/lll/9bad218d61364fd0adac46ee1a8569c8.png@!f_200x200",
+        "company_name": "北京鼎鹿中原科技有限公司",
+        "estiblish_date": "2006-06-06",
+        "legalLogo": "https://imgh.tianyancha.com/logo/human/086164804ac49f1d8c8ba0a9179017f2_d200x200.png",
+        "legal_person_id": 1905070872,
+        "legal_person_name": "崔珊珊",
+        "legal_person_type": 1,
+        "reg_capital": "316000万人民币"
+      },
+      {
+        "alias": "百度时代",
+        "company_logo": "https://img5.tianyancha.com/logo/lll/5d2af6331c842f648d411c92dcc73f9f.png@!f_200x200",
+        "company_name": "百度时代网络技术（北京）有限公司",
+        "estiblish_date": "2006-04-19",
+        "legalLogo": "https://imgh.tianyancha.com/logo/human/d3375d70df132e5431994e0f6a996030_d200x200.png",
+        "legal_person_id": 2347280036,
+        "legal_person_name": "沈抖",
+        "legal_person_type": 1,
+        "reg_capital": "80万美元"
+      },
+      {
+        "alias": "百度网讯",
+        "company_logo": "https://img5.tianyancha.com/logo/lll/1dfcb74d2e5ecd07a0fb5bb45171983b.png@!f_200x200",
+        "company_name": "北京百度网讯科技有限公司",
+        "estiblish_date": "2001-06-05",
+        "legalLogo": "https://imgh.tianyancha.com/logo/human/6ff8167b5f997bfe7372b271e9d471c2_d200x200.png",
+        "legal_person_id": 2020172991,
+        "legal_person_name": "梁志祥",
+        "legal_person_type": 1,
+        "reg_capital": "1342128万人民币"
+      }
+    ],
+    "total": 4
+  }
+}

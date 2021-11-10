@@ -1,0 +1,88 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "actualController": {
+      "gId": 22822,
+      "hId": 1984012283,
+      "name": "李彦宏",
+      "type": 1
+    },
+    "pathMap": {
+      "p_0": {
+        "nodes": [
+          {
+            "id": "22822",
+            "labels": [
+              "Company"
+            ],
+            "properties": {
+              "gid": "22822",
+              "name": "北京百度网讯科技有限公司",
+              "type": 2
+            }
+          },
+          {
+            "id": "1984012283",
+            "labels": [
+              "Human"
+            ],
+            "properties": {
+              "gid": "",
+              "name": "李彦宏",
+              "type": 1
+            }
+          }
+        ],
+        "relationships": [
+          {
+            "endNode": "22822",
+            "properties": {
+              "isRed": 1,
+              "percent": "0.995"
+            },
+            "startNode": 1984012283,
+            "type": "INVEST"
+          }
+        ]
+      },
+      "p_1": {
+        "nodes": [
+          {
+            "id": 1984012283,
+            "labels": [
+              "Human"
+            ],
+            "properties": {
+              "cid": 22822,
+              "name": "李彦宏",
+              "type": 1
+            }
+          },
+          {
+            "id": 22822,
+            "labels": [
+              "Company"
+            ],
+            "properties": {
+              "cid": null,
+              "name": "北京百度网讯科技有限公司",
+              "type": 2
+            }
+          }
+        ],
+        "relationships": [
+          {
+            "endNode": "22822",
+            "properties": {
+              "percent": "0.995"
+            },
+            "startNode": 1984012283,
+            "type": "INVEST"
+          }
+        ]
+      }
+    },
+    "ratio": 0.995
+  }
+}

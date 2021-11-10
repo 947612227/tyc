@@ -1,0 +1,28 @@
+{
+  "data": {
+    "baseInfo": {
+      "administrativeDivision": "珠海市香洲区",
+      "annualReport": "未报送",
+      "businessId": "476dc7f34318f7ed5270c5157le443e1",
+      "companyId": 72623098,
+      "companyName": "珠海市优隆贸易有限公司",
+      "crCode": "4404164AYR",
+      "customsRegisteredAddress": "香洲海关",
+      "economicDivision": "经济特区",
+      "industryCategory": "五金、交电批发",
+      "managementCategory": "进出口货物收发货人",
+      "recordDate": "2015-12-22",
+      "specialTradeArea": "非特殊区域",
+      "status": "正常",
+      "types": "",
+      "validityDate": ""
+    },
+    "creditRating": [],
+    "sanction": []
+  },
+  "isLogin": 0,
+  "message": "",
+  "special": "",
+  "state": "ok",
+  "vipMessage": ""
+}

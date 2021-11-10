@@ -1,0 +1,229 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "graphId": 22822,
+        "hangye": "工具软件",
+        "logo": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202001/product5e0f15ef994fe929297274.png?x-oss-process=style%2Fhezuo_img&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1679580021&Signature=850JSE1hi9V3cnALprmCs%2FFPqpQ%3D",
+        "logoOssPath": "logo/product/d4165e3723f75dedc804bab1596f917a.png@!f_200x200",
+        "product": "百度手机助手",
+        "round": "IPO上市",
+        "setupDate": 991670400000,
+        "yewu": "Android应用商店"
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "graphId": 22822,
+        "hangye": "工具软件",
+        "logo": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202001/product5e1248160eacb599594701.png?x-oss-process=style%2Fhezuo_img&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1679580007&Signature=r1G257rZx5%2BWSvBhe74%2BvnWnYRo%3D",
+        "logoOssPath": "logo/product/cc7a4ae710c1160758aa9583266212e7.png@!f_200x200",
+        "product": "百度爱听",
+        "round": "IPO上市",
+        "setupDate": 991670400000,
+        "yewu": "听音应用APP"
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "graphId": 22822,
+        "hangye": "工具软件",
+        "logo": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202001/product5e0f1735a39c2380688967.png?x-oss-process=style%2Fhezuo_img&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1679580020&Signature=o23meUbsw7mA2mSRBkCis1KpwCk%3D",
+        "logoOssPath": "logo/product/4e5c5512ddf0f4a984d9af341e3957dc.png@!f_200x200",
+        "product": "百度脑图",
+        "round": "IPO上市",
+        "setupDate": 991670400000,
+        "yewu": "百度旗下脑图工具"
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "graphId": 22822,
+        "hangye": "社交社区",
+        "logo": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202001/product5e0f831a17aae205791532.png?x-oss-process=style%2Fhezuo_img&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1679580014&Signature=jLjDECHAWeGiwrMG9DZBEf%2BM3vc%3D",
+        "logoOssPath": "logo/product/b9726bd4b73568766a58ba884fd11419.png@!f_200x200",
+        "product": "百度派",
+        "round": "IPO上市",
+        "setupDate": 991670400000,
+        "yewu": "高质量话题讨论社区"
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "graphId": 22822,
+        "hangye": "企业服务",
+        "logo": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202001/product5e1100acbd60d688718796.png?x-oss-process=style%2Fhezuo_img&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1679580011&Signature=6MetvDGyQjaqTl8v5f3pj2kY6as%3D",
+        "logoOssPath": "logo/product/6dc44b034b85134b4e733e0cda8eafb2.png@!f_200x200",
+        "product": "百度营销大学",
+        "round": "IPO上市",
+        "setupDate": 991670400000,
+        "yewu": "网络营销服务商"
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "graphId": 22822,
+        "hangye": "工具软件",
+        "logo": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202001/product5e0f5666f1423010569361.png?x-oss-process=style%2Fhezuo_img&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1679580018&Signature=OwqAqnZDCU%2FcVApX910xBQWib8s%3D",
+        "logoOssPath": "logo/product/be337b08b5599b4726ddf2466f42196f.png@!f_200x200",
+        "product": "百度H5",
+        "round": "IPO上市",
+        "setupDate": 991670400000,
+        "yewu": "页面快速制作工具平台"
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "graphId": 22822,
+        "hangye": "区块链",
+        "logo": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202001/product5e1135ce2a079913271487.png?x-oss-process=style%2Fhezuo_img&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1679580010&Signature=IqaOcY0fi9smXFuvp1EbP7PEZNk%3D",
+        "logoOssPath": "logo/product/18b2bf7c9df51fb4e6c1fa13ca4e0171.png@!f_200x200",
+        "product": "莱茨狗",
+        "round": "IPO上市",
+        "setupDate": 991670400000,
+        "yewu": "区块链养宠物游戏"
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "graphId": 22822,
+        "hangye": "医疗健康",
+        "logo": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202001/product5e0f599395b1f959357352.png?x-oss-process=style%2Fhezuo_img&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1679580018&Signature=uLxQjigRG89Oi8UMoCoVnNXHRnA%3D",
+        "logoOssPath": "logo/product/7f74426c29b2042efc5c612bacaea329.png@!f_200x200",
+        "product": "百度医生",
+        "round": "IPO上市",
+        "setupDate": 991670400000,
+        "yewu": "预约挂号平台"
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "graphId": 22822,
+        "hangye": "医疗健康",
+        "logo": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202001/product5e0f7e1068058462954317.png?x-oss-process=style%2Fhezuo_img&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1679580015&Signature=%2FPdZwzHgs3ZeIa6K%2BGsID2bjZAA%3D",
+        "logoOssPath": "logo/product/a207a8bbb9d2bf910d5d1218cdb66dae.png@!f_200x200",
+        "product": "百度拇指医生",
+        "round": "IPO上市",
+        "setupDate": 991670400000,
+        "yewu": "百度旗下在线健康咨询产品"
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "graphId": 22822,
+        "hangye": "企业服务",
+        "logo": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/201809/product5b988054ec27b082885638.png?x-oss-process=style%2Fhezuo_img&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1679580022&Signature=7Iv9Y1YxD9f7CEYCVV%2F%2FCiL7qIo%3D",
+        "logoOssPath": "logo/product/7a36e48ae982588fe9d426e2bf560ade.png@!f_200x200",
+        "product": "Clouda+",
+        "round": "IPO上市",
+        "setupDate": 991670400000,
+        "yewu": "软件开发整体解决方案服务商"
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "graphId": 22822,
+        "hangye": "VR/AR",
+        "logo": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202001/product5e0f75d1b406e866462441.png?x-oss-process=style%2Fhezuo_img&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1679580016&Signature=dZbSXmsewKplhrNViS9ECtxPGx0%3D",
+        "logoOssPath": "logo/product/bd1aebf36f2eb373175df02a12584d6f.png@!f_200x200",
+        "product": "百度VR",
+        "round": "IPO上市",
+        "setupDate": 991670400000,
+        "yewu": "百度旗下VR社区"
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "graphId": 22822,
+        "hangye": "企业服务",
+        "logo": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202001/product5e0f0cbb3030f326060451.png?x-oss-process=style%2Fhezuo_img&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1679580022&Signature=cLhRrb62vmtyOc0YTj%2Ft74DPyZ0%3D",
+        "logoOssPath": "logo/product/ec862918476cdef2f3bd352fe382e98a.png@!f_200x200",
+        "product": "APIstore",
+        "round": "IPO上市",
+        "setupDate": 991670400000,
+        "yewu": "API交易服务平台"
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "graphId": 22822,
+        "hangye": "企业服务",
+        "logo": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/201902/product5c637cf6904fc035154109.png?x-oss-process=style%2Fhezuo_img&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1679580006&Signature=z9Vt6HoZm4kpMlFbIL1lbHFB0uE%3D",
+        "logoOssPath": "logo/product/596e57d398ce92aabf0468fc07b21345.png@!f_200x200",
+        "product": "百度DAP",
+        "round": "IPO上市",
+        "setupDate": 991670400000,
+        "yewu": "百度海外移动广告平台"
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "graphId": 22822,
+        "hangye": "硬件",
+        "logo": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202008/product5f3cad417abed876050208.png?x-oss-process=style%2Fhezuo_img&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1679580018&Signature=AsmZEn00W1HTwwIWO4WZrdQjkiY%3D",
+        "logoOssPath": "logo/product/c27d0bafbedfdb6290bc83e7c2618339.png@!f_200x200",
+        "product": "BaiduEye",
+        "round": "IPO上市",
+        "setupDate": 991670400000,
+        "yewu": "可穿戴设备研发商"
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "graphId": 22822,
+        "hangye": "大数据",
+        "logo": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202001/product5e10ef1ac0ba4516525054.png?x-oss-process=style%2Fhezuo_img&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1679580012&Signature=7h0KSBfcWNYOuIXWkgPVgR7iwi4%3D",
+        "logoOssPath": "logo/product/1f8cd51d0c2e649b6d22b28c91f1c7c5.png@!f_200x200",
+        "product": "百度数说",
+        "round": "IPO上市",
+        "setupDate": 991670400000,
+        "yewu": "大数据分析服务提供商"
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "graphId": 22822,
+        "hangye": "文娱传媒",
+        "logo": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202001/product5e11a4cfb2120792470823.png?x-oss-process=style%2Fhezuo_img&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1679580008&Signature=g6cbTPcnkmzQgMQuzaQANPnSKXo%3D",
+        "logoOssPath": "logo/product/85c723acddce7bc2be2c974f31689151.png@!f_200x200",
+        "product": "百度图腾",
+        "round": "IPO上市",
+        "setupDate": 991670400000,
+        "yewu": "图片服务平台"
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "graphId": 22822,
+        "hangye": "文娱传媒",
+        "logo": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202001/product5e10d00e1cdcd951949152.png?x-oss-process=style%2Fhezuo_img&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1679580012&Signature=FEBwNMfhxN3adX69Crrvxa4FLhs%3D",
+        "logoOssPath": "logo/product/0c47e547698a789eb492f4173c493c38.png@!f_200x200",
+        "product": "百度阅读",
+        "round": "IPO上市",
+        "setupDate": 991670400000,
+        "yewu": "网络文学阅读平台"
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "graphId": 22822,
+        "hangye": "企业服务",
+        "logo": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202001/product5e0f7af012cf2804912915.png?x-oss-process=style%2Fhezuo_img&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1679580016&Signature=u9mheMcHR3qcTUx59ZQMrYEVsmM%3D",
+        "logoOssPath": "logo/product/f17e5ba80a1f98c1ddf288975d3b5a5d.png@!f_200x200",
+        "product": "百度夜莺",
+        "round": "IPO上市",
+        "setupDate": 991670400000,
+        "yewu": "云客服"
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "graphId": 22822,
+        "hangye": "文娱传媒",
+        "logo": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202001/product5e0f4ee6c505b685855635.png?x-oss-process=style%2Fhezuo_img&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1679580019&Signature=XsPnuTVACO1l8j63pxM%2BcymEf0M%3D",
+        "logoOssPath": "logo/product/61fa0d92cb00c70b80148d60b4ae0692.png@!f_200x200",
+        "product": "百度百家",
+        "round": "IPO上市",
+        "setupDate": 991670400000,
+        "yewu": "百度旗下自媒体平台"
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "graphId": 22822,
+        "hangye": "硬件",
+        "logo": "https://qmp.oss-cn-beijing.aliyuncs.com/uploadImg/202001/product5e0f14e30b0b4633267134.png?x-oss-process=style%2Fhezuo_img&OSSAccessKeyId=LTAI2SRf7Sf1P5bU&Expires=1679580021&Signature=%2Ff6%2BRiXxuGAzk%2FArlLYLaqe%2BG4c%3D",
+        "logoOssPath": "logo/product/ad13b80c95fdc6ab849a9d539b4ba635.png@!f_200x200",
+        "product": "百度影棒",
+        "round": "IPO上市",
+        "setupDate": 991670400000,
+        "yewu": "电视盒子硬件开发"
+      }
+    ],
+    "total": 55
+  }
+}

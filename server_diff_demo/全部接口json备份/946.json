@@ -1,0 +1,181 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "pageBean": {
+      "result": [
+        {
+          "alias": "上古彩",
+          "amt": "2939.33",
+          "announcement_date": 1535558400000,
+          "dataSource": "年报",
+          "logo": "https://img5.tianyancha.com/logo/lll/657c870e4bb74fdbf8de1975f51b2c73.png@!f_200x200",
+          "ratio": "95.11%",
+          "relationship": "",
+          "supplier_graphId": 2311217444,
+          "supplier_name": "北京上古彩科技股份有限公司"
+        },
+        {
+          "alias": "上古彩",
+          "amt": "2726.81",
+          "announcement_date": 1524672000000,
+          "dataSource": "年报",
+          "logo": "https://img5.tianyancha.com/logo/lll/657c870e4bb74fdbf8de1975f51b2c73.png@!f_200x200",
+          "ratio": "75.71%",
+          "relationship": "非关联方",
+          "supplier_graphId": 2311217444,
+          "supplier_name": "北京上古彩科技股份有限公司"
+        },
+        {
+          "alias": "民福康",
+          "amt": "72.25",
+          "announcement_date": 1524672000000,
+          "dataSource": "年报",
+          "logo": "https://img5.tianyancha.com/logo/lll/904c861e5b530caacfc13c6e1242b6ac.png@!f_200x200",
+          "ratio": "5.19%",
+          "relationship": "非关联方",
+          "supplier_graphId": 3063296626,
+          "supplier_name": "江苏民福康科技股份有限公司"
+        },
+        {
+          "alias": "商中在线",
+          "amt": "3913.32",
+          "announcement_date": 1524672000000,
+          "dataSource": "年报",
+          "logo": "",
+          "ratio": "13.08%",
+          "relationship": "非关联方",
+          "supplier_graphId": 716690329,
+          "supplier_name": "厦门商中在线科技股份有限公司"
+        },
+        {
+          "alias": "中视文化",
+          "amt": "348.34",
+          "announcement_date": 1524672000000,
+          "dataSource": "年报",
+          "logo": "https://img5.tianyancha.com/logo/lll/6bf02c00bb56c480be3131c8b74de401.png@!f_200x200",
+          "ratio": "2.16%",
+          "relationship": "非关联方",
+          "supplier_graphId": 2311663799,
+          "supplier_name": "海南中视文化传播股份有限公司"
+        },
+        {
+          "alias": "华芯数据",
+          "amt": "66.40",
+          "announcement_date": 1524585600000,
+          "dataSource": "年报",
+          "logo": "https://img5.tianyancha.com/logo/lll/093bf9920c7979e385a79c72848ea115.png@!f_200x200",
+          "ratio": "70.41%",
+          "relationship": "非关联方",
+          "supplier_graphId": 3457934996,
+          "supplier_name": "北京普瑞塞特物联科技股份有限公司"
+        },
+        {
+          "alias": "华昕",
+          "amt": "185.08",
+          "announcement_date": 1524585600000,
+          "dataSource": "年报",
+          "logo": "https://img5.tianyancha.com/logo/lll/9e5b520d93f2218d8cb2c8248c4c590e.png@!f_200x200",
+          "ratio": "4.08%",
+          "relationship": "非关联方",
+          "supplier_graphId": 3198006459,
+          "supplier_name": "上海华昕文化传媒股份有限公司"
+        },
+        {
+          "alias": "宜搜天下",
+          "amt": "4597.44",
+          "announcement_date": 1524499200000,
+          "dataSource": "年报",
+          "logo": "https://img5.tianyancha.com/logo/lll/adacf4a43127711260ee439d2e4c702d.png@!f_200x200",
+          "ratio": "11.48%",
+          "relationship": "非关联方",
+          "supplier_graphId": 2359082398,
+          "supplier_name": "深圳宜搜天下科技股份有限公司"
+        },
+        {
+          "alias": "容易网",
+          "amt": "95.92",
+          "announcement_date": 1523808000000,
+          "dataSource": "年报",
+          "logo": "https://img5.tianyancha.com/logo/lll/3f31a06c130b1c9ecc5c0110d1a1a0c6.png@!f_200x200",
+          "ratio": "1.72%",
+          "relationship": "非关联方",
+          "supplier_graphId": 2318272018,
+          "supplier_name": "上海容易网电子商务股份有限公司"
+        },
+        {
+          "alias": "数据堂",
+          "amt": "427.62",
+          "announcement_date": 1522339200000,
+          "dataSource": "年报",
+          "logo": "https://img5.tianyancha.com/logo/lll/0e1b9d3bc3b8613cd05367833ed4ef98.png@!f_200x200",
+          "ratio": "6.74%",
+          "relationship": "非关联方",
+          "supplier_graphId": 24720418,
+          "supplier_name": "数据堂（北京）科技股份有限公司"
+        },
+        {
+          "alias": "众成慧农",
+          "amt": "271.99",
+          "announcement_date": 1522252800000,
+          "dataSource": "年报",
+          "logo": "https://img5.tianyancha.com/logo/lll/f75d92cf3d17d3289039bd666d7604ed.png@!f_200x200",
+          "ratio": "8.68%",
+          "relationship": "非关联方",
+          "supplier_graphId": 24688245,
+          "supplier_name": "北京信联众成技术股份公司"
+        },
+        {
+          "alias": "墨迹风云",
+          "amt": "2503.59",
+          "announcement_date": 1516723200000,
+          "dataSource": "年报",
+          "logo": "https://img5.tianyancha.com/logo/lll/fde1d9443f8d7efa8cafd92339078269.png@!f_200x200",
+          "ratio": "11.21%",
+          "relationship": "",
+          "supplier_graphId": 2353058204,
+          "supplier_name": "北京墨迹风云科技股份有限公司"
+        }
+      ],
+      "total": 12
+    },
+    "suppliesYear": [
+      {
+        "title": "全部年份",
+        "value": "-100"
+      },
+      {
+        "title": "2021(9)",
+        "value": "2021"
+      },
+      {
+        "title": "2020(14)",
+        "value": "2020"
+      },
+      {
+        "title": "2019(9)",
+        "value": "2019"
+      },
+      {
+        "title": "2018(12)",
+        "value": "2018"
+      },
+      {
+        "title": "2017(26)",
+        "value": "2017"
+      },
+      {
+        "title": "2016(42)",
+        "value": "2016"
+      },
+      {
+        "title": "2015(22)",
+        "value": "2015"
+      },
+      {
+        "title": "2014(10)",
+        "value": "2014"
+      }
+    ]
+  }
+}

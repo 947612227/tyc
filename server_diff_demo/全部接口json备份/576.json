@@ -1,0 +1,212 @@
+{
+  "data": {
+    "count": 88,
+    "items": [
+      {
+        "applyCompany": "中兴通讯股份有限公司",
+        "deviceName": "GSM数字移动电话机",
+        "deviceType": "ZTE V88",
+        "issueDate": 1462464000000,
+        "licenceNum": "02-6467-161603",
+        "licenceType": "进网许可证",
+        "productCompany": "中兴通讯股份有限公司",
+        "toDate": 1557072000000
+      },
+      {
+        "applyCompany": "中兴通讯股份有限公司",
+        "deviceName": "GSM数字移动电话机",
+        "deviceType": "L628",
+        "issueDate": 1462464000000,
+        "licenceNum": "02-6467-161602",
+        "licenceType": "进网许可证",
+        "productCompany": "中兴通讯股份有限公司",
+        "toDate": 1557072000000
+      },
+      {
+        "applyCompany": "中兴通讯股份有限公司",
+        "deviceName": "TD-LTE数字移动电话机",
+        "deviceType": "ZTE A2017",
+        "issueDate": 1461168000000,
+        "licenceNum": "02-6467-161402",
+        "licenceType": "进网许可证",
+        "productCompany": "中兴通讯股份有限公司",
+        "toDate": 1555776000000
+      },
+      {
+        "applyCompany": "中兴通讯股份有限公司",
+        "deviceName": "GSM数字移动电话机",
+        "deviceType": "ZTE L880",
+        "issueDate": 1461168000000,
+        "licenceNum": "02-6467-161404",
+        "licenceType": "进网许可证",
+        "productCompany": "中兴通讯股份有限公司",
+        "toDate": 1555776000000
+      },
+      {
+        "applyCompany": "中兴通讯股份有限公司",
+        "deviceName": "以太网交换机",
+        "deviceType": "ZXR10 5250-28TC-H",
+        "issueDate": 1461081600000,
+        "licenceNum": "12-6467-161354",
+        "licenceType": "进网许可证",
+        "productCompany": "中兴通讯股份有限公司",
+        "toDate": 1555689600000
+      },
+      {
+        "applyCompany": "中兴通讯股份有限公司",
+        "deviceName": "以太网交换机",
+        "deviceType": "ZXR10 5228E-C",
+        "issueDate": 1461081600000,
+        "licenceNum": "12-6467-161357",
+        "licenceType": "进网许可证",
+        "productCompany": "中兴通讯股份有限公司",
+        "toDate": 1555689600000
+      },
+      {
+        "applyCompany": "中兴通讯股份有限公司",
+        "deviceName": "三层交换机",
+        "deviceType": "ZXR10 5950-52TD-L",
+        "issueDate": 1461081600000,
+        "licenceNum": "12-6467-161355",
+        "licenceType": "进网许可证",
+        "productCompany": "中兴通讯股份有限公司",
+        "toDate": 1555689600000
+      },
+      {
+        "applyCompany": "中兴通讯股份有限公司",
+        "deviceName": "TD-LTE数字移动电话机",
+        "deviceType": "ZTE BA910T",
+        "issueDate": 1459440000000,
+        "licenceNum": "02-6467-161120",
+        "licenceType": "进网许可证",
+        "productCompany": "中兴通讯股份有限公司",
+        "toDate": 1554048000000
+      },
+      {
+        "applyCompany": "中兴通讯股份有限公司",
+        "deviceName": "三层交换机",
+        "deviceType": "ZXR10 5960-28TM",
+        "issueDate": 1456934400000,
+        "licenceNum": "12-6467-160763",
+        "licenceType": "进网许可证",
+        "productCompany": "中兴通讯股份有限公司",
+        "toDate": 1551542400000
+      },
+      {
+        "applyCompany": "中兴通讯股份有限公司",
+        "deviceName": "三层交换机",
+        "deviceType": "ZXR10 5960-32DL-L",
+        "issueDate": 1456934400000,
+        "licenceNum": "12-6467-160764",
+        "licenceType": "进网许可证",
+        "productCompany": "中兴通讯股份有限公司",
+        "toDate": 1551542400000
+      },
+      {
+        "applyCompany": "中兴通讯股份有限公司",
+        "deviceName": "TD-LTE移动通信基站",
+        "deviceType": "ZXSDR B8300 TL/R8984 M192026L",
+        "issueDate": 1451232000000,
+        "licenceNum": "17-6467-154907",
+        "licenceType": "进网许可证",
+        "productCompany": "中兴通讯股份有限公司",
+        "toDate": 1545926400000
+      },
+      {
+        "applyCompany": "中兴通讯股份有限公司",
+        "deviceName": "以太网交换机",
+        "deviceType": "ZXR10 5212E-C",
+        "issueDate": 1450800000000,
+        "licenceNum": "12-6467-154854",
+        "licenceType": "进网许可证",
+        "productCompany": "中兴通讯股份有限公司",
+        "toDate": 1545494400000
+      },
+      {
+        "applyCompany": "中兴通讯股份有限公司",
+        "deviceName": "以太网交换机",
+        "deviceType": "ZXR10 5252E-PC",
+        "issueDate": 1450800000000,
+        "licenceNum": "12-6467-154855",
+        "licenceType": "进网许可证",
+        "productCompany": "中兴通讯股份有限公司",
+        "toDate": 1545494400000
+      },
+      {
+        "applyCompany": "中兴通讯股份有限公司",
+        "deviceName": "以太网交换机",
+        "deviceType": "ZXR10 5228E-PC",
+        "issueDate": 1450800000000,
+        "licenceNum": "12-6467-154856",
+        "licenceType": "进网许可证",
+        "productCompany": "中兴通讯股份有限公司",
+        "toDate": 1545494400000
+      },
+      {
+        "applyCompany": "中兴通讯股份有限公司",
+        "deviceName": "以太网交换机",
+        "deviceType": "ZXR10 5228E-FI",
+        "issueDate": 1450800000000,
+        "licenceNum": "12-6467-154857",
+        "licenceType": "进网许可证",
+        "productCompany": "中兴通讯股份有限公司",
+        "toDate": 1545494400000
+      },
+      {
+        "applyCompany": "中兴通讯股份有限公司",
+        "deviceName": "以太网交换机",
+        "deviceType": "ZXR10 5228E",
+        "issueDate": 1450800000000,
+        "licenceNum": "12-6467-154858",
+        "licenceType": "进网许可证",
+        "productCompany": "中兴通讯股份有限公司",
+        "toDate": 1545494400000
+      },
+      {
+        "applyCompany": "中兴通讯股份有限公司",
+        "deviceName": "以太网交换机",
+        "deviceType": "ZXR10 5212E-PC",
+        "issueDate": 1450800000000,
+        "licenceNum": "12-6467-154859",
+        "licenceType": "进网许可证",
+        "productCompany": "中兴通讯股份有限公司",
+        "toDate": 1545494400000
+      },
+      {
+        "applyCompany": "中兴通讯股份有限公司",
+        "deviceName": "SDH数字微波通信设备",
+        "deviceType": "ZXMW NR8120",
+        "issueDate": 1450800000000,
+        "licenceNum": "29-6467-154888",
+        "licenceType": "进网许可证",
+        "productCompany": "中兴通讯股份有限公司",
+        "toDate": 1545494400000
+      },
+      {
+        "applyCompany": "中兴通讯股份有限公司",
+        "deviceName": "EPC分组数据网网关（P-GW）",
+        "deviceType": "ZXUN xGW",
+        "issueDate": 1450800000000,
+        "licenceNum": "17-6467-154852",
+        "licenceType": "进网许可证",
+        "productCompany": "中兴通讯股份有限公司",
+        "toDate": 1545494400000
+      },
+      {
+        "applyCompany": "中兴通讯股份有限公司",
+        "deviceName": "EPC服务网关（S-GW）",
+        "deviceType": "ZXUN xGW",
+        "issueDate": 1450800000000,
+        "licenceNum": "17-6467-154863",
+        "licenceType": "进网许可证",
+        "productCompany": "中兴通讯股份有限公司",
+        "toDate": 1545494400000
+      }
+    ]
+  },
+  "isLogin": 0,
+  "message": "",
+  "special": "",
+  "state": "ok",
+  "vipMessage": ""
+}

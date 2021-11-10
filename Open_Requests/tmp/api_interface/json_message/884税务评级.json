@@ -1,0 +1,81 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "evalDepartment": "国家税务总局",
+        "grade": "A",
+        "idNumber": "420101615401409",
+        "name": "武汉铁路局",
+        "type": "国税",
+        "year": "2019"
+      },
+      {
+        "evalDepartment": "国家税务总局",
+        "grade": "A",
+        "idNumber": "914200006154014090",
+        "name": "中国铁路武汉局集团有限公司",
+        "type": "国税",
+        "year": "2019"
+      },
+      {
+        "evalDepartment": "国家税务总局",
+        "grade": "A",
+        "idNumber": "914200006154014090",
+        "name": "中国铁路武汉局集团有限公司",
+        "type": "国税",
+        "year": "2018"
+      },
+      {
+        "evalDepartment": "国家税务总局",
+        "grade": "A",
+        "idNumber": "420101615401409",
+        "name": "武汉铁路局",
+        "type": "国税",
+        "year": "2018"
+      },
+      {
+        "evalDepartment": "国家税务总局",
+        "grade": "A",
+        "idNumber": "914200006154014090",
+        "name": "武汉铁路局",
+        "type": "国税",
+        "year": "2017"
+      },
+      {
+        "evalDepartment": "国家税务总局",
+        "grade": "A",
+        "idNumber": "914200006154014090",
+        "name": "中国铁路武汉局集团有限公司",
+        "type": "国税",
+        "year": "2017"
+      },
+      {
+        "evalDepartment": "国家税务总局",
+        "grade": "A",
+        "idNumber": "420821615401409",
+        "name": "武汉铁路局",
+        "type": "国税",
+        "year": "2016"
+      },
+      {
+        "evalDepartment": "国家税务总局",
+        "grade": "A",
+        "idNumber": "420106615401409",
+        "name": "武汉铁路局",
+        "type": "国税",
+        "year": "2015"
+      },
+      {
+        "evalDepartment": "国家税务总局",
+        "grade": "A",
+        "idNumber": "420106615401409",
+        "name": "武汉铁路局",
+        "type": "国税",
+        "year": "2014"
+      }
+    ],
+    "total": 9
+  }
+}

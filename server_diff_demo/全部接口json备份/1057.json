@@ -1,0 +1,132 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "holderList": [
+      {
+        "LegalPersonName": "赵承",
+        "alias": "紫藤苑",
+        "base": "北京",
+        "category": "商务服务业",
+        "cid": 2350736124,
+        "estiblishTime": 1449504000000,
+        "logo": "",
+        "name": "紫藤苑文化产业投资管理有限公司",
+        "regCapital": "5000万人民币",
+        "regStatus": "注销"
+      }
+    ],
+    "legalList": [
+      {
+        "LegalPersonName": "陆原",
+        "alias": "百瑞翔",
+        "base": "西藏",
+        "category": "商务服务业",
+        "cid": 3046112687,
+        "estiblishTime": 1494259200000,
+        "logo": "",
+        "name": "达孜县百瑞翔创业投资管理有限责任公司",
+        "regCapital": "1181000万人民币",
+        "regStatus": "存续"
+      }
+    ],
+    "officeList": [
+      {
+        "LegalPersonName": "陆原",
+        "alias": "百瑞翔",
+        "base": "西藏",
+        "category": "商务服务业",
+        "cid": 3046112687,
+        "estiblishTime": 1494259200000,
+        "logo": "",
+        "name": "达孜县百瑞翔创业投资管理有限责任公司",
+        "regCapital": "1181000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "LegalPersonName": "崔珊珊",
+        "alias": "百度云",
+        "base": "北京",
+        "category": "软件和信息技术服务业",
+        "cid": 26249457,
+        "estiblishTime": 1325692800000,
+        "logo": "https://img5.tianyancha.com/logo/lll/52cfc47a73ceb0374204c11321f6485d.png@!f_200x200",
+        "name": "百度云计算技术（北京）有限公司",
+        "regCapital": "10000万美元",
+        "regStatus": "存续"
+      },
+      {
+        "LegalPersonName": "崔珊珊",
+        "alias": "百度国际",
+        "base": "广东",
+        "category": "软件和信息技术服务业",
+        "cid": 1398726953,
+        "estiblishTime": 1290441600000,
+        "logo": "https://img5.tianyancha.com/logo/lll/9af55f15cfda5c8eed1fe0ff5818f95d.png@!f_200x200",
+        "name": "百度国际科技（深圳）有限公司",
+        "regCapital": "2000万美元",
+        "regStatus": "存续"
+      },
+      {
+        "LegalPersonName": "贾栋",
+        "alias": "佰兴投资",
+        "base": "浙江",
+        "category": "商务服务业",
+        "cid": 3092687032,
+        "estiblishTime": 1503504000000,
+        "logo": "",
+        "name": "宁波梅山保税港区佰兴投资管理有限公司",
+        "regCapital": "10000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "LegalPersonName": "赵承",
+        "alias": "紫藤苑",
+        "base": "北京",
+        "category": "商务服务业",
+        "cid": 2350736124,
+        "estiblishTime": 1449504000000,
+        "logo": "",
+        "name": "紫藤苑文化产业投资管理有限公司",
+        "regCapital": "5000万人民币",
+        "regStatus": "注销"
+      },
+      {
+        "LegalPersonName": "高雪",
+        "alias": "百度投资",
+        "base": "北京",
+        "category": "商务服务业",
+        "cid": 3047175221,
+        "estiblishTime": 1458230400000,
+        "logo": "https://img5.tianyancha.com/logo/lll/ef435c66d8d4fa7f7b0c1a29dfb3d09d.png@!f_200x200",
+        "name": "北京百度投资管理有限公司",
+        "regCapital": "1000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "LegalPersonName": "王路",
+        "alias": "百度公益",
+        "base": "北京",
+        "category": "",
+        "cid": 3079056799,
+        "estiblishTime": 1294329600000,
+        "logo": "",
+        "name": "北京百度公益基金会",
+        "regCapital": "2000万人民币",
+        "regStatus": "正常"
+      },
+      {
+        "LegalPersonName": "耿源",
+        "alias": "爱佑慈善",
+        "base": "国家",
+        "category": "",
+        "cid": 3007003367,
+        "estiblishTime": 1210003200000,
+        "logo": "https://img5.tianyancha.com/logo/lll/d88f684cc80818f551aa78dca11bf893.png@!f_200x200",
+        "name": "爱佑慈善基金会",
+        "regCapital": "2000万人民币",
+        "regStatus": "在业"
+      }
+    ]
+  }
+}

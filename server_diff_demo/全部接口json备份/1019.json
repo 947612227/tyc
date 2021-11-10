@@ -1,0 +1,199 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "businessId": "7vec3d64e2fafb9ee6219e1ebl39eb04",
+        "graphId": 3329072553,
+        "lastAmount": 50550000,
+        "latestCount": 18.0,
+        "shareHolder": "张国桉",
+        "shareHolderId": 1923219688,
+        "shareHolderType": 0,
+        "updateTimeEastmoney": 1626969600000
+      },
+      {
+        "businessId": "7vme37f7525474ee7f919212bld6mff4",
+        "graphId": 3329072553,
+        "lastAmount": null,
+        "latestCount": 1.0,
+        "shareHolder": "唐虓",
+        "shareHolderId": 1863154060,
+        "shareHolderType": 0,
+        "updateTimeEastmoney": 1460390400000
+      },
+      {
+        "businessId": "7vev593bd9e6fa53e7613010elcdefe4",
+        "graphId": 3329072553,
+        "lastAmount": null,
+        "latestCount": 1.0,
+        "shareHolder": "罗敏生",
+        "shareHolderId": 2112962534,
+        "shareHolderType": 0,
+        "updateTimeEastmoney": 1460390400000
+      },
+      {
+        "businessId": "7vzm6f07e7416fc4af19d8186l5bz0e4",
+        "graphId": 3329072553,
+        "lastAmount": null,
+        "latestCount": 1.0,
+        "shareHolder": "肖远旭",
+        "shareHolderId": 2975306420,
+        "shareHolderType": 0,
+        "updateTimeEastmoney": 1460390400000
+      },
+      {
+        "businessId": "7vmza8b4f38bec2cb05b5111bl95m5f4",
+        "graphId": 3329072553,
+        "lastAmount": null,
+        "latestCount": 2.0,
+        "shareHolder": "胡川",
+        "shareHolderId": 2125700257,
+        "shareHolderType": 0,
+        "updateTimeEastmoney": 1460390400000
+      },
+      {
+        "businessId": "7veo7d890a211f6fd3d9ea1afle4eca4",
+        "graphId": 3329072553,
+        "lastAmount": null,
+        "latestCount": 1.0,
+        "shareHolder": "范福泉",
+        "shareHolderId": 2140444434,
+        "shareHolderType": 0,
+        "updateTimeEastmoney": 1460390400000
+      },
+      {
+        "businessId": "7veze16e9bce88c530c51f1f8l07e6d4",
+        "graphId": 3329072553,
+        "lastAmount": null,
+        "latestCount": 1.0,
+        "shareHolder": "邓韶峰",
+        "shareHolderId": 2348099983,
+        "shareHolderType": 0,
+        "updateTimeEastmoney": 1460390400000
+      },
+      {
+        "businessId": "7v9vc731b27e4f948ea48f1f1l7f9804",
+        "graphId": 3329072553,
+        "lastAmount": null,
+        "latestCount": 1.0,
+        "shareHolder": "郑英平",
+        "shareHolderId": 2219609164,
+        "shareHolderType": 0,
+        "updateTimeEastmoney": 1460390400000
+      },
+      {
+        "businessId": "7v99e743105fd94b91b486165l0d9954",
+        "graphId": 3329072553,
+        "lastAmount": null,
+        "latestCount": 1.0,
+        "shareHolder": "陈进华",
+        "shareHolderId": 2258843191,
+        "shareHolderType": 0,
+        "updateTimeEastmoney": 1460390400000
+      },
+      {
+        "businessId": "7vz1fbbe00cfa6290352ec1cel4az424",
+        "graphId": 3329072553,
+        "lastAmount": null,
+        "latestCount": 1.0,
+        "shareHolder": "秦和顺",
+        "shareHolderId": 2096454810,
+        "shareHolderType": 0,
+        "updateTimeEastmoney": 1460390400000
+      },
+      {
+        "businessId": "7v9729dc32ac12562db0da1adlee9fa4",
+        "graphId": 3329072553,
+        "lastAmount": null,
+        "latestCount": 1.0,
+        "shareHolder": "王道敏",
+        "shareHolderId": 2078256362,
+        "shareHolderType": 0,
+        "updateTimeEastmoney": 1460390400000
+      },
+      {
+        "businessId": "7vmmf47773a89c8bd7b5a717flecma64",
+        "graphId": 3329072553,
+        "lastAmount": null,
+        "latestCount": 1.0,
+        "shareHolder": "王敏",
+        "shareHolderId": 2071382779,
+        "shareHolderType": 0,
+        "updateTimeEastmoney": 1460390400000
+      },
+      {
+        "businessId": "7vmcdbd9376a2321985407171l96ma64",
+        "graphId": 3329072553,
+        "lastAmount": null,
+        "latestCount": 1.0,
+        "shareHolder": "王凤学",
+        "shareHolderId": 2066575977,
+        "shareHolderType": 0,
+        "updateTimeEastmoney": 1460390400000
+      },
+      {
+        "businessId": "7vm7a2b7882d6643766d0010el33mfa4",
+        "graphId": 3329072553,
+        "lastAmount": null,
+        "latestCount": 1.0,
+        "shareHolder": "熊润花",
+        "shareHolderId": 2060434244,
+        "shareHolderType": 0,
+        "updateTimeEastmoney": 1460390400000
+      },
+      {
+        "businessId": "7v9o91d1f95492e69e191e1e2lfb94d4",
+        "graphId": 3329072553,
+        "lastAmount": null,
+        "latestCount": 1.0,
+        "shareHolder": "毛民",
+        "shareHolderId": 2034756521,
+        "shareHolderType": 0,
+        "updateTimeEastmoney": 1460390400000
+      },
+      {
+        "businessId": "7vee05b2e6c26e2f29f120107lc7e254",
+        "graphId": 3329072553,
+        "lastAmount": null,
+        "latestCount": 1.0,
+        "shareHolder": "李宁",
+        "shareHolderId": 1982544768,
+        "shareHolderType": 0,
+        "updateTimeEastmoney": 1460390400000
+      },
+      {
+        "businessId": "7vzvee5e21464e003149b4140l31z004",
+        "graphId": 3329072553,
+        "lastAmount": null,
+        "latestCount": 1.0,
+        "shareHolder": "张晓龙",
+        "shareHolderId": 1927247261,
+        "shareHolderType": 0,
+        "updateTimeEastmoney": 1460390400000
+      },
+      {
+        "businessId": "7ve1a2d7ad1152cdec733d1d9l1be534",
+        "graphId": 3329072553,
+        "lastAmount": null,
+        "latestCount": 1.0,
+        "shareHolder": "张健",
+        "shareHolderId": 1921356997,
+        "shareHolderType": 0,
+        "updateTimeEastmoney": 1460390400000
+      },
+      {
+        "businessId": "7v9m1833acec3e67aea020104l149354",
+        "graphId": 3329072553,
+        "lastAmount": null,
+        "latestCount": 3.0,
+        "shareHolder": "陈钧",
+        "shareHolderId": 2259264068,
+        "shareHolderType": 0,
+        "updateTimeEastmoney": 1460390400000
+      }
+    ],
+    "total": 19
+  }
+}

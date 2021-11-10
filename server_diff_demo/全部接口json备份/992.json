@@ -1,0 +1,27 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "e_graph_id": null,
+        "e_name": "任南聿",
+        "position": "合规风控、信息填报负责人",
+        "qualification": "是（通过考试）"
+      },
+      {
+        "e_graph_id": 1826936300,
+        "e_name": "卢新理",
+        "position": "董事长",
+        "qualification": "否"
+      },
+      {
+        "e_graph_id": 2239458204,
+        "e_name": "闵兰钧",
+        "position": "法定代表人、总经理",
+        "qualification": "是（通过考试）"
+      }
+    ],
+    "total": 3
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "alias": "一点网聚",
+        "endDate": "",
+        "gid": 43743335,
+        "logo": "https://img5.tianyancha.com/logo/lll/a980e4c1e3489946299dd2da64f9c27a.png@!f_200x200",
+        "name": "北京一点网聚科技有限公司",
+        "startDate": "2013-09-16",
+        "taxpayerIdentificationNumber": "91110108076573665B",
+        "taxpayerQualificationType": "一般纳税人"
+      }
+    ],
+    "total": 1
+  }
+}

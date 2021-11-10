@@ -1,0 +1,14 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "city": "贵阳市",
+    "district": "南明区",
+    "graphId": 11684584,
+    "latitude": 26.5489153063178,
+    "longitude": 106.782785058114,
+    "name": "中航重机股份有限公司",
+    "province": "贵州省",
+    "regLocation": "贵州双龙航空港经济区机场路9号太升国际A栋3单元5层"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "investAmount": "349996.5万人民币",
+        "investorMemberId": 23289175,
+        "investorMemberName": "百度在线网络技术（北京）有限公司",
+        "proportion": "50%",
+        "type": 1
+      },
+      {
+        "investAmount": "349996.5万人民币",
+        "investorMemberId": 857566788,
+        "investorMemberName": "百度（中国）有限公司",
+        "proportion": "50%",
+        "type": 1
+      },
+      {
+        "investAmount": "7万人民币",
+        "investorMemberId": 2366968962,
+        "investorMemberName": "北京千百糯科技有限公司",
+        "proportion": "0.001%",
+        "type": 1
+      }
+    ],
+    "total": 3
+  }
+}

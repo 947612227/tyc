@@ -1,0 +1,229 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "audiType": "核准",
+        "dataUpdateTime": "1537804800000",
+        "decisionDate": "1537200000000",
+        "department": "沈阳市森林病虫害防治检疫站",
+        "legalPersonName": "闫桂芹",
+        "licenceContent": "调运检疫",
+        "licenceNumber": "2142661",
+        "localCode": "210111",
+        "validityTime": ""
+      },
+      {
+        "audiType": "核准",
+        "dataUpdateTime": "1537804800000",
+        "decisionDate": "1537200000000",
+        "department": "沈阳市森林病虫害防治检疫站",
+        "legalPersonName": "闫桂芹",
+        "licenceContent": "调运检疫",
+        "licenceNumber": "2142664",
+        "localCode": "210111",
+        "validityTime": ""
+      },
+      {
+        "audiType": "核准",
+        "dataUpdateTime": "1537804800000",
+        "decisionDate": "1537200000000",
+        "department": "沈阳市森林病虫害防治检疫站",
+        "legalPersonName": "闫桂芹",
+        "licenceContent": "调运检疫",
+        "licenceNumber": "2142667",
+        "localCode": "210111",
+        "validityTime": ""
+      },
+      {
+        "audiType": "核准",
+        "dataUpdateTime": "1537804800000",
+        "decisionDate": "1536854400000",
+        "department": "沈阳市森林病虫害防治检疫站",
+        "legalPersonName": "闫桂芹",
+        "licenceContent": "调运检疫",
+        "licenceNumber": "2142594",
+        "localCode": "210111",
+        "validityTime": ""
+      },
+      {
+        "audiType": "核准",
+        "dataUpdateTime": "1537804800000",
+        "decisionDate": "1536854400000",
+        "department": "沈阳市森林病虫害防治检疫站",
+        "legalPersonName": "闫桂芹",
+        "licenceContent": "调运检疫",
+        "licenceNumber": "2142577",
+        "localCode": "210111",
+        "validityTime": ""
+      },
+      {
+        "audiType": "核准",
+        "dataUpdateTime": "1537804800000",
+        "decisionDate": "1536854400000",
+        "department": "沈阳市森林病虫害防治检疫站",
+        "legalPersonName": "闫桂芹",
+        "licenceContent": "调运检疫",
+        "licenceNumber": "2142603",
+        "localCode": "210111",
+        "validityTime": ""
+      },
+      {
+        "audiType": "核准",
+        "dataUpdateTime": "1537804800000",
+        "decisionDate": "1536854400000",
+        "department": "沈阳市森林病虫害防治检疫站",
+        "legalPersonName": "闫桂芹",
+        "licenceContent": "调运检疫",
+        "licenceNumber": "2142604",
+        "localCode": "210111",
+        "validityTime": ""
+      },
+      {
+        "audiType": "核准",
+        "dataUpdateTime": "1533484800000",
+        "decisionDate": "1532620800000",
+        "department": "沈阳市森林病虫害防治检疫站",
+        "legalPersonName": "闫桂芹",
+        "licenceContent": "调运检疫",
+        "licenceNumber": "2153939",
+        "localCode": "210111",
+        "validityTime": ""
+      },
+      {
+        "audiType": "核准",
+        "dataUpdateTime": "1533484800000",
+        "decisionDate": "1532620800000",
+        "department": "沈阳市森林病虫害防治检疫站",
+        "legalPersonName": "闫桂芹",
+        "licenceContent": "调运检疫",
+        "licenceNumber": "2153940",
+        "localCode": "210111",
+        "validityTime": ""
+      },
+      {
+        "audiType": "核准",
+        "dataUpdateTime": "1532966400000",
+        "decisionDate": "1532448000000",
+        "department": "沈阳市森林病虫害防治检疫站",
+        "legalPersonName": "闫桂芹",
+        "licenceContent": "调运检疫",
+        "licenceNumber": "2153979",
+        "localCode": "210111",
+        "validityTime": ""
+      },
+      {
+        "audiType": "普通",
+        "dataUpdateTime": "",
+        "decisionDate": "1472918400000",
+        "department": "沈阳市林业局",
+        "legalPersonName": "",
+        "licenceContent": "森林植物检疫",
+        "licenceNumber": "324",
+        "localCode": "210113",
+        "validityTime": ""
+      },
+      {
+        "audiType": "普通",
+        "dataUpdateTime": "",
+        "decisionDate": "1472659200000",
+        "department": "沈阳市林业局",
+        "legalPersonName": "",
+        "licenceContent": "森林植物检疫",
+        "licenceNumber": "323",
+        "localCode": "",
+        "validityTime": ""
+      },
+      {
+        "audiType": "普通",
+        "dataUpdateTime": "",
+        "decisionDate": "1472659200000",
+        "department": "沈阳市林业局",
+        "legalPersonName": "",
+        "licenceContent": "森林植物检疫",
+        "licenceNumber": "311",
+        "localCode": "210113",
+        "validityTime": ""
+      },
+      {
+        "audiType": "普通",
+        "dataUpdateTime": "1494950400000",
+        "decisionDate": "1472486400000",
+        "department": "沈阳市林业局",
+        "legalPersonName": "",
+        "licenceContent": "森林植物检疫",
+        "licenceNumber": "29",
+        "localCode": "210113",
+        "validityTime": ""
+      },
+      {
+        "audiType": "普通",
+        "dataUpdateTime": "",
+        "decisionDate": "1472400000000",
+        "department": "沈阳市林业局",
+        "legalPersonName": "",
+        "licenceContent": "森林植物检疫",
+        "licenceNumber": "56",
+        "localCode": "210113",
+        "validityTime": ""
+      },
+      {
+        "audiType": "普通",
+        "dataUpdateTime": "",
+        "decisionDate": "1472054400000",
+        "department": "沈阳市林业局",
+        "legalPersonName": "",
+        "licenceContent": "森林植物检疫",
+        "licenceNumber": "51",
+        "localCode": "210113",
+        "validityTime": ""
+      },
+      {
+        "audiType": "普通",
+        "dataUpdateTime": "",
+        "decisionDate": "1472054400000",
+        "department": "沈阳市林业局",
+        "legalPersonName": "",
+        "licenceContent": "森林植物检疫",
+        "licenceNumber": "316",
+        "localCode": "210113",
+        "validityTime": ""
+      },
+      {
+        "audiType": "普通",
+        "dataUpdateTime": "",
+        "decisionDate": "1471881600000",
+        "department": "沈阳市林业局",
+        "legalPersonName": "",
+        "licenceContent": "森林植物检疫",
+        "licenceNumber": "50",
+        "localCode": "210113",
+        "validityTime": ""
+      },
+      {
+        "audiType": "普通",
+        "dataUpdateTime": "",
+        "decisionDate": "1471881600000",
+        "department": "沈阳市林业局",
+        "legalPersonName": "",
+        "licenceContent": "森林植物检疫",
+        "licenceNumber": "315",
+        "localCode": "",
+        "validityTime": ""
+      },
+      {
+        "audiType": "普通",
+        "dataUpdateTime": "",
+        "decisionDate": "1471795200000",
+        "department": "沈阳市林业局",
+        "legalPersonName": "",
+        "licenceContent": "森林植物检疫",
+        "licenceNumber": "25",
+        "localCode": "210113",
+        "validityTime": ""
+      }
+    ],
+    "total": 251
+  }
+}

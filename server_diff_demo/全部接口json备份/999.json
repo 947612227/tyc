@@ -1,0 +1,15 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "announcement_title": "广发证券股份有限公司关于刊发H股招股说明书、H股发行价格区间及H股香港公开发售等相关事宜的公告",
+        "ossUrl": "http://stock.tianyancha.com/an/4806886ef220b358464c828955d012c6.pdf",
+        "pdfUrl": "https://pilu.tianyancha.com/announcement/4806886ef220b358464c828955d012c6",
+        "stock_name": "广发证券"
+      }
+    ],
+    "total": 1
+  }
+}

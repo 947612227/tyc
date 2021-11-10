@@ -1,0 +1,21 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "businessId": "1o118ef2424dfb670e699b1b0l671c24",
+    "cloPos": 0.0,
+    "code": "002235",
+    "graphId": 7996092,
+    "lastAmount": 26500000,
+    "lastValue": 0.0,
+    "latestCount": 1,
+    "pledgeIns": "华创证券有限责任公司",
+    "proOfAll": "4.50%",
+    "remark": "2019.11.13公告\r\n杨超质押股份给华创证券有限责任公司,于2019年11月13日解除4,325,000股质押,剩余4,750,000股未解押",
+    "shareHolder": "杨超",
+    "shareHolderId": 2004954064,
+    "shareHolderType": 0,
+    "updateTimeEastmoney": 1573660800000,
+    "warnPos": 0.0
+  }
+}

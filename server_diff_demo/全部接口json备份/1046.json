@@ -1,0 +1,28 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "allCalls": [
+      {
+        "phoneNumber": "010-59928888",
+        "source": "2020年报",
+        "tag": "固定电话或非大陆号码"
+      },
+      {
+        "phoneNumber": "010-56798989",
+        "source": "2014年报",
+        "tag": "固定电话或非大陆号码"
+      },
+      {
+        "phoneNumber": "010-62750929",
+        "source": "其他来源",
+        "tag": "固定电话或非大陆号码"
+      }
+    ],
+    "email": "",
+    "id": 22822,
+    "phoneNumber": "010-59928888",
+    "regLocation": "北京市海淀区上地十街10号百度大厦2层",
+    "websiteList": "www.baidu.com"
+  }
+}

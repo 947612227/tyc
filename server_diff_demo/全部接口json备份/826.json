@@ -1,0 +1,93 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "date": null,
+        "investorName": "公开发行",
+        "money": "239.40亿港元",
+        "newsTitle": "百度集团今起正式在港上市",
+        "newsUrl": "http://www.xinhuanet.com/2021-03/23/c_1127245948.htm",
+        "pubTime": 1616428800000,
+        "round": "IPO上市",
+        "share": "",
+        "value": ""
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "date": null,
+        "investorName": "KPCB凯鹏华盈中国",
+        "money": "未披露",
+        "newsTitle": "",
+        "newsUrl": "",
+        "pubTime": 1262275200000,
+        "round": "战略融资",
+        "share": "",
+        "value": ""
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "date": null,
+        "investorName": "公开发行",
+        "money": "19亿美元",
+        "newsTitle": "",
+        "newsUrl": "",
+        "pubTime": 1123171200000,
+        "round": "IPO上市",
+        "share": "",
+        "value": ""
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "date": null,
+        "investorName": "高瓴资本",
+        "money": "未披露",
+        "newsTitle": "",
+        "newsUrl": "",
+        "pubTime": 1101830400000,
+        "round": "C轮",
+        "share": "",
+        "value": ""
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "date": null,
+        "investorName": "Google，IDG资本",
+        "money": "1亿美元",
+        "newsTitle": "",
+        "newsUrl": "",
+        "pubTime": 1086019200000,
+        "round": "B轮",
+        "share": "",
+        "value": ""
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "date": null,
+        "investorName": "Peninsula Ventures，IDG资本，DFJ德丰杰中国基金",
+        "money": "1000万美元",
+        "newsTitle": "",
+        "newsUrl": "",
+        "pubTime": 1007136000000,
+        "round": "A轮",
+        "share": "",
+        "value": ""
+      },
+      {
+        "companyName": "北京百度网讯科技有限公司",
+        "date": null,
+        "investorName": "未披露",
+        "money": "120万美元",
+        "newsTitle": "",
+        "newsUrl": "",
+        "pubTime": 991324800000,
+        "round": "天使轮",
+        "share": "",
+        "value": ""
+      }
+    ],
+    "total": 7
+  }
+}

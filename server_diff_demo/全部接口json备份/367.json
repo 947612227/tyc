@@ -1,0 +1,45 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "id": 1984012283,
+        "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+        "name": "李彦宏",
+        "score": 108,
+        "toco": 16,
+        "type": 2,
+        "typeJoin": [
+          "执行董事"
+        ],
+        "typeSore": "执行董事"
+      },
+      {
+        "id": 2020172991,
+        "logo": "https://imgh.tianyancha.com/logo/human/6ff8167b5f997bfe7372b271e9d471c2_d200x200.png",
+        "name": "梁志祥",
+        "score": 104,
+        "toco": 36,
+        "type": 2,
+        "typeJoin": [
+          "经理"
+        ],
+        "typeSore": "经理"
+      },
+      {
+        "id": 1905070872,
+        "logo": "https://imgh.tianyancha.com/logo/human/086164804ac49f1d8c8ba0a9179017f2_d200x200.png",
+        "name": "崔珊珊",
+        "score": 100,
+        "toco": 17,
+        "type": 2,
+        "typeJoin": [
+          "监事"
+        ],
+        "typeSore": "监事"
+      }
+    ],
+    "total": 3
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "areaname": "浙江",
+        "businessentity": "",
+        "cardnum": "1426231973****081X",
+        "casecode": "(2021)浙02执22号",
+        "courtname": "宁波市中级人民法院",
+        "disrupttypename": "违反财产报告制度",
+        "duty": "支付补偿款及利息89876934.43元",
+        "gistid": "(2019)浙02民初873号",
+        "gistunit": "宁波市中级人民法院",
+        "iname": "贾跃亭",
+        "performance": "全部未履行",
+        "performedPart": "暂无",
+        "publishdate": 1615132800000,
+        "regdate": 1609776000000,
+        "staff": [],
+        "type": "0",
+        "unperformPart": "暂无"
+      },
+      {
+        "areaname": "北京",
+        "businessentity": "",
+        "cardnum": "1426231973****081X",
+        "casecode": "(2020)京03执恢88号",
+        "courtname": "北京市第三中级人民法院",
+        "disrupttypename": "违反财产报告制度",
+        "duty": "支付股权认购价款本金十亿元及相应投资收益",
+        "gistid": "2019中国贸仲京裁字第0394号",
+        "gistunit": "中国国际经济贸易仲裁委员会",
+        "iname": "贾跃亭",
+        "performance": "全部未履行",
+        "performedPart": "暂无",
+        "publishdate": 1599148800000,
+        "regdate": 1587312000000,
+        "staff": [
+          {
+            "code": "1427331973****007X",
+            "name": "吴孟",
+            "role": "法定代表人"
+          }
+        ],
+        "type": "0",
+        "unperformPart": "暂无"
+      },
+      {
+        "areaname": "北京",
+        "businessentity": "",
+        "cardnum": "1426231973****081X",
+        "casecode": "(2019)京03执781号",
+        "courtname": "北京市第三中级人民法院",
+        "disrupttypename": "违反财产报告制度",
+        "duty": "支付十亿元及相应投资收益、违约金",
+        "gistid": "2019中国贸仲京裁字第0394号",
+        "gistunit": "中国国际经济贸易仲裁委员会",
+        "iname": "贾跃亭",
+        "performance": "全部未履行",
+        "performedPart": "暂无",
+        "publishdate": 1575820800000,
+        "regdate": 1560441600000,
+        "staff": [],
+        "type": "0",
+        "unperformPart": "暂无"
+      },
+      {
+        "areaname": "北京",
+        "businessentity": "",
+        "cardnum": "1426231973****081X",
+        "casecode": "(2019)京03执631号",
+        "courtname": "北京市第三中级人民法院",
+        "disrupttypename": "违反财产报告制度",
+        "duty": "被执行人未履行生效法律文书确定的义务",
+        "gistid": "(2019)京执42号",
+        "gistunit": "北京市高级人民法院",
+        "iname": "贾跃亭",
+        "performance": "全部未履行",
+        "performedPart": "暂无",
+        "publishdate": 1572796800000,
+        "regdate": 1557676800000,
+        "staff": [],
+        "type": "0",
+        "unperformPart": "暂无"
+      },
+      {
+        "areaname": "湖北",
+        "businessentity": "",
+        "cardnum": "1426231973****081X",
+        "casecode": "(2019)鄂96执53号",
+        "courtname": "湖北省汉江中级人民法院",
+        "disrupttypename": "有履行能力而拒不履行生效法律文书确定义务",
+        "duty": "一、贾跃亭于本判决生效之日起十五日内向长江证券（上海）资产管理有限公司支付借款本金500000000元及利息（自2017年3月21日至2017年6月25日，按年利率5.8%计算）；\n二、贾跃亭于本判决生效之日起十五日内向长江证券（上海）资产管理有限公司支付违约金（违约金的计算方式为以529000000元为基数，以万分之五为标准，自2017年6月26日起计算至实际清偿之日止）；",
+        "gistid": "(2017)鄂民初39号",
+        "gistunit": "湖北省高级人民法院",
+        "iname": "贾跃亭",
+        "performance": "全部未履行",
+        "performedPart": "暂无",
+        "publishdate": 1563465600000,
+        "regdate": 1551801600000,
+        "staff": [],
+        "type": "0",
+        "unperformPart": "暂无"
+      }
+    ],
+    "total": 5
+  }
+}

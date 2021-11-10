@@ -1,0 +1,187 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "actualCapital": "-",
+    "actualCapitalCurrency": "人民币",
+    "alias": "中航重机",
+    "approvedTime": 1582646400000,
+    "base": "gz",
+    "businessScope": "法律、法规、国务院决定规定禁止的不得经营；法律、法规、国务院决定规定应当许可（审批）的，经审批机关批准后凭许可（审批）文件经营;法律、法规、国务院决定规定无需许可（审批）的，市场主体自主选择经营。（股权投资及经营管理；军民共用液压件、液压系统、锻件、铸件、换热器、飞机及航空发动机附件，汽车零备件的研制、开发、制造、修理及销售；经营本企业自产机电产品、成套设备及相关技术的出口业务；经营本企业生产、科研所需的原辅材料、机械设备、仪器仪表、备品备件、零配件及技术的进口业务；开展本企业进料加工和“三来一补”业务。液压、锻件、铸件、换热器技术开发、转让和咨询服务；物流；机械冷热加工、修理修配服务。）",
+    "categoryScore": 9330,
+    "companyId": 252354,
+    "companyOrgType": "其他股份有限公司(上市)",
+    "companyType": 0,
+    "correctCompanyId": "",
+    "creditCode": "91520000214434146R",
+    "email": "zhzj@avic.com",
+    "estiblishTime": 847900800000,
+    "flag": 1,
+    "fromTime": 847900800000,
+    "id": 11684584,
+    "industry": "汽车制造业",
+    "isMicroEnt": 0,
+    "legalPersonId": 1875401345,
+    "legalPersonName": "姬苏春",
+    "name": "中航重机股份有限公司",
+    "orgApprovedInstitute": "",
+    "orgNumber": "214434146",
+    "percentileScore": 9696,
+    "phoneNumber": "0851-88600765",
+    "property3": "AVIC Heavy Machinery Co.,Ltd.",
+    "property4": "",
+    "regCapital": "77800.32万人民币",
+    "regCapitalCurrency": "人民币",
+    "regInstitute": "贵阳市市场监督管理局贵州双龙航空港经济区分局",
+    "regLocation": "贵州双龙航空港经济区机场路9号太升国际A栋3单元5层",
+    "regNumber": "520000000005018",
+    "regStatus": "存续",
+    "socialStaffNum": 8884,
+    "sourceFlag": "",
+    "staffList": {
+      "result": [
+        {
+          "id": 1875401345,
+          "logo": null,
+          "name": "姬苏春",
+          "score": 18,
+          "toco": 9,
+          "type": 2,
+          "typeJoin": [
+            "董事长"
+          ],
+          "typeSore": "董事长"
+        },
+        {
+          "id": 1799186709,
+          "logo": null,
+          "name": "冉兴",
+          "score": 12,
+          "toco": 5,
+          "type": 2,
+          "typeJoin": [
+            "董事兼总经理"
+          ],
+          "typeSore": "董事兼总经理"
+        },
+        {
+          "id": 2353584340,
+          "logo": null,
+          "name": "李平",
+          "score": 8,
+          "toco": 108,
+          "type": 2,
+          "typeJoin": [
+            "董事"
+          ],
+          "typeSore": "董事"
+        },
+        {
+          "id": 1806838230,
+          "logo": null,
+          "name": "刘亮",
+          "score": 8,
+          "toco": 10,
+          "type": 2,
+          "typeJoin": [
+            "董事"
+          ],
+          "typeSore": "董事"
+        },
+        {
+          "id": 1965623814,
+          "logo": null,
+          "name": "曹斌",
+          "score": 8,
+          "toco": 2,
+          "type": 2,
+          "typeJoin": [
+            "董事"
+          ],
+          "typeSore": "董事"
+        },
+        {
+          "id": 2208836664,
+          "logo": null,
+          "name": "邱洪生",
+          "score": 8,
+          "toco": 34,
+          "type": 2,
+          "typeJoin": [
+            "董事"
+          ],
+          "typeSore": "董事"
+        },
+        {
+          "id": 1931469029,
+          "logo": null,
+          "name": "张育松",
+          "score": 8,
+          "toco": 12,
+          "type": 2,
+          "typeJoin": [
+            "董事"
+          ],
+          "typeSore": "董事"
+        },
+        {
+          "id": 1882028867,
+          "logo": null,
+          "name": "孙继兵",
+          "score": 8,
+          "toco": 8,
+          "type": 2,
+          "typeJoin": [
+            "董事"
+          ],
+          "typeSore": "董事"
+        },
+        {
+          "id": 1767582012,
+          "logo": null,
+          "name": "于革刚",
+          "score": 8,
+          "toco": 2,
+          "type": 2,
+          "typeJoin": [
+            "董事"
+          ],
+          "typeSore": "董事"
+        },
+        {
+          "id": 1905833345,
+          "logo": null,
+          "name": "崔龙",
+          "score": 0,
+          "toco": 20,
+          "type": 2,
+          "typeJoin": [
+            "监事"
+          ],
+          "typeSore": "监事"
+        },
+        {
+          "id": 2086236247,
+          "logo": null,
+          "name": "白传军",
+          "score": 0,
+          "toco": 13,
+          "type": 2,
+          "typeJoin": [
+            "监事"
+          ],
+          "typeSore": "监事"
+        }
+      ],
+      "total": 11
+    },
+    "staffNumRange": "5000-9999人",
+    "taxNumber": "91520000214434146R",
+    "taxQualification": null,
+    "toTime": null,
+    "type": 1,
+    "updateTimes": 1627986299000,
+    "updatetime": 1627986299457,
+    "websiteList": "www.hm.avic.com"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "assDetail": {
+      "equityAmount": "8.5494",
+      "executeNoticeNum": "无",
+      "executedPerson": "王少林",
+      "executedPersonCid": 837081876,
+      "executedPersonHid": 2069474542,
+      "executedPersonType": "2",
+      "executiveCourt": "深圳市福田区人民法院",
+      "id": 16181023,
+      "stockExecutedCid": 837081876,
+      "stockExecutedCompany": "南昌亨得利股份有限公司",
+      "typeState": "已解冻"
+    },
+    "frozen": {
+      "equityAmountOther": "8.55万人民币",
+      "executeNoticeNum": "",
+      "executeOrderNum": "无",
+      "executedPerson": "王少林",
+      "executedPersonCid": 837081876,
+      "executedPersonHid": 2069474542,
+      "executedPersonType": "2",
+      "executiveCourt": "深圳市福田区人民法院",
+      "fromDate": 1294588800000,
+      "implementationMatters": "",
+      "licenseNum": "*****",
+      "licenseType": "企业法人营业执照(公司)",
+      "period": "730天",
+      "toDate": 1357660800000
+    },
+    "invalidationFrozen": {},
+    "keepFrozen": {},
+    "removeFrozen": {},
+    "shareholderChange": {}
+  }
+}

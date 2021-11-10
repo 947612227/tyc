@@ -1,0 +1,25 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "endDate": "2016-04-25",
+    "evaluateAmount": "3092.5374",
+    "landAministrativeArea": "湖南省怀化市通道侗族自治县",
+    "landMark": "",
+    "landNum": "2013-020",
+    "land_area": "6.9809",
+    "land_loc": "双江镇城东汽车总站对面",
+    "mortgageAmount": "2000.0000",
+    "mortgageApplicationNameClean": "通道侗族自治县农村信用合作联社、靖州苗族侗族自治县农村信用合作联社、湖南会同农村商业银行股份有限公司",
+    "mortgageArea": "6.9809",
+    "mortgagePersonClean": [
+      "[邵阳市东风房地产开发有限责任公司]"
+    ],
+    "mortgageToUser": "商服用地",
+    "nature": "企业",
+    "otherItemApplicationNameNum": "2013-020",
+    "startDate": "2013-04-25",
+    "useRightNum": "2012-00028",
+    "userType": "国有出让"
+  }
+}

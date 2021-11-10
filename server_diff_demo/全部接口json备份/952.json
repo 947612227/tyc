@@ -1,0 +1,23 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "aministrativeArea": "431230000",
+    "area": "0.0019",
+    "level": "一级",
+    "location": "双江镇转兵中路锦绣新城",
+    "mark": "",
+    "merchandise_price": "25.32",
+    "merchandise_time": "2018-12-07",
+    "merchandise_type": "买卖",
+    "num": "2018-1287",
+    "situation": "已利用",
+    "use_type": "国有出让",
+    "useful": "其他普通商品住房用地",
+    "user_change_now_clean": "杨兴文、肖映宏",
+    "user_change_pre_clean": [
+      "邵阳市东风房地产开发有限责任公司"
+    ],
+    "years_of_use": "70"
+  }
+}

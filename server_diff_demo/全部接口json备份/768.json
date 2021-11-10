@@ -1,0 +1,229 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "businessId": "111o9cec74b1031c5c2b0919fl719228",
+        "caseCode": "(2021)京01执863号",
+        "caseCreateTime": 1625587200000,
+        "cid": 22822,
+        "execCourtName": "北京市第一中级人民法院",
+        "execMoney": "2064432",
+        "id": 55547060,
+        "partyCardNum": "802100433",
+        "pname": "北京百度网讯科技有限公司"
+      },
+      {
+        "businessId": "14mv19ce30468ed6a8da8818el151b48",
+        "caseCode": "(2021)京0108执7726号",
+        "caseCreateTime": 1617638400000,
+        "cid": 22822,
+        "execCourtName": "北京市海淀区人民法院",
+        "execMoney": "7379",
+        "id": 51825706,
+        "partyCardNum": "802100433",
+        "pname": "北京百度网讯科技有限公司"
+      },
+      {
+        "businessId": "oovv47oza79a821b86f3a717ble44468",
+        "caseCode": "(2020)渝0192执4979号",
+        "caseCreateTime": 1598284800000,
+        "cid": 22822,
+        "execCourtName": "重庆自由贸易试验区人民法院",
+        "execMoney": "350000",
+        "id": 44221349,
+        "partyCardNum": "91110000802****433B",
+        "pname": "北京百度网讯科技有限公司"
+      },
+      {
+        "businessId": "oovv47om14e25dd9f2bcfb1b6ldb4228",
+        "caseCode": "(2020)渝0192执4980号",
+        "caseCreateTime": 1598284800000,
+        "cid": 22822,
+        "execCourtName": "重庆自由贸易试验区人民法院",
+        "execMoney": "350000",
+        "id": 44221348,
+        "partyCardNum": "91110000802****433B",
+        "pname": "北京百度网讯科技有限公司"
+      },
+      {
+        "businessId": "o4mmzeme0972e228179cd4143l49zfb8",
+        "caseCode": "(2020)京0108执9076号",
+        "caseCreateTime": 1593619200000,
+        "cid": 22822,
+        "execCourtName": "北京市海淀区人民法院",
+        "execMoney": "0",
+        "id": 41889686,
+        "partyCardNum": "80210043-3",
+        "pname": "北京百度网讯科技有限公司"
+      },
+      {
+        "businessId": "v11v9vom8506fac89d2dba1a1l169898",
+        "caseCode": "(2019)京0108执15191号",
+        "caseCreateTime": 1563811200000,
+        "cid": 22822,
+        "execCourtName": "北京市海淀区人民法院",
+        "execMoney": "0",
+        "id": 25527248,
+        "partyCardNum": "80210043-3",
+        "pname": "北京百度网讯科技有限公司"
+      },
+      {
+        "businessId": "vc4omeoe8413c6513a8b7e1e0l41m908",
+        "caseCode": "(2019)京0102执8612号",
+        "caseCreateTime": 1554652800000,
+        "cid": 22822,
+        "execCourtName": "北京市西城区人民法院",
+        "execMoney": "22000",
+        "id": 20148646,
+        "partyCardNum": "80210043-3",
+        "pname": "北京百度网讯科技有限公司"
+      },
+      {
+        "businessId": "4zzmccecbb80073a03bb4a1adl35c6b8",
+        "caseCode": "(2019)苏02执72号",
+        "caseCreateTime": 1551801600000,
+        "cid": 22822,
+        "execCourtName": "无锡市中级人民法院",
+        "execMoney": "236800",
+        "id": 19980060,
+        "partyCardNum": "91110000802****433B",
+        "pname": "北京百度网讯科技有限公司"
+      },
+      {
+        "businessId": "4z7z977obfaa04fbed921d1d2l719d48",
+        "caseCode": "(2019)冀02执224号",
+        "caseCreateTime": 1546531200000,
+        "cid": 22822,
+        "execCourtName": "唐山市中级人民法院",
+        "execMoney": "6755",
+        "id": 19397334,
+        "partyCardNum": "91110000802****433B",
+        "pname": "北京百度网讯科技有限公司"
+      },
+      {
+        "businessId": "4mzze11v479e0e8aa66e5919bl02e928",
+        "caseCode": "(2018)京0108执17525号",
+        "caseCreateTime": 1542643200000,
+        "cid": 22822,
+        "execCourtName": "北京市海淀区人民法院",
+        "execMoney": "600000",
+        "id": 18996552,
+        "partyCardNum": "80210043-3",
+        "pname": "北京百度网讯科技有限公司"
+      },
+      {
+        "businessId": "4mzze114749d24307b4b5b1b9lccef28",
+        "caseCode": "(2018)京0108执17526号",
+        "caseCreateTime": 1542643200000,
+        "cid": 22822,
+        "execCourtName": "北京市海淀区人民法院",
+        "execMoney": "450000",
+        "id": 18996551,
+        "partyCardNum": "80210043-3",
+        "pname": "北京百度网讯科技有限公司"
+      },
+      {
+        "businessId": "499e1moo9bb025268c951a1a0l721588",
+        "caseCode": "(2018)粤0106执22542号",
+        "caseCreateTime": 1534780800000,
+        "cid": 22822,
+        "execCourtName": "广州市天河区人民法院",
+        "execMoney": "30500",
+        "id": 17765844,
+        "partyCardNum": "91110000802****433B",
+        "pname": "北京百度网讯科技有限公司"
+      },
+      {
+        "businessId": "9vv9zez2cd34304f35584b1b6lf194b7",
+        "caseCode": "(2018)京0108执11494号",
+        "caseCreateTime": 1531065600000,
+        "cid": 22822,
+        "execCourtName": "北京市海淀区人民法院",
+        "execMoney": "25000",
+        "id": 7227969,
+        "partyCardNum": "80210043-3",
+        "pname": "北京百度网讯科技有限公司"
+      },
+      {
+        "businessId": "9vv9z9o8de60f8c0260c1f1f9lc899a7",
+        "caseCode": "(2018)京0108执11492号",
+        "caseCreateTime": 1531065600000,
+        "cid": 22822,
+        "execCourtName": "北京市海淀区人民法院",
+        "execMoney": "25000",
+        "id": 7227974,
+        "partyCardNum": "80210043-3",
+        "pname": "北京百度网讯科技有限公司"
+      },
+      {
+        "businessId": "9vv9z9e45387082b26688e1e5l6898d7",
+        "caseCode": "(2018)京0108执11506号",
+        "caseCreateTime": 1531065600000,
+        "cid": 22822,
+        "execCourtName": "北京市海淀区人民法院",
+        "execMoney": "25000",
+        "id": 7227976,
+        "partyCardNum": "80210043-3",
+        "pname": "北京百度网讯科技有限公司"
+      },
+      {
+        "businessId": "9vv9z99734361d64cd0b0d1d2l5d9157",
+        "caseCode": "(2018)京0108执11500号",
+        "caseCreateTime": 1531065600000,
+        "cid": 22822,
+        "execCourtName": "北京市海淀区人民法院",
+        "execMoney": "25000",
+        "id": 7227977,
+        "partyCardNum": "80210043-3",
+        "pname": "北京百度网讯科技有限公司"
+      },
+      {
+        "businessId": "9vv9z9z6eff87602bd9c4a1a8lca9ee7",
+        "caseCode": "(2018)京0108执11495号",
+        "caseCreateTime": 1531065600000,
+        "cid": 22822,
+        "execCourtName": "北京市海淀区人民法院",
+        "execMoney": "25000",
+        "id": 7227979,
+        "partyCardNum": "80210043-3",
+        "pname": "北京百度网讯科技有限公司"
+      },
+      {
+        "businessId": "9vv9zmvf8e243f101cd50f1felae90b7",
+        "caseCode": "(2018)京0108执11491号",
+        "caseCreateTime": 1531065600000,
+        "cid": 22822,
+        "execCourtName": "北京市海淀区人民法院",
+        "execMoney": "25000",
+        "id": 7227982,
+        "partyCardNum": "80210043-3",
+        "pname": "北京百度网讯科技有限公司"
+      },
+      {
+        "businessId": "9vv9zm194b9a43cbe116ef1fbl929427",
+        "caseCode": "(2018)京0108执11487号",
+        "caseCreateTime": 1531065600000,
+        "cid": 22822,
+        "execCourtName": "北京市海淀区人民法院",
+        "execMoney": "25000",
+        "id": 7227985,
+        "partyCardNum": "80210043-3",
+        "pname": "北京百度网讯科技有限公司"
+      },
+      {
+        "businessId": "9vv9zeefb9c86837810009194l6f96b7",
+        "caseCode": "(2018)京0108执11498号",
+        "caseCreateTime": 1531065600000,
+        "cid": 22822,
+        "execCourtName": "北京市海淀区人民法院",
+        "execMoney": "25000",
+        "id": 7227966,
+        "partyCardNum": "80210043-3",
+        "pname": "北京百度网讯科技有限公司"
+      }
+    ],
+    "total": 61
+  }
+}

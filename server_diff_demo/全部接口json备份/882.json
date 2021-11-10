@@ -1,0 +1,189 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "brief": "一局是一款年轻人都爱玩的社交轰趴APP，多种组局方式，多人在线连麦，玩在一起，乐在一起，相互陪伴，你我都是好朋友！",
+        "classes": "社交,娱乐",
+        "filterName": "一局-狼人游轮杀和边画边猜",
+        "icon": "https://img5.tianyancha.com/appbk/icon/ae7e976e2325308ced4d92429eb1cbbf.png@!watermark01",
+        "name": "一局-狼人游轮杀和边画边猜",
+        "type": "应用",
+        "uuid": "791a3462530349fdb9aca474633b0401"
+      },
+      {
+        "brief": "亚瑟浏览器、懂你浏览器",
+        "classes": "工具,新闻",
+        "filterName": "亚瑟浏览器",
+        "icon": "https://img5.tianyancha.com/appbk/icon/69e7fc6bb1a1480ce77068c9be406c29.png@!watermark01",
+        "name": "亚瑟浏览器",
+        "type": "应用",
+        "uuid": "0a8e99c60e934773846c25618958730e"
+      },
+      {
+        "brief": "《我的重生》是一款美术风格精美的数值类文字游戏，玩家将以第一人称视角在一个架空的历史中重生，快速体验人生中最美好的20年。\r",
+        "classes": "",
+        "filterName": "我的重生-宫廷恋爱养成手游",
+        "icon": "https://img5.tianyancha.com/appbk/icon/0a0a3306589747191ede873c6beaa38c.png@!watermark01",
+        "name": "我的重生-宫廷恋爱养成手游",
+        "type": "游戏",
+        "uuid": "3efef30a932047b7988bbb5afffa286e"
+      },
+      {
+        "brief": "工书是杭州甲乙丙网络科技有限公司推出的一款专注于建筑行业的SaaS云平台产品，旨在通过大数据、云计算、移动智能终端及AI等信息技术，为建筑施工单位打造精细化、集中化、移动化的便捷管理服务。",
+        "classes": "工具",
+        "filterName": "工书",
+        "icon": "https://img5.tianyancha.com/appbk/icon/281ab41a6b3cb808353e67f730b03ac8.png@!watermark01",
+        "name": "工书",
+        "type": "应用",
+        "uuid": "deb0137019714d95870f5f6f54418a87"
+      },
+      {
+        "brief": "1.支持导入本地视频\n2.支持WIFI传输视频\n3.支持文件夹分类\n4.支持文件夹权限设置\n5.保护您的视频隐私",
+        "classes": "工具",
+        "filterName": "隐私播放器-本地视频管理工具",
+        "icon": "https://img5.tianyancha.com/appbk/icon/436ea421b93e811ad0c9dbd15b24babf.png@!watermark01",
+        "name": "隐私播放器-本地视频管理工具",
+        "type": "应用",
+        "uuid": "3f6c5fe8fbc94c479b45cc6da2870928"
+      },
+      {
+        "brief": "【海量小说，尽情阅读】",
+        "classes": "图书,娱乐",
+        "filterName": "漫小说阅读器-畅享阅读时光",
+        "icon": "https://img5.tianyancha.com/appbk/icon/a300f8a9d7c2ca4423801d50f6428e70.png@!watermark01",
+        "name": "漫小说阅读器-畅享阅读时光",
+        "type": "应用",
+        "uuid": "547a2d7e35994b4aa0c9a42d01e5b418"
+      },
+      {
+        "brief": "蝶讯开单助手是一款iPAD开单软件，功能主要包含:",
+        "classes": "商务",
+        "filterName": "蝶讯开单助手",
+        "icon": "https://img5.tianyancha.com/appbk/icon/627acb248bd3c8715eee11d2b2983e50.png@!watermark01",
+        "name": "蝶讯开单助手",
+        "type": "应用",
+        "uuid": "20b5c2ae793f411597ea612a1ac7ae9f"
+      },
+      {
+        "brief": "小移政企APP，为支撑政企业务扩展，满足地市分公司和集团客户对政企智慧中台、客户资料、商机管理以及综合运维等管理提供便利。",
+        "classes": "工具",
+        "filterName": "小移政企",
+        "icon": "https://img5.tianyancha.com/appbk/icon/7a620b9416676fbe368deb6943e7d379.png@!watermark01",
+        "name": "小移政企",
+        "type": "应用",
+        "uuid": "2dbe60b0aec14baba6836fd4d0f7522d"
+      },
+      {
+        "brief": "全民小视频，有趣有收获。你想要的小视频，这里应有尽有。",
+        "classes": "摄影与录像,娱乐",
+        "filterName": "全民小视频-有趣有收获",
+        "icon": "https://img5.tianyancha.com/appbk/icon/2ebb60090d714e019f67c7e6bd0da7d8.png@!watermark01",
+        "name": "全民小视频-有趣有收获",
+        "type": "应用",
+        "uuid": "9393af16651d41fe872a1a06ee970c09"
+      },
+      {
+        "brief": "达达租车o2o租车服务平台 为您推荐附近闲置车辆 选择心仪的车辆 一键下单开启租车之旅",
+        "classes": "生活",
+        "filterName": "达达租车 - 在线租车",
+        "icon": "https://img5.tianyancha.com/appbk/icon/410d629bf4c5730b6bbab0bcbfbd411d.png@!watermark01",
+        "name": "达达租车 - 在线租车",
+        "type": "应用",
+        "uuid": "1d81ef9f835f4ef1946f58d80915b8b1"
+      },
+      {
+        "brief": "【纪念日日历功能】",
+        "classes": "工具",
+        "filterName": "纪念日日历-万年历黄历查询工具",
+        "icon": "https://img5.tianyancha.com/appbk/icon/0ad0d70841aa649773d4b64f2123dd34.png@!watermark01",
+        "name": "纪念日日历-万年历黄历查询工具",
+        "type": "应用",
+        "uuid": "2adeedde6aa64e04998cd2808ca86cc6"
+      },
+      {
+        "brief": "百度网盘是一款省心、好用的超级云存储产品，已为超过7亿用户提供云服务，空间超大，支持多类型文件的备份、分享、查看和处理，自建多个数据存储中心，更有两项国际顶尖安全认证ISO27001＆ISO27018为用户数据安全提供护航，如果你想备份文件数据，释放手机空间，给别人分享文件或是对文件进行在线操作，选百度网盘就对了！\r",
+        "classes": "效率",
+        "filterName": "百度网盘",
+        "icon": "https://img5.tianyancha.com/百度网盘@!watermark01",
+        "name": "百度网盘",
+        "type": "应用",
+        "uuid": "01dae713f12b4622b157ab6b87b1131e"
+      },
+      {
+        "brief": "冰淇淋壁纸是一款纯净无广告的壁纸App，支持手机壁纸和表盘壁纸。",
+        "classes": "摄影与录像,工具",
+        "filterName": "冰淇淋壁纸-手机壁纸&表盘壁纸",
+        "icon": "https://img5.tianyancha.com/appbk/icon/0626bf0335119d600116c341abd7012d.png@!watermark01",
+        "name": "冰淇淋壁纸-手机壁纸&表盘壁纸",
+        "type": "应用",
+        "uuid": "f966abc25b88461b9bdf740629e15026"
+      },
+      {
+        "brief": "小亮智乒APP是北京小亮科技有限公司开发的一款乒乓球体育赛事类应用软件，实现线上管理编排赛事，集合了实时查看比分、一键编排、一键录入、一键抽签、俱乐部管理、一键报名等多个强大功能，是目前唯一的一款线上的乒乓球赛事平台。",
+        "classes": "工具",
+        "filterName": "智能乒裁",
+        "icon": "https://img5.tianyancha.com/appbk/icon/091140852386485a71474d71ab2f66a0.png@!watermark01",
+        "name": "智能乒裁",
+        "type": "应用",
+        "uuid": "95320c35ad174258b761242c629b685d"
+      },
+      {
+        "brief": "功能：",
+        "classes": "工具,导航",
+        "filterName": "飞天地图",
+        "icon": "https://img5.tianyancha.com/appbk/icon/27cd12514bedaf6491e40442406ab15d.png@!watermark01",
+        "name": "飞天地图",
+        "type": "应用",
+        "uuid": "4bf960faf0d04529a4d7435a494442bf"
+      },
+      {
+        "brief": "如流，最简单的聊天工具 ",
+        "classes": "社交",
+        "filterName": "百度hi",
+        "icon": "https://img5.tianyancha.com/如流：新一代智能工作平台@!watermark01",
+        "name": "如流：新一代智能工作平台",
+        "type": "应用",
+        "uuid": "4e12f1f394e14ca6957a6b5a38160372"
+      },
+      {
+        "brief": "惠买联盟--综合性导购领券返利App，专注淘宝、天猫、京东、拼多多、唯品会省钱/赚钱的高佣联盟\r",
+        "classes": "购物",
+        "filterName": "惠买联盟-领淘宝贝优惠券的返利网app",
+        "icon": "https://img5.tianyancha.com/appbk/icon/7fe74d5078c984cc416550c8078beeae.png@!watermark01",
+        "name": "惠买联盟-领淘宝贝优惠券的返利网app",
+        "type": "应用",
+        "uuid": "32eb99ed2b324f88b59c2394d9d617c9"
+      },
+      {
+        "brief": "56网购助手是一款网购一族必备软件，每天更新上千款优质商品，还有各种优惠券，支持全网搜索，领券购物，享受内部购物价格，让你不多花一分冤枉钱，真正买到实惠！",
+        "classes": "购物",
+        "filterName": "56网购助手-网购省钱助手",
+        "icon": "https://img5.tianyancha.com/appbk/icon/4e116f08b8522dcb4276cc379573a302.png@!watermark01",
+        "name": "56网购助手-网购省钱助手",
+        "type": "应用",
+        "uuid": "921ce7329f904701bfe89bf7fab35761"
+      },
+      {
+        "brief": "这是一款设计巧妙、界面简洁、计算精准的车贷计算器，使用最新利率，操作简单描述清晰，想买车的小伙伴们还不赶紧下载？",
+        "classes": "工具",
+        "filterName": "车贷计算器-贷款买车必备计算工具",
+        "icon": "https://img5.tianyancha.com/appbk/icon/643b64a38e34ca1ecd0388afa1af6b93.png@!watermark01",
+        "name": "车贷计算器-贷款买车必备计算工具",
+        "type": "应用",
+        "uuid": "9b50d5d462e2435dbfbe64930c5d2cd5"
+      },
+      {
+        "brief": "用于运输路线的选择，人员添加设置，根据司机操作路线规划设置，在运行列表中查看正在进行的任务，到达是需要选择时间和拍照上传图片，已完成任务在历史记录中查询",
+        "classes": "效率",
+        "filterName": "货卡通",
+        "icon": "https://img5.tianyancha.com/appbk/icon/a4dbd8cfd3b5140cd38e2d3612d95267.png@!watermark01",
+        "name": "货卡通",
+        "type": "应用",
+        "uuid": "d66a3d8a1e4e4e77b8d7bd0302744bbd"
+      }
+    ],
+    "total": 740
+  }
+}

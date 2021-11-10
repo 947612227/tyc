@@ -1,0 +1,22 @@
+{
+  "data": {
+    "count": 1,
+    "items": [
+      {
+        "caseCode": "(2021)京0108执3506号",
+        "caseCreateTime": 1613664000000,
+        "cid": 22822,
+        "execCourtName": "北京市海淀区人民法院",
+        "execMoney": "55329",
+        "id": 49845339,
+        "partyCardNum": "80210043-3",
+        "pname": "北京百度网讯科技有限公司"
+      }
+    ]
+  },
+  "isLogin": 0,
+  "message": "",
+  "special": "",
+  "state": "ok",
+  "vipMessage": ""
+}

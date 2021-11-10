@@ -1,0 +1,189 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "cgid": 22822,
+        "cname": "北京百度网讯科技有限公司",
+        "establishTime": 991670400000,
+        "legalPersonId": 116916,
+        "legalPersonName": "梁志祥",
+        "regCapitalStr": "1342128万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "cgid": 23289175,
+        "cname": "百度在线网络技术（北京）有限公司",
+        "establishTime": 948124800000,
+        "legalPersonId": 589528,
+        "legalPersonName": "崔珊珊",
+        "regCapitalStr": "4520万美元",
+        "regStatus": "存续"
+      },
+      {
+        "cgid": 3046112687,
+        "cname": "达孜县百瑞翔创业投资管理有限责任公司",
+        "establishTime": 1494259200000,
+        "legalPersonId": 111719,
+        "legalPersonName": "陆原",
+        "regCapitalStr": "1181000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "cgid": 10615543,
+        "cname": "北京鼎鹿中原科技有限公司",
+        "establishTime": 1149523200000,
+        "legalPersonId": 589528,
+        "legalPersonName": "崔珊珊",
+        "regCapitalStr": "316000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "cgid": 4326539316,
+        "cname": "集度汽车有限公司",
+        "establishTime": 1614614400000,
+        "legalPersonId": 1204819,
+        "legalPersonName": "夏一平",
+        "regCapitalStr": "200000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "cgid": 3102575943,
+        "cname": "宁波梅山保税港区百度致新资产管理有限公司",
+        "establishTime": 1506009600000,
+        "legalPersonId": 116916,
+        "legalPersonName": "梁志祥",
+        "regCapitalStr": "200000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "cgid": 3480226760,
+        "cname": "百度云计算技术（佛山顺德）有限公司",
+        "establishTime": 1601222400000,
+        "legalPersonId": 134990,
+        "legalPersonName": "张炳华",
+        "regCapitalStr": "200000万人民币",
+        "regStatus": "在业"
+      },
+      {
+        "cgid": 3329494130,
+        "cname": "百度云计算技术（保定徐水）有限公司",
+        "establishTime": 1557676800000,
+        "legalPersonId": 134990,
+        "legalPersonName": "张炳华",
+        "regCapitalStr": "200000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "cgid": 3326743148,
+        "cname": "百度云计算技术（保定定兴）有限公司",
+        "establishTime": 1557158400000,
+        "legalPersonId": 134990,
+        "legalPersonName": "张炳华",
+        "regCapitalStr": "200000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "cgid": 799248041,
+        "cname": "百度云计算技术（山西）有限公司",
+        "establishTime": 1326211200000,
+        "legalPersonId": 589528,
+        "legalPersonName": "崔珊珊",
+        "regCapitalStr": "28600万美元",
+        "regStatus": "存续"
+      },
+      {
+        "cgid": 2344179270,
+        "cname": "福建百度博瑞网络科技有限公司",
+        "establishTime": 1300377600000,
+        "legalPersonId": 161646,
+        "legalPersonName": "李彦宏",
+        "regCapitalStr": "165000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "cgid": 40404720,
+        "cname": "传课计算机系统（北京）有限公司",
+        "establishTime": 1324915200000,
+        "legalPersonId": 589528,
+        "legalPersonName": "崔珊珊",
+        "regCapitalStr": "130550万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "cgid": 3150610718,
+        "cname": "北京百慧创赢投资管理有限公司",
+        "establishTime": 1516723200000,
+        "legalPersonId": 116916,
+        "legalPersonName": "梁志祥",
+        "regCapitalStr": "97820万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "cgid": 2959938471,
+        "cname": "杭州福祥汇投资管理有限公司",
+        "establishTime": 1470758400000,
+        "legalPersonId": 116916,
+        "legalPersonName": "梁志祥",
+        "regCapitalStr": "94891.792万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "cgid": 3485130445,
+        "cname": "上海小度人工智能有限公司",
+        "establishTime": 1603209600000,
+        "legalPersonId": 24122406,
+        "legalPersonName": "景鲲",
+        "regCapitalStr": "76141.373万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "cgid": 26249457,
+        "cname": "百度云计算技术（北京）有限公司",
+        "establishTime": 1325692800000,
+        "legalPersonId": 589528,
+        "legalPersonName": "崔珊珊",
+        "regCapitalStr": "10000万美元",
+        "regStatus": "存续"
+      },
+      {
+        "cgid": 3328849438,
+        "cname": "百度云计算技术（西安）有限公司",
+        "establishTime": 1557417600000,
+        "legalPersonId": 134990,
+        "legalPersonName": "张炳华",
+        "regCapitalStr": "50000万人民币",
+        "regStatus": "在业"
+      },
+      {
+        "cgid": 24489290,
+        "cname": "北京幻想纵横网络技术有限公司",
+        "establishTime": 1214236800000,
+        "legalPersonId": 342789,
+        "legalPersonName": "张云帆",
+        "regCapitalStr": "39238.791万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "cgid": 4089912751,
+        "cname": "阿波罗智能科技（北京）有限公司",
+        "establishTime": 1607961600000,
+        "legalPersonId": 14985,
+        "legalPersonName": "李震宇",
+        "regCapitalStr": "30000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "cgid": 2310470083,
+        "cname": "百度鹏寰资产管理（北京）有限公司",
+        "establishTime": 1102608000000,
+        "legalPersonId": 116916,
+        "legalPersonName": "梁志祥",
+        "regCapitalStr": "29000万人民币",
+        "regStatus": "存续"
+      }
+    ],
+    "total": 242
+  }
+}

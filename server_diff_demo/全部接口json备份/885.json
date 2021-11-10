@@ -1,0 +1,808 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "agreementStartTime": 1531152000000,
+        "area": "3.48008",
+        "authority": "太仓市人民政府",
+        "category": "房地产业",
+        "chainLink": "<a href=\"http://www.tianyancha.com/company/8863903\" target=\"_blank\">金地（集团）股份有限公司</a>",
+        "committedTime": 1502294400000,
+        "companyList": [
+          {
+            "id": 8863903,
+            "landUseRightPerson": "金地（集团）股份有限公司",
+            "name": "金地（集团）股份有限公司"
+          }
+        ],
+        "contractDate": 1499788800000,
+        "contractedVolumeRate": "1.60",
+        "contractedVolumeRateCeiling": "2.00",
+        "district": "太仓市",
+        "electronicRegulatoryNumber": "3205852017B00625",
+        "instalmentPayment": [
+          {
+            "electronicRegulatoryNumber": "3205852017B00625",
+            "instalmentPaymentAgreedPaymentAmount": "29994",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "1",
+            "instalmentPaymentConventionPaymentDate": "2017-08-11"
+          }
+        ],
+        "landLevel": "四级",
+        "landSourceView": "现有建设用地",
+        "landSupplyMethod": "挂牌出让",
+        "landUsePeriod": "70",
+        "landUseRightPerson": "金地（集团）股份有限公司",
+        "landUseType": "其他普通商品住房用地",
+        "projectLocation": "国开区龙江路西、浮宅路南",
+        "projectName": "金地(集团)股份有限公司",
+        "scheduledCompletion": 1594310400000,
+        "transactionPrice": "29994"
+      },
+      {
+        "agreementStartTime": 1420473600000,
+        "area": "14.60081",
+        "authority": "南京市人民政府",
+        "category": "房地产业",
+        "chainLink": "<a href=\"http://www.tianyancha.com/company/8863903\" target=\"_blank\">金地（集团）股份有限公司</a>",
+        "committedTime": 1388937600000,
+        "companyList": [
+          {
+            "id": 8863903,
+            "landUseRightPerson": "金地（集团）股份有限公司",
+            "name": "金地（集团）股份有限公司"
+          }
+        ],
+        "contractDate": 1372348800000,
+        "contractedVolumeRate": "1.00",
+        "contractedVolumeRateCeiling": "2.50",
+        "district": "栖霞区",
+        "electronicRegulatoryNumber": "3201002013B01069",
+        "instalmentPayment": [
+          {
+            "electronicRegulatoryNumber": "3201002013B01069",
+            "instalmentPaymentAgreedPaymentAmount": "143500",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "2",
+            "instalmentPaymentConventionPaymentDate": "2013-12-26"
+          },
+          {
+            "electronicRegulatoryNumber": "3201002013B01069",
+            "instalmentPaymentAgreedPaymentAmount": "143500",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "1",
+            "instalmentPaymentConventionPaymentDate": "2013-06-26"
+          }
+        ],
+        "landLevel": "七级",
+        "landSourceView": "现有建设用地",
+        "landSupplyMethod": "挂牌出让",
+        "landUsePeriod": "70",
+        "landUseRightPerson": "金地（集团）股份有限公司",
+        "landUseType": "其他普通商品住房用地",
+        "projectLocation": "栖霞区仙林湖西侧1号地块，",
+        "projectName": "栖霞区仙林湖西侧1号地块(2013G25)",
+        "scheduledCompletion": 1515168000000,
+        "transactionPrice": "287000"
+      },
+      {
+        "agreementStartTime": 1420128000000,
+        "area": "6.50848",
+        "authority": "佛山市",
+        "category": "房地产业",
+        "chainLink": "<a href=\"http://www.tianyancha.com/company/8863903\" target=\"_blank\">金地（集团）股份有限公司</a>",
+        "committedTime": 1388592000000,
+        "companyList": [
+          {
+            "id": 8863903,
+            "landUseRightPerson": "金地（集团）股份有限公司",
+            "name": "金地（集团）股份有限公司"
+          }
+        ],
+        "contractDate": 1388592000000,
+        "contractedVolumeRate": "1.50",
+        "contractedVolumeRateCeiling": "3.50",
+        "district": "南海区",
+        "electronicRegulatoryNumber": "4406052014B00011",
+        "instalmentPayment": [
+          {
+            "electronicRegulatoryNumber": "4406052014B00011",
+            "instalmentPaymentAgreedPaymentAmount": "87700",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "2",
+            "instalmentPaymentConventionPaymentDate": "2014-07-01"
+          },
+          {
+            "electronicRegulatoryNumber": "4406052014B00011",
+            "instalmentPaymentAgreedPaymentAmount": "87700",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "1",
+            "instalmentPaymentConventionPaymentDate": "2014-02-01"
+          }
+        ],
+        "landLevel": "四级",
+        "landSourceView": "新增建设用地(来自存量库)",
+        "landSupplyMethod": "挂牌出让",
+        "landUsePeriod": "70",
+        "landUseRightPerson": "金地（集团）股份有限公司",
+        "landUseType": "其他普通商品住房用地",
+        "projectLocation": "佛山市南海区大沥镇盐步河东中心路地段",
+        "projectName": "城镇住宅用地兼容批发零售用地",
+        "scheduledCompletion": 1483286400000,
+        "transactionPrice": "175400"
+      },
+      {
+        "agreementStartTime": 1398268800000,
+        "area": "4.91023",
+        "authority": "佛山市",
+        "category": "房地产业",
+        "chainLink": "<a href=\"http://www.tianyancha.com/company/8863903\" target=\"_blank\">金地（集团）股份有限公司</a>",
+        "committedTime": 1366732800000,
+        "companyList": [
+          {
+            "id": 8863903,
+            "landUseRightPerson": "金地（集团）股份有限公司",
+            "name": "金地（集团）股份有限公司"
+          }
+        ],
+        "contractDate": 1363104000000,
+        "contractedVolumeRate": "1.50",
+        "contractedVolumeRateCeiling": "3.80",
+        "district": "南海区",
+        "electronicRegulatoryNumber": "4406052013B03208",
+        "instalmentPayment": [
+          {
+            "electronicRegulatoryNumber": "4406052013B03208",
+            "instalmentPaymentAgreedPaymentAmount": "69250",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "2",
+            "instalmentPaymentConventionPaymentDate": "2014-03-12"
+          },
+          {
+            "electronicRegulatoryNumber": "4406052013B03208",
+            "instalmentPaymentAgreedPaymentAmount": "69250",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "1",
+            "instalmentPaymentConventionPaymentDate": "2013-04-12"
+          }
+        ],
+        "landLevel": "二级",
+        "landSourceView": "现有建设用地",
+        "landSupplyMethod": "挂牌出让",
+        "landUsePeriod": "70",
+        "landUseRightPerson": "金地（集团）股份有限公司",
+        "landUseType": "中低价位、中小套型普通商品住房用地",
+        "projectLocation": "佛山市南海区桂城季华七路以南、桂澜路以西（桂城D11街区B宗地）地段",
+        "projectName": "商住",
+        "scheduledCompletion": 1492963200000,
+        "transactionPrice": "138500"
+      },
+      {
+        "agreementStartTime": 1395676800000,
+        "area": "13.7287",
+        "authority": "北京市",
+        "category": "房地产业",
+        "chainLink": "<a href=\"http://www.tianyancha.com/company/467029347\" target=\"_blank\">中国水电建设集团房地产有限公司</a>和<a href=\"http://www.tianyancha.com/company/8863903\" target=\"_blank\">金地（集团）股份有限公司</a>",
+        "committedTime": 1365264000000,
+        "companyList": [
+          {
+            "id": 467029347,
+            "landUseRightPerson": "中国水电建设集团房地产有限公司和金地（集团）股份有限公司",
+            "name": "中国水电建设集团房地产有限公司"
+          },
+          {
+            "id": 8863903,
+            "landUseRightPerson": "中国水电建设集团房地产有限公司和金地（集团）股份有限公司",
+            "name": "金地（集团）股份有限公司"
+          }
+        ],
+        "contractDate": 1365264000000,
+        "contractedVolumeRate": "1.00",
+        "contractedVolumeRateCeiling": "2.00",
+        "district": "北京市本级",
+        "electronicRegulatoryNumber": "1101002013B01201",
+        "instalmentPayment": [
+          {
+            "electronicRegulatoryNumber": "1101002013B01201",
+            "instalmentPaymentAgreedPaymentAmount": "213000",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "1",
+            "instalmentPaymentConventionPaymentDate": "2013-04-22"
+          }
+        ],
+        "landLevel": "六级",
+        "landSourceView": "新增建设用地",
+        "landSupplyMethod": "招标出让",
+        "landUsePeriod": "70",
+        "landUseRightPerson": "中国水电建设集团房地产有限公司和金地（集团）股份有限公司",
+        "landUseType": "其他普通商品住房用地",
+        "projectLocation": "北京市门头沟区门头沟新城MC10-033、MC10-035-1、MC10-035-2、MC10-036、MC10-055、MC10-056地块",
+        "projectName": "北京市门头沟区门头沟新城MC10-033、MC10-035-1、MC10-035-2、MC10-036、MC10-055、MC10-056地块",
+        "scheduledCompletion": 1490371200000,
+        "transactionPrice": "213000"
+      },
+      {
+        "agreementStartTime": 1396195200000,
+        "area": "14.7978",
+        "authority": "北京市",
+        "category": "房地产业",
+        "chainLink": "<a href=\"http://www.tianyancha.com/company/467029347\" target=\"_blank\">中国水电建设集团房地产有限公司</a>和<a href=\"http://www.tianyancha.com/company/8863903\" target=\"_blank\">金地（集团）股份有限公司</a>联合体",
+        "committedTime": 1364659200000,
+        "companyList": [
+          {
+            "id": 467029347,
+            "landUseRightPerson": "中国水电建设集团房地产有限公司和金地（集团）股份有限公司联合体",
+            "name": "中国水电建设集团房地产有限公司"
+          },
+          {
+            "id": 8863903,
+            "landUseRightPerson": "中国水电建设集团房地产有限公司和金地（集团）股份有限公司联合体",
+            "name": "金地（集团）股份有限公司"
+          }
+        ],
+        "contractDate": 1364313600000,
+        "contractedVolumeRate": "1.10",
+        "contractedVolumeRateCeiling": "1.30",
+        "district": "北京市本级",
+        "electronicRegulatoryNumber": "1101002013B00967",
+        "instalmentPayment": [
+          {
+            "electronicRegulatoryNumber": "1101002013B00967",
+            "instalmentPaymentAgreedPaymentAmount": "190000",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "1",
+            "instalmentPaymentConventionPaymentDate": "2013-04-11"
+          }
+        ],
+        "landLevel": "七级",
+        "landSourceView": "新增建设用地",
+        "landSupplyMethod": "挂牌出让",
+        "landUsePeriod": "0",
+        "landUseRightPerson": "中国水电建设集团房地产有限公司和金地（集团）股份有限公司联合体",
+        "landUseType": "其他普通商品住房用地",
+        "projectLocation": "门头沟区龙泉镇MC10-037\\MC10-038\\MC10-040\\MC10-041\\MC10-060\\MC10-065",
+        "projectName": "门头沟区龙泉镇MC10-037\\MC10-038\\MC10-040\\MC10-041\\MC10-060\\MC10-065",
+        "scheduledCompletion": 1490803200000,
+        "transactionPrice": "190000"
+      },
+      {
+        "agreementStartTime": 1383667200000,
+        "area": "2.951471",
+        "authority": "",
+        "category": "房地产业",
+        "chainLink": "<a href=\"http://www.tianyancha.com/company/8863903\" target=\"_blank\">金地（集团）股份有限公司</a>",
+        "committedTime": 1352217600000,
+        "companyList": [
+          {
+            "id": 8863903,
+            "landUseRightPerson": "金地（集团）股份有限公司",
+            "name": "金地（集团）股份有限公司"
+          }
+        ],
+        "contractDate": 1352217600000,
+        "contractedVolumeRate": "1.00",
+        "contractedVolumeRateCeiling": "3.20",
+        "district": "深圳市本级",
+        "electronicRegulatoryNumber": "4403002012B03649-1",
+        "instalmentPayment": [
+          {
+            "electronicRegulatoryNumber": "4403002012B03649-1",
+            "instalmentPaymentAgreedPaymentAmount": "30300",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "1",
+            "instalmentPaymentConventionPaymentDate": "2012-11-07"
+          }
+        ],
+        "landLevel": "五级",
+        "landSourceView": "新增建设用地",
+        "landSupplyMethod": "挂牌出让",
+        "landUsePeriod": "70",
+        "landUseRightPerson": "金地（集团）股份有限公司",
+        "landUseType": "中低价位、中小套型普通商品住房用地",
+        "projectLocation": "深圳市坪山新区",
+        "projectName": "坪环居住用地",
+        "scheduledCompletion": 1446739200000,
+        "transactionPrice": "30300"
+      },
+      {
+        "agreementStartTime": 1358784000000,
+        "area": "16.2741",
+        "authority": "扬州市人民政府",
+        "category": "房地产业",
+        "chainLink": "<a href=\"http://www.tianyancha.com/company/8863903\" target=\"_blank\">金地（集团）股份有限公司</a>",
+        "committedTime": 1327161600000,
+        "companyList": [
+          {
+            "id": 8863903,
+            "landUseRightPerson": "金地（集团）股份有限公司",
+            "name": "金地（集团）股份有限公司"
+          }
+        ],
+        "contractDate": 1319126400000,
+        "contractedVolumeRate": "1.00",
+        "contractedVolumeRateCeiling": "1.60",
+        "district": "扬州市本级",
+        "electronicRegulatoryNumber": "3210002011B01333",
+        "instalmentPayment": [
+          {
+            "electronicRegulatoryNumber": "3210002011B01333",
+            "instalmentPaymentAgreedPaymentAmount": "26404.7273",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "2",
+            "instalmentPaymentConventionPaymentDate": "2012-01-22"
+          },
+          {
+            "electronicRegulatoryNumber": "3210002011B01333",
+            "instalmentPaymentAgreedPaymentAmount": "26404.7272",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "1",
+            "instalmentPaymentConventionPaymentDate": "2011-12-02"
+          }
+        ],
+        "landLevel": "五级",
+        "landSourceView": "新增建设用地",
+        "landSupplyMethod": "拍卖出让",
+        "landUsePeriod": "70",
+        "landUseRightPerson": "金地（集团）股份有限公司",
+        "landUseType": "其他普通商品住房用地",
+        "projectLocation": "古运河以东，东风河以南，吴洲东路以北，周庄河西支路以西",
+        "projectName": "金地（集团）股份有限公司",
+        "scheduledCompletion": 1421856000000,
+        "transactionPrice": "52809.4545"
+      },
+      {
+        "agreementStartTime": 1333036800000,
+        "area": "8.11037",
+        "authority": "南京市人民政府",
+        "category": "房地产业",
+        "chainLink": "<a href=\"http://www.tianyancha.com/company/8863903\" target=\"_blank\">金地（集团）股份有限公司</a>",
+        "committedTime": 1317312000000,
+        "companyList": [
+          {
+            "id": 8863903,
+            "landUseRightPerson": "金地（集团）股份有限公司",
+            "name": "金地（集团）股份有限公司"
+          }
+        ],
+        "contractDate": 1304956800000,
+        "contractedVolumeRate": "1.00",
+        "contractedVolumeRateCeiling": "2.50",
+        "district": "南京市本级",
+        "electronicRegulatoryNumber": "3201002011B00785",
+        "instalmentPayment": [
+          {
+            "electronicRegulatoryNumber": "3201002011B00785",
+            "instalmentPaymentAgreedPaymentAmount": "15400",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "3",
+            "instalmentPaymentConventionPaymentDate": "2011-09-20"
+          },
+          {
+            "electronicRegulatoryNumber": "3201002011B00785",
+            "instalmentPaymentAgreedPaymentAmount": "23100",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "2",
+            "instalmentPaymentConventionPaymentDate": "2011-08-05"
+          },
+          {
+            "electronicRegulatoryNumber": "3201002011B00785",
+            "instalmentPaymentAgreedPaymentAmount": "38500",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "1",
+            "instalmentPaymentConventionPaymentDate": "2011-05-06"
+          }
+        ],
+        "landLevel": "六级",
+        "landSourceView": "新增建设用地",
+        "landSupplyMethod": "挂牌出让",
+        "landUsePeriod": "70",
+        "landUseRightPerson": "金地（集团）股份有限公司",
+        "landUseType": "其他普通商品住房用地",
+        "projectLocation": "栖霞区新尧新城后新塘西",
+        "projectName": "栖霞区新尧新城后新塘西地块挂牌出让(11G11)",
+        "scheduledCompletion": 1412006400000,
+        "transactionPrice": "77000"
+      },
+      {
+        "agreementStartTime": 1306252800000,
+        "area": "4.6169",
+        "authority": "绍兴县",
+        "category": "房地产业",
+        "chainLink": "<a href=\"http://www.tianyancha.com/company/8863903\" target=\"_blank\">金地（集团）股份有限公司</a>",
+        "committedTime": 1305820800000,
+        "companyList": [
+          {
+            "id": 8863903,
+            "landUseRightPerson": "金地（集团）股份有限公司",
+            "name": "金地（集团）股份有限公司"
+          }
+        ],
+        "contractDate": 1258041600000,
+        "contractedVolumeRate": "2.00",
+        "contractedVolumeRateCeiling": "2.50",
+        "district": "绍兴县",
+        "electronicRegulatoryNumber": "3306212009B01927",
+        "instalmentPayment": [
+          {
+            "electronicRegulatoryNumber": "3306212009B01927",
+            "instalmentPaymentAgreedPaymentAmount": "13829",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "1",
+            "instalmentPaymentConventionPaymentDate": "2009-12-13"
+          }
+        ],
+        "landLevel": "二级",
+        "landSourceView": "新增建设用地(来自存量库)",
+        "landSupplyMethod": "挂牌出让",
+        "landUsePeriod": "4070",
+        "landUseRightPerson": "金地（集团）股份有限公司",
+        "landUseType": "其他普通商品住房用地",
+        "projectLocation": "群贤路以北，太平路以东",
+        "projectName": "柯桥城区BE-25(a b)住商地块",
+        "scheduledCompletion": 1380470400000,
+        "transactionPrice": "13829"
+      },
+      {
+        "agreementStartTime": 1317312000000,
+        "area": "13.7926",
+        "authority": "萧山区",
+        "category": "房地产业",
+        "chainLink": "<a href=\"http://www.tianyancha.com/company/8863903\" target=\"_blank\">金地（集团）股份有限公司</a>",
+        "committedTime": 1304092800000,
+        "companyList": [
+          {
+            "id": 8863903,
+            "landUseRightPerson": "金地（集团）股份有限公司",
+            "name": "金地（集团）股份有限公司"
+          }
+        ],
+        "contractDate": 1261929600000,
+        "contractedVolumeRate": "2.00",
+        "contractedVolumeRateCeiling": "2.50",
+        "district": "萧山区",
+        "electronicRegulatoryNumber": "3301812009B04251-1",
+        "instalmentPayment": [
+          {
+            "electronicRegulatoryNumber": "3301812009B04251-1",
+            "instalmentPaymentAgreedPaymentAmount": "105000",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "3",
+            "instalmentPaymentConventionPaymentDate": "2010-10-24"
+          },
+          {
+            "electronicRegulatoryNumber": "3301812009B04251-1",
+            "instalmentPaymentAgreedPaymentAmount": "105000",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "2",
+            "instalmentPaymentConventionPaymentDate": "2010-05-24"
+          },
+          {
+            "electronicRegulatoryNumber": "3301812009B04251-1",
+            "instalmentPaymentAgreedPaymentAmount": "140000",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "1",
+            "instalmentPaymentConventionPaymentDate": "2010-01-15"
+          }
+        ],
+        "landLevel": "八级",
+        "landSourceView": "新增建设用地",
+        "landSupplyMethod": "拍卖出让",
+        "landUsePeriod": "70",
+        "landUseRightPerson": "金地（集团）股份有限公司",
+        "landUseType": "中低价位、中小套型普通商品住房用地",
+        "projectLocation": "城厢街道：风情大道以东、二水厂以南、浙赣铁路以北、规划城市道路以西、城厢街道杜湖社区地块",
+        "projectName": "金地（集团）股份有限公司",
+        "scheduledCompletion": 1412006400000,
+        "transactionPrice": "350000"
+      },
+      {
+        "agreementStartTime": 1319990400000,
+        "area": "15.741",
+        "authority": "北京市",
+        "category": "房地产业",
+        "chainLink": "<a href=\"http://www.tianyancha.com/company/8863903\" target=\"_blank\">金地（集团）股份有限公司</a>",
+        "committedTime": 1292169600000,
+        "companyList": [
+          {
+            "id": 8863903,
+            "landUseRightPerson": "金地（集团）股份有限公司",
+            "name": "金地（集团）股份有限公司"
+          }
+        ],
+        "contractDate": 1292169600000,
+        "contractedVolumeRate": "1.60",
+        "contractedVolumeRateCeiling": "2.00",
+        "district": "北京市本级",
+        "electronicRegulatoryNumber": "1101002010B13069",
+        "instalmentPayment": [
+          {
+            "electronicRegulatoryNumber": "1101002010B13069",
+            "instalmentPaymentAgreedPaymentAmount": "191000",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "1",
+            "instalmentPaymentConventionPaymentDate": "2010-12-20"
+          }
+        ],
+        "landLevel": "八级",
+        "landSourceView": "新增建设用地",
+        "landSupplyMethod": "招标出让",
+        "landUsePeriod": "其他普通商品住房用地70年; 其他商服用地40",
+        "landUseRightPerson": "金地（集团）股份有限公司",
+        "landUseType": "其他普通商品住房用地",
+        "projectLocation": "房山区长阳镇房山线理工大学站3号地及5号地局部地块",
+        "projectName": "房山线理工大学站3号地及5号地局部地块居住项目用地",
+        "scheduledCompletion": 1409414400000,
+        "transactionPrice": "191000"
+      },
+      {
+        "agreementStartTime": 1320854400000,
+        "area": "3.9316",
+        "authority": "深圳市人民政府",
+        "category": "房地产业",
+        "chainLink": "<a href=\"http://www.tianyancha.com/company/8863903\" target=\"_blank\">金地（集团）股份有限公司</a>",
+        "committedTime": 1289491200000,
+        "companyList": [
+          {
+            "id": 8863903,
+            "landUseRightPerson": "金地（集团）股份有限公司",
+            "name": "金地（集团）股份有限公司"
+          }
+        ],
+        "contractDate": 1289404800000,
+        "contractedVolumeRate": "",
+        "contractedVolumeRateCeiling": "3.00",
+        "district": "深圳市本级",
+        "electronicRegulatoryNumber": "4403002010B03101-1",
+        "instalmentPayment": [
+          {
+            "electronicRegulatoryNumber": "4403002010B03101-1",
+            "instalmentPaymentAgreedPaymentAmount": "64500",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "1",
+            "instalmentPaymentConventionPaymentDate": "2010-11-11"
+          }
+        ],
+        "landLevel": "五级",
+        "landSourceView": "新增建设用地",
+        "landSupplyMethod": "拍卖出让",
+        "landUsePeriod": "70",
+        "landUseRightPerson": "金地（集团）股份有限公司",
+        "landUseType": "中低价位、中小套型普通商品住房用地",
+        "projectLocation": "龙岗街道",
+        "projectName": "招拍挂用地",
+        "scheduledCompletion": 1384099200000,
+        "transactionPrice": "64500"
+      },
+      {
+        "agreementStartTime": 1262102400000,
+        "area": "3.534",
+        "authority": "绍兴县",
+        "category": "房地产业",
+        "chainLink": "<a href=\"http://www.tianyancha.com/company/8863903\" target=\"_blank\">金地（集团）股份有限公司</a>",
+        "committedTime": 1262016000000,
+        "companyList": [
+          {
+            "id": 8863903,
+            "landUseRightPerson": "金地（集团）股份有限公司",
+            "name": "金地（集团）股份有限公司"
+          }
+        ],
+        "contractDate": 1258041600000,
+        "contractedVolumeRate": "2.00",
+        "contractedVolumeRateCeiling": "2.50",
+        "district": "绍兴县",
+        "electronicRegulatoryNumber": "3306212009B01807",
+        "instalmentPayment": [
+          {
+            "electronicRegulatoryNumber": "3306212009B01807",
+            "instalmentPaymentAgreedPaymentAmount": "10487",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "1",
+            "instalmentPaymentConventionPaymentDate": "2009-12-13"
+          }
+        ],
+        "landLevel": "一级",
+        "landSourceView": "新增建设用地",
+        "landSupplyMethod": "挂牌出让",
+        "landUsePeriod": "4070",
+        "landUseRightPerson": "金地（集团）股份有限公司",
+        "landUseType": "其他普通商品住房用地",
+        "projectLocation": "群贤路以北、双亭路以西",
+        "projectName": "自在城（三）住商项目",
+        "scheduledCompletion": 1325174400000,
+        "transactionPrice": "10487"
+      },
+      {
+        "agreementStartTime": 1262102400000,
+        "area": "2.7533",
+        "authority": "绍兴县",
+        "category": "房地产业",
+        "chainLink": "<a href=\"http://www.tianyancha.com/company/8863903\" target=\"_blank\">金地（集团）股份有限公司</a>",
+        "committedTime": 1262016000000,
+        "companyList": [
+          {
+            "id": 8863903,
+            "landUseRightPerson": "金地（集团）股份有限公司",
+            "name": "金地（集团）股份有限公司"
+          }
+        ],
+        "contractDate": 1258041600000,
+        "contractedVolumeRate": "2.00",
+        "contractedVolumeRateCeiling": "2.50",
+        "district": "绍兴县",
+        "electronicRegulatoryNumber": "3306212009B01796",
+        "instalmentPayment": [
+          {
+            "electronicRegulatoryNumber": "3306212009B01796",
+            "instalmentPaymentAgreedPaymentAmount": "7450",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "1",
+            "instalmentPaymentConventionPaymentDate": "2009-12-13"
+          }
+        ],
+        "landLevel": "一级",
+        "landSourceView": "新增建设用地",
+        "landSupplyMethod": "挂牌出让",
+        "landUsePeriod": "4070",
+        "landUseRightPerson": "金地（集团）股份有限公司",
+        "landUseType": "其他普通商品住房用地",
+        "projectLocation": "双亭桥以东，群贤路以北",
+        "projectName": "自在城（二）住商项目",
+        "scheduledCompletion": 1325174400000,
+        "transactionPrice": "7450"
+      },
+      {
+        "agreementStartTime": 1275148800000,
+        "area": "9.136",
+        "authority": "宝山区",
+        "category": "房地产业",
+        "chainLink": "<a href=\"http://www.tianyancha.com/company/8863903\" target=\"_blank\">金地（集团）股份有限公司</a>",
+        "committedTime": 1258646400000,
+        "companyList": [
+          {
+            "id": 8863903,
+            "landUseRightPerson": "金地（集团）股份有限公司",
+            "name": "金地（集团）股份有限公司"
+          }
+        ],
+        "contractDate": 1256918400000,
+        "contractedVolumeRate": "2.00",
+        "contractedVolumeRateCeiling": "",
+        "district": "上海市本级",
+        "electronicRegulatoryNumber": "3101002009B09538",
+        "instalmentPayment": [],
+        "landLevel": "八级",
+        "landSourceView": "现有建设用地",
+        "landSupplyMethod": "挂牌出让",
+        "landUsePeriod": "40",
+        "landUseRightPerson": "金地（集团）股份有限公司",
+        "landUseType": "其他商服用地",
+        "projectLocation": "东至规划道路、南至市台路、西至嘉定区界、北至规划锦秋路",
+        "projectName": "城市工业园区市台路地块",
+        "scheduledCompletion": 1335715200000,
+        "transactionPrice": "115113"
+      },
+      {
+        "agreementStartTime": 1285257600000,
+        "area": "6.611201",
+        "authority": "深圳市",
+        "category": "房地产业",
+        "chainLink": "<a href=\"http://www.tianyancha.com/company/8863903\" target=\"_blank\">金地（集团）股份有限公司</a>",
+        "committedTime": 1253894400000,
+        "companyList": [
+          {
+            "id": 8863903,
+            "landUseRightPerson": "金地（集团）股份有限公司",
+            "name": "金地（集团）股份有限公司"
+          }
+        ],
+        "contractDate": 1253808000000,
+        "contractedVolumeRate": "1.00",
+        "contractedVolumeRateCeiling": "1.80",
+        "district": "深圳市本级",
+        "electronicRegulatoryNumber": "4403002009B03168",
+        "instalmentPayment": [
+          {
+            "electronicRegulatoryNumber": "4403002009B03168",
+            "instalmentPaymentAgreedPaymentAmount": "101674.8",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "1",
+            "instalmentPaymentConventionPaymentDate": "2009-09-25"
+          }
+        ],
+        "landLevel": "五级",
+        "landSourceView": "新增建设用地(来自存量库)",
+        "landSupplyMethod": "挂牌出让",
+        "landUsePeriod": "70",
+        "landUseRightPerson": "金地（集团）股份有限公司",
+        "landUseType": "其他普通商品住房用地",
+        "projectLocation": "观澜街道",
+        "projectName": "居住用地",
+        "scheduledCompletion": 1411488000000,
+        "transactionPrice": "101674.8"
+      },
+      {
+        "agreementStartTime": 1285257600000,
+        "area": "9.119768",
+        "authority": "深圳市",
+        "category": "房地产业",
+        "chainLink": "<a href=\"http://www.tianyancha.com/company/8863903\" target=\"_blank\">金地（集团）股份有限公司</a>",
+        "committedTime": 1253894400000,
+        "companyList": [
+          {
+            "id": 8863903,
+            "landUseRightPerson": "金地（集团）股份有限公司",
+            "name": "金地（集团）股份有限公司"
+          }
+        ],
+        "contractDate": 1253808000000,
+        "contractedVolumeRate": "1.00",
+        "contractedVolumeRateCeiling": "1.80",
+        "district": "深圳市本级",
+        "electronicRegulatoryNumber": "4403002009B03137",
+        "instalmentPayment": [
+          {
+            "electronicRegulatoryNumber": "4403002009B03137",
+            "instalmentPaymentAgreedPaymentAmount": "142325.2",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "1",
+            "instalmentPaymentConventionPaymentDate": "2009-09-25"
+          }
+        ],
+        "landLevel": "五级",
+        "landSourceView": "新增建设用地(来自存量库)",
+        "landSupplyMethod": "挂牌出让",
+        "landUsePeriod": "70",
+        "landUseRightPerson": "金地（集团）股份有限公司",
+        "landUseType": "其他普通商品住房用地",
+        "projectLocation": "观澜街道",
+        "projectName": "居住用地",
+        "scheduledCompletion": 1411488000000,
+        "transactionPrice": "142325.2"
+      },
+      {
+        "agreementStartTime": 1273507200000,
+        "area": "9.22013",
+        "authority": "青浦区",
+        "category": "房地产业",
+        "chainLink": "<a href=\"http://www.tianyancha.com/company/8863903\" target=\"_blank\">金地（集团）股份有限公司</a>",
+        "committedTime": 1247760000000,
+        "companyList": [
+          {
+            "id": 8863903,
+            "landUseRightPerson": "金地（集团）股份有限公司",
+            "name": "金地（集团）股份有限公司"
+          }
+        ],
+        "contractDate": 1241971200000,
+        "contractedVolumeRate": "1.20",
+        "contractedVolumeRateCeiling": "1.20",
+        "district": "上海市本级",
+        "electronicRegulatoryNumber": "3101002009B04236-1",
+        "instalmentPayment": [
+          {
+            "electronicRegulatoryNumber": "3101002009B04236-1",
+            "instalmentPaymentAgreedPaymentAmount": "56000",
+            "instalmentPaymentAgreementNotes": "",
+            "instalmentPaymentContractPaymentPeriodNumber": "1",
+            "instalmentPaymentConventionPaymentDate": "2009-05-11"
+          }
+        ],
+        "landLevel": "八级",
+        "landSourceView": "新增建设用地",
+        "landSupplyMethod": "挂牌出让",
+        "landUsePeriod": "70",
+        "landUseRightPerson": "金地（集团）股份有限公司",
+        "landUseType": "其他普通商品住房用地",
+        "projectLocation": "青浦区徐泾镇",
+        "projectName": "徐泾镇3号地块",
+        "scheduledCompletion": 1368201600000,
+        "transactionPrice": "56000"
+      }
+    ],
+    "total": 19
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "administrative_district": "上海市  上海市市辖区  浦东新区",
+        "id": 2339031,
+        "land_area": "5.64687",
+        "land_location": "浦东新区惠南镇 东至南祝公路，南至拱荣路，西至浦东运河，北至下盐路",
+        "land_usefulness": "城镇住宅用地",
+        "publication_date": "2019-12-19",
+        "publication_organize": "上海市浦东新区规划和自然资源局"
+      },
+      {
+        "administrative_district": "上海市  上海市市辖区  浦东新区",
+        "id": 2240811,
+        "land_area": "0.093",
+        "land_location": "浦东新区（原南汇区）惠南镇21街坊p1宗地",
+        "land_usefulness": "公用设施用地",
+        "publication_date": "2019-07-05",
+        "publication_organize": "上海市浦东新区规划和自然资源局"
+      },
+      {
+        "administrative_district": "上海市  上海市市辖区  浦东新区",
+        "id": 2269257,
+        "land_area": "1.11096",
+        "land_location": "浦东新区惠南镇",
+        "land_usefulness": "公路用地",
+        "publication_date": "2019-05-05",
+        "publication_organize": "上海市浦东新区规划和自然资源局"
+      },
+      {
+        "administrative_district": "上海市  上海市市辖区  浦东新区",
+        "id": 2298192,
+        "land_area": "0.44677",
+        "land_location": "浦东新区惠南镇",
+        "land_usefulness": "医疗卫生用地",
+        "publication_date": "2019-05-05",
+        "publication_organize": "上海市浦东新区规划和自然资源局"
+      },
+      {
+        "administrative_district": "上海市  上海市市辖区  浦东新区",
+        "id": 2287523,
+        "land_area": "3.15621",
+        "land_location": "浦东新区惠南镇",
+        "land_usefulness": "教育用地",
+        "publication_date": "2019-05-05",
+        "publication_organize": "上海市浦东新区规划和自然资源局"
+      },
+      {
+        "administrative_district": "上海市  上海市市辖区  浦东新区",
+        "id": 2302697,
+        "land_area": "0.56379",
+        "land_location": "浦东新区惠南镇",
+        "land_usefulness": "公园与绿地",
+        "publication_date": "2019-05-05",
+        "publication_organize": "上海市浦东新区规划和自然资源局"
+      },
+      {
+        "administrative_district": "上海市  上海市市辖区  浦东新区",
+        "id": 1280514,
+        "land_area": "0.28654",
+        "land_location": "浦东新区惠南镇",
+        "land_usefulness": "公园与绿地",
+        "publication_date": "2019-03-20",
+        "publication_organize": "上海市浦东新区规划和土地管理局"
+      },
+      {
+        "administrative_district": "上海市  上海市市辖区  浦东新区",
+        "id": 2334768,
+        "land_area": "0.07196",
+        "land_location": "浦东新区惠南镇",
+        "land_usefulness": "公园与绿地",
+        "publication_date": "2019-03-20",
+        "publication_organize": "上海市浦东新区规划和土地管理局"
+      },
+      {
+        "administrative_district": "上海市  上海市市辖区  浦东新区",
+        "id": 1263672,
+        "land_area": "0.04874",
+        "land_location": "浦东新区惠南镇",
+        "land_usefulness": "公园与绿地",
+        "publication_date": "2019-03-20",
+        "publication_organize": "上海市浦东新区规划和土地管理局"
+      },
+      {
+        "administrative_district": "上海市  上海市市辖区  浦东新区",
+        "id": 2268734,
+        "land_area": "1.39632",
+        "land_location": "浦东新区惠南镇",
+        "land_usefulness": "公园与绿地",
+        "publication_date": "2019-03-20",
+        "publication_organize": "上海市浦东新区规划和土地管理局"
+      },
+      {
+        "administrative_district": "上海市  上海市市辖区  浦东新区",
+        "id": 1247468,
+        "land_area": "0.35063",
+        "land_location": "浦东新区惠南镇",
+        "land_usefulness": "公园与绿地",
+        "publication_date": "2019-03-20",
+        "publication_organize": "上海市浦东新区规划和土地管理局"
+      },
+      {
+        "administrative_district": "上海市  上海市市辖区  浦东新区",
+        "id": 2346134,
+        "land_area": "0.35063",
+        "land_location": "浦东新区惠南镇",
+        "land_usefulness": "公园与绿地",
+        "publication_date": "2018-11-26",
+        "publication_organize": "上海市浦东新区规划和土地管理局"
+      },
+      {
+        "administrative_district": "上海市  上海市市辖区  浦东新区",
+        "id": 2331077,
+        "land_area": "0.28654",
+        "land_location": "浦东新区惠南镇",
+        "land_usefulness": "公园与绿地",
+        "publication_date": "2018-11-26",
+        "publication_organize": "上海市浦东新区规划和土地管理局"
+      },
+      {
+        "administrative_district": "上海市  上海市市辖区  浦东新区",
+        "id": 916845,
+        "land_area": "1.39632",
+        "land_location": "浦东新区惠南镇",
+        "land_usefulness": "公园与绿地",
+        "publication_date": "2018-11-13",
+        "publication_organize": "上海市浦东新区规划和土地管理局"
+      },
+      {
+        "administrative_district": "上海市  上海市市辖区  浦东新区",
+        "id": 971148,
+        "land_area": "0.07196",
+        "land_location": "浦东新区惠南镇",
+        "land_usefulness": "公园与绿地",
+        "publication_date": "2018-11-13",
+        "publication_organize": "上海市浦东新区规划和土地管理局"
+      },
+      {
+        "administrative_district": "上海市  上海市市辖区  浦东新区",
+        "id": 2295508,
+        "land_area": "2.69562",
+        "land_location": "浦东新区惠南镇",
+        "land_usefulness": "科教用地",
+        "publication_date": "2018-08-29",
+        "publication_organize": "上海市浦东新区规划和土地管理局"
+      },
+      {
+        "administrative_district": "上海市  上海市市辖区  浦东新区",
+        "id": 2349335,
+        "land_area": "0.72036",
+        "land_location": "浦东新区惠南镇",
+        "land_usefulness": "科教用地",
+        "publication_date": "2018-07-31",
+        "publication_organize": "上海市浦东新区规划和土地管理局"
+      },
+      {
+        "administrative_district": "上海市  上海市市辖区  浦东新区",
+        "id": 2295937,
+        "land_area": "0.75488",
+        "land_location": "浦东新区惠南镇",
+        "land_usefulness": "科教用地",
+        "publication_date": "2018-06-21",
+        "publication_organize": "上海市浦东新区规划和土地管理局"
+      },
+      {
+        "administrative_district": "上海市  上海市市辖区  浦东新区",
+        "id": 2331587,
+        "land_area": "2.22731",
+        "land_location": "浦东新区惠南镇",
+        "land_usefulness": "科教用地",
+        "publication_date": "2018-06-21",
+        "publication_organize": "上海市浦东新区规划和土地管理局"
+      },
+      {
+        "administrative_district": "上海市  上海市市辖区  浦东新区",
+        "id": 2347761,
+        "land_area": "3.50502",
+        "land_location": "浦东新区惠南镇",
+        "land_usefulness": "经济适用住房用地",
+        "publication_date": "2018-06-19",
+        "publication_organize": "上海市浦东新区规划和土地管理局"
+      }
+    ],
+    "total": 101
+  }
+}

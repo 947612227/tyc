@@ -1,0 +1,969 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "base": "",
+        "businessId": "voc71meo95ab6d61282915150lca1178",
+        "cancel": "",
+        "cancelDate": "2019-07-30",
+        "certifNumber": "非公示项",
+        "certifNumberR": "非公示项",
+        "changeSituation": "",
+        "companyList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司"
+          },
+          {
+            "id": "0",
+            "name": "向海龙"
+          },
+          {
+            "id": "22822",
+            "name": "北京百度网讯科技有限公司"
+          }
+        ],
+        "equityAmount": "3210.64",
+        "id": 24035864,
+        "pledgee": "百度在线网络技术（北京）有限公司",
+        "pledgeeList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司",
+            "type": 1
+          }
+        ],
+        "pledgeeStr": "<a href='https://www.tianyancha.com/company/23289175' target='_blank' data-type='company'>百度在线网络技术（北京）有限公司</a>",
+        "pledgor": "向海龙",
+        "pledgorList": [
+          {
+            "cid": null,
+            "hid": null,
+            "name": "向海龙",
+            "type": 1
+          }
+        ],
+        "pledgorStr": "向海龙",
+        "putDate": null,
+        "regDate": 1564416000000,
+        "regNumber": "91110000802100433B_0004",
+        "remarks": "所报材料真实合法，一切责任由当事人自负。",
+        "state": "无效"
+      },
+      {
+        "base": "",
+        "businessId": "voccz97404a6ed76a2408a1aal34z588",
+        "cancel": "",
+        "cancelDate": "",
+        "certifNumber": "非公示项",
+        "certifNumberR": "非公示项",
+        "changeSituation": "",
+        "companyList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司"
+          },
+          {
+            "id": "0",
+            "name": "向海龙"
+          },
+          {
+            "id": "22822",
+            "name": "北京百度网讯科技有限公司"
+          }
+        ],
+        "equityAmount": "3210.64",
+        "id": 24009731,
+        "pledgee": "百度在线网络技术（北京）有限公司",
+        "pledgeeList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司",
+            "type": 1
+          }
+        ],
+        "pledgeeStr": "<a href='https://www.tianyancha.com/company/23289175' target='_blank' data-type='company'>百度在线网络技术（北京）有限公司</a>",
+        "pledgor": "向海龙",
+        "pledgorList": [
+          {
+            "cid": null,
+            "hid": null,
+            "name": "向海龙",
+            "type": 1
+          }
+        ],
+        "pledgorStr": "向海龙",
+        "putDate": null,
+        "regDate": 1564416000000,
+        "regNumber": "91110000802100433B_0",
+        "remarks": "所报材料真实合法，一切责任由当事人自负。",
+        "state": "无效"
+      },
+      {
+        "base": "",
+        "businessId": "v7m7cmcof4624aa568e226161l16c088",
+        "cancel": "",
+        "cancelDate": "",
+        "certifNumber": "非公示项",
+        "certifNumberR": "非公示项",
+        "changeSituation": "",
+        "companyList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司"
+          },
+          {
+            "id": "22822",
+            "name": "北京百度网讯科技有限公司"
+          }
+        ],
+        "equityAmount": "638917.36",
+        "id": 23830804,
+        "pledgee": "百度在线网络技术（北京）有限公司",
+        "pledgeeList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司",
+            "type": 1
+          }
+        ],
+        "pledgeeStr": "<a href='https://www.tianyancha.com/company/23289175' target='_blank' data-type='company'>百度在线网络技术（北京）有限公司</a>",
+        "pledgor": "李彦宏",
+        "pledgorList": [
+          {
+            "cid": 22822,
+            "hid": 1984012283,
+            "name": "李彦宏",
+            "type": 2
+          }
+        ],
+        "pledgorStr": "<a href='https://www.tianyancha.com/human/1984012283-c22822' target='_blank'>李彦宏</a>",
+        "putDate": null,
+        "regDate": 1549123200000,
+        "regNumber": "110108002734659_0002",
+        "remarks": "所报材料真实合法，一切责任由当事人自负。",
+        "state": "有效"
+      },
+      {
+        "base": "",
+        "businessId": "v7m7cmc7418616f01b1e48184ldbc808",
+        "cancel": "",
+        "cancelDate": "",
+        "certifNumber": "非公示项",
+        "certifNumberR": "非公示项",
+        "changeSituation": "",
+        "companyList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司"
+          },
+          {
+            "id": "0",
+            "name": "向海龙"
+          },
+          {
+            "id": "22822",
+            "name": "北京百度网讯科技有限公司"
+          }
+        ],
+        "equityAmount": "3210.64",
+        "id": 23830803,
+        "pledgee": "百度在线网络技术（北京）有限公司",
+        "pledgeeList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司",
+            "type": 1
+          }
+        ],
+        "pledgeeStr": "<a href='https://www.tianyancha.com/company/23289175' target='_blank' data-type='company'>百度在线网络技术（北京）有限公司</a>",
+        "pledgor": "向海龙",
+        "pledgorList": [
+          {
+            "cid": null,
+            "hid": null,
+            "name": "向海龙",
+            "type": 1
+          }
+        ],
+        "pledgorStr": "向海龙",
+        "putDate": null,
+        "regDate": 1549123200000,
+        "regNumber": "91110000802100433B_0",
+        "remarks": "所报材料真实合法，一切责任由当事人自负。",
+        "state": "有效"
+      },
+      {
+        "base": "bj",
+        "businessId": "vcm1ozo499b94a023efc6f1f4l51o838",
+        "cancel": "",
+        "cancelDate": "",
+        "certifNumber": "非公示项",
+        "certifNumberR": "非公示项",
+        "changeSituation": "",
+        "companyList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司"
+          },
+          {
+            "id": "0",
+            "name": "向海龙"
+          },
+          {
+            "id": "22822",
+            "name": "北京百度网讯科技有限公司"
+          }
+        ],
+        "equityAmount": "— —",
+        "id": 20854941,
+        "pledgee": "百度在线网络技术（北京）有限公司",
+        "pledgeeList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司",
+            "type": 1
+          }
+        ],
+        "pledgeeStr": "<a href='https://www.tianyancha.com/company/23289175' target='_blank' data-type='company'>百度在线网络技术（北京）有限公司</a>",
+        "pledgor": "向海龙",
+        "pledgorList": [
+          {
+            "cid": null,
+            "hid": null,
+            "name": "向海龙",
+            "type": 1
+          }
+        ],
+        "pledgorStr": "向海龙",
+        "putDate": null,
+        "regDate": 1525968000000,
+        "regNumber": "91110000802100433B_0",
+        "remarks": "所报材料真实合法，一切责任由当事人自负。",
+        "state": "— —"
+      },
+      {
+        "base": "bj",
+        "businessId": "vcm1ozoc00075d6e0e8059191lb9o368",
+        "cancel": "",
+        "cancelDate": "",
+        "certifNumber": "非公示项",
+        "certifNumberR": "非公示项",
+        "changeSituation": "",
+        "companyList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司"
+          },
+          {
+            "id": "22822",
+            "name": "北京百度网讯科技有限公司"
+          }
+        ],
+        "equityAmount": "9950 万元",
+        "id": 20854940,
+        "pledgee": "百度在线网络技术（北京）有限公司",
+        "pledgeeList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司",
+            "type": 1
+          }
+        ],
+        "pledgeeStr": "<a href='https://www.tianyancha.com/company/23289175' target='_blank' data-type='company'>百度在线网络技术（北京）有限公司</a>",
+        "pledgor": "李彦宏",
+        "pledgorList": [
+          {
+            "cid": 22822,
+            "hid": 1984012283,
+            "name": "李彦宏",
+            "type": 2
+          }
+        ],
+        "pledgorStr": "<a href='https://www.tianyancha.com/human/1984012283-c22822' target='_blank'>李彦宏</a>",
+        "putDate": null,
+        "regDate": 1525968000000,
+        "regNumber": "110108002734659_0002",
+        "remarks": "所报材料真实合法，一切责任由当事人自负。",
+        "state": "设立"
+      },
+      {
+        "base": "",
+        "businessId": "vc19c4v7c19838786ceedb1b1l91cc08",
+        "cancel": "",
+        "cancelDate": "",
+        "certifNumber": "非公示项",
+        "certifNumberR": "非公示项",
+        "changeSituation": "",
+        "companyList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司"
+          },
+          {
+            "id": "22822",
+            "name": "北京百度网讯科技有限公司"
+          }
+        ],
+        "equityAmount": "216042.36",
+        "id": 20570123,
+        "pledgee": "百度在线网络技术（北京）有限公司",
+        "pledgeeList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司",
+            "type": 1
+          }
+        ],
+        "pledgeeStr": "<a href='https://www.tianyancha.com/company/23289175' target='_blank' data-type='company'>百度在线网络技术（北京）有限公司</a>",
+        "pledgor": "李彦宏",
+        "pledgorList": [
+          {
+            "cid": 22822,
+            "hid": 1984012283,
+            "name": "李彦宏",
+            "type": 2
+          }
+        ],
+        "pledgorStr": "<a href='https://www.tianyancha.com/human/1984012283-c22822' target='_blank'>李彦宏</a>",
+        "putDate": null,
+        "regDate": 1525968000000,
+        "regNumber": "110108002734659_0002",
+        "remarks": "所报材料真实合法，一切责任由当事人自负。",
+        "state": "有效"
+      },
+      {
+        "base": "",
+        "businessId": "vc19c4vv2144d97979a08c1ccl85c5c8",
+        "cancel": "",
+        "cancelDate": "",
+        "certifNumber": "非公示项",
+        "certifNumberR": "非公示项",
+        "changeSituation": "",
+        "companyList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司"
+          },
+          {
+            "id": "0",
+            "name": "向海龙"
+          },
+          {
+            "id": "22822",
+            "name": "北京百度网讯科技有限公司"
+          }
+        ],
+        "equityAmount": "1085.64",
+        "id": 20570122,
+        "pledgee": "百度在线网络技术（北京）有限公司",
+        "pledgeeList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司",
+            "type": 1
+          }
+        ],
+        "pledgeeStr": "<a href='https://www.tianyancha.com/company/23289175' target='_blank' data-type='company'>百度在线网络技术（北京）有限公司</a>",
+        "pledgor": "向海龙",
+        "pledgorList": [
+          {
+            "cid": null,
+            "hid": null,
+            "name": "向海龙",
+            "type": 1
+          }
+        ],
+        "pledgorStr": "向海龙",
+        "putDate": null,
+        "regDate": 1525968000000,
+        "regNumber": "91110000802100433B_0",
+        "remarks": "所报材料真实合法，一切责任由当事人自负。",
+        "state": "有效"
+      },
+      {
+        "base": "",
+        "businessId": "vcc1c4mm499ffe3784e3b111flafcc18",
+        "cancel": "",
+        "cancelDate": "",
+        "certifNumber": "非公示项",
+        "certifNumberR": "非公示项",
+        "changeSituation": "",
+        "companyList": [
+          {
+            "id": "26016300",
+            "name": "北京奇艺世纪科技有限公司"
+          },
+          {
+            "id": "22822",
+            "name": "北京百度网讯科技有限公司"
+          },
+          {
+            "id": "2262980",
+            "name": "北京鼎新天下科技有限公司"
+          }
+        ],
+        "equityAmount": "5000",
+        "id": 20050188,
+        "pledgee": "北京奇艺世纪科技有限公司",
+        "pledgeeList": [
+          {
+            "id": "26016300",
+            "name": "北京奇艺世纪科技有限公司",
+            "type": 1
+          }
+        ],
+        "pledgeeStr": "<a href='https://www.tianyancha.com/company/26016300' target='_blank' data-type='company'>北京奇艺世纪科技有限公司</a>",
+        "pledgor": "北京百度网讯科技有限公司",
+        "pledgorList": [
+          {
+            "cid": 22822,
+            "hid": null,
+            "name": "北京百度网讯科技有限公司",
+            "type": 1
+          }
+        ],
+        "pledgorStr": "<a href='https://www.tianyancha.com/company/22822' target='_blank' data-type='company'>北京百度网讯科技有限公司</a>",
+        "putDate": null,
+        "regDate": 1512403200000,
+        "regNumber": "110108012602314_0001",
+        "remarks": "所报材料真实合法，一切责任由当事人自负。",
+        "state": "无效"
+      },
+      {
+        "base": "",
+        "businessId": "4m1zv1c98f0b7b8481aeba1a0ldbv6f8",
+        "cancel": "",
+        "cancelDate": "",
+        "certifNumber": "非公示项",
+        "certifNumberR": "非公示项",
+        "changeSituation": "",
+        "companyList": [
+          {
+            "id": "26016300",
+            "name": "北京奇艺世纪科技有限公司"
+          },
+          {
+            "id": "22822",
+            "name": "北京百度网讯科技有限公司"
+          },
+          {
+            "id": "2262980",
+            "name": "北京鼎新天下科技有限公司"
+          }
+        ],
+        "equityAmount": "5000",
+        "id": 18592507,
+        "pledgee": "北京奇艺世纪科技有限公司",
+        "pledgeeList": [
+          {
+            "id": "26016300",
+            "name": "北京奇艺世纪科技有限公司",
+            "type": 1
+          }
+        ],
+        "pledgeeStr": "<a href='https://www.tianyancha.com/company/26016300' target='_blank' data-type='company'>北京奇艺世纪科技有限公司</a>",
+        "pledgor": "北京百度网讯科技有限公司",
+        "pledgorList": [
+          {
+            "cid": 22822,
+            "hid": null,
+            "name": "北京百度网讯科技有限公司",
+            "type": 1
+          }
+        ],
+        "pledgorStr": "<a href='https://www.tianyancha.com/company/22822' target='_blank' data-type='company'>北京百度网讯科技有限公司</a>",
+        "putDate": null,
+        "regDate": 1512403200000,
+        "regNumber": "110108012602314_0001",
+        "remarks": "所报材料真实合法，一切责任由当事人自负。",
+        "state": ""
+      },
+      {
+        "base": "",
+        "businessId": "4m44v919082a2948fa919b1b7l92va98",
+        "cancel": "",
+        "cancelDate": "",
+        "certifNumber": "非公示项",
+        "certifNumberR": "非公示项",
+        "changeSituation": "",
+        "companyList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司"
+          },
+          {
+            "id": "0",
+            "name": "王湛"
+          },
+          {
+            "id": "22822",
+            "name": "北京百度网讯科技有限公司"
+          }
+        ],
+        "equityAmount": "50",
+        "id": 18112757,
+        "pledgee": "百度在线网络技术（北京）有限公司",
+        "pledgeeList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司",
+            "type": 1
+          }
+        ],
+        "pledgeeStr": "<a href='https://www.tianyancha.com/company/23289175' target='_blank' data-type='company'>百度在线网络技术（北京）有限公司</a>",
+        "pledgor": "王湛",
+        "pledgorList": [
+          {
+            "cid": null,
+            "hid": null,
+            "name": "王湛",
+            "type": 1
+          }
+        ],
+        "pledgorStr": "王湛",
+        "putDate": null,
+        "regDate": 1494259200000,
+        "regNumber": "110108002734659_0003",
+        "remarks": "所报材料真实合法，一切责任由当事人自负。",
+        "state": ""
+      },
+      {
+        "base": "bj",
+        "businessId": "41zc994941cb8ebcdfd55c1c1l279098",
+        "cancel": "",
+        "cancelDate": "",
+        "certifNumber": "非公示项",
+        "certifNumberR": "非公示项",
+        "changeSituation": "",
+        "companyList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司"
+          },
+          {
+            "id": "0",
+            "name": "王湛"
+          },
+          {
+            "id": "22822",
+            "name": "北京百度网讯科技有限公司"
+          }
+        ],
+        "equityAmount": "50 万元",
+        "id": 15907717,
+        "pledgee": "百度在线网络技术（北京）有限公司",
+        "pledgeeList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司",
+            "type": 1
+          }
+        ],
+        "pledgeeStr": "<a href='https://www.tianyancha.com/company/23289175' target='_blank' data-type='company'>百度在线网络技术（北京）有限公司</a>",
+        "pledgor": "王湛",
+        "pledgorList": [
+          {
+            "cid": null,
+            "hid": null,
+            "name": "王湛",
+            "type": 1
+          }
+        ],
+        "pledgorStr": "王湛",
+        "putDate": null,
+        "regDate": 1494259200000,
+        "regNumber": "110108002734659_0003",
+        "remarks": "所报材料真实合法，一切责任由当事人自负。",
+        "state": "注销"
+      },
+      {
+        "base": "bj",
+        "businessId": "47mzc4114e34e99c767573135l00c178",
+        "cancel": "",
+        "cancelDate": "2017-05-09",
+        "certifNumber": "非公示项",
+        "certifNumberR": "非公示项",
+        "changeSituation": "",
+        "companyList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司"
+          },
+          {
+            "id": "0",
+            "name": "王湛"
+          },
+          {
+            "id": "22822",
+            "name": "北京百度网讯科技有限公司"
+          }
+        ],
+        "equityAmount": "50",
+        "id": 13890155,
+        "pledgee": "百度在线网络技术（北京）有限公司",
+        "pledgeeList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司",
+            "type": 1
+          }
+        ],
+        "pledgeeStr": "<a href='https://www.tianyancha.com/company/23289175' target='_blank' data-type='company'>百度在线网络技术（北京）有限公司</a>",
+        "pledgor": "王湛",
+        "pledgorList": [
+          {
+            "cid": null,
+            "hid": null,
+            "name": "王湛",
+            "type": 1
+          }
+        ],
+        "pledgorStr": "王湛",
+        "putDate": null,
+        "regDate": 1494259200000,
+        "regNumber": "110108002734659_0003",
+        "remarks": "所报材料真实合法，一切责任由当事人自负。",
+        "state": "无效"
+      },
+      {
+        "base": "bj",
+        "businessId": "4o4z1z1751c67485a1bbaf1f0l501f48",
+        "cancel": "",
+        "cancelDate": "",
+        "certifNumber": "非公示项",
+        "certifNumberR": "非公示项",
+        "changeSituation": "",
+        "companyList": [
+          {
+            "id": "2314166968",
+            "name": "作业帮教育科技（北京）有限公司"
+          },
+          {
+            "id": "22822",
+            "name": "北京百度网讯科技有限公司"
+          },
+          {
+            "id": "2310297330",
+            "name": "小船出海教育科技（北京）有限公司"
+          }
+        ],
+        "equityAmount": "462 万元",
+        "id": 14195953,
+        "pledgee": "作业帮教育科技（北京）有限公司",
+        "pledgeeList": [
+          {
+            "id": "2314166968",
+            "name": "作业帮教育科技（北京）有限公司",
+            "type": 1
+          }
+        ],
+        "pledgeeStr": "<a href='https://www.tianyancha.com/company/2314166968' target='_blank' data-type='company'>作业帮教育科技（北京）有限公司</a>",
+        "pledgor": "北京百度网讯科技有限公司",
+        "pledgorList": [
+          {
+            "cid": 22822,
+            "hid": null,
+            "name": "北京百度网讯科技有限公司",
+            "type": 1
+          }
+        ],
+        "pledgorStr": "<a href='https://www.tianyancha.com/company/22822' target='_blank' data-type='company'>北京百度网讯科技有限公司</a>",
+        "putDate": null,
+        "regDate": 1480521600000,
+        "regNumber": "110108019280606_0005",
+        "remarks": "所报材料真实合法，一切责任由当事人自负。",
+        "state": "设立"
+      },
+      {
+        "base": "",
+        "businessId": "vo7em7mvf1dc6948ccb5cf1fblfam718",
+        "cancel": "",
+        "cancelDate": "2015-01-14",
+        "certifNumber": "非公示项",
+        "certifNumberR": "非公示项",
+        "changeSituation": "",
+        "companyList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司"
+          },
+          {
+            "id": "22822",
+            "name": "北京百度网讯科技有限公司"
+          },
+          {
+            "id": "3381591494",
+            "name": "北京度小满支付科技有限公司"
+          }
+        ],
+        "equityAmount": "9100",
+        "id": 24368382,
+        "pledgee": "百度在线网络技术（北京）有限公司",
+        "pledgeeList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司",
+            "type": 1
+          }
+        ],
+        "pledgeeStr": "<a href='https://www.tianyancha.com/company/23289175' target='_blank' data-type='company'>百度在线网络技术（北京）有限公司</a>",
+        "pledgor": "北京百度网讯科技有限公司",
+        "pledgorList": [
+          {
+            "cid": 22822,
+            "hid": null,
+            "name": "北京百度网讯科技有限公司",
+            "type": 1
+          }
+        ],
+        "pledgorStr": "<a href='https://www.tianyancha.com/company/22822' target='_blank' data-type='company'>北京百度网讯科技有限公司</a>",
+        "putDate": null,
+        "regDate": 1421164800000,
+        "regNumber": "110000010841624_0002",
+        "remarks": "所报材料真实合法，一切责任由当事人自负。",
+        "state": "无效"
+      },
+      {
+        "base": "",
+        "businessId": "4zm9co94489011b3d51a4212bl13cf78",
+        "cancel": "",
+        "cancelDate": "",
+        "certifNumber": "非公示项",
+        "certifNumberR": "非公示项",
+        "changeSituation": "",
+        "companyList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司"
+          },
+          {
+            "id": "22822",
+            "name": "北京百度网讯科技有限公司"
+          },
+          {
+            "id": "26031220",
+            "name": "北京百付宝科技有限公司"
+          }
+        ],
+        "equityAmount": "9100",
+        "id": 19870471,
+        "pledgee": "百度在线网络技术（北京）有限公司",
+        "pledgeeList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司",
+            "type": 1
+          }
+        ],
+        "pledgeeStr": "<a href='https://www.tianyancha.com/company/23289175' target='_blank' data-type='company'>百度在线网络技术（北京）有限公司</a>",
+        "pledgor": "北京百度网讯科技有限公司",
+        "pledgorList": [
+          {
+            "cid": 22822,
+            "hid": null,
+            "name": "北京百度网讯科技有限公司",
+            "type": 1
+          }
+        ],
+        "pledgorStr": "<a href='https://www.tianyancha.com/company/22822' target='_blank' data-type='company'>北京百度网讯科技有限公司</a>",
+        "putDate": null,
+        "regDate": 1421164800000,
+        "regNumber": "110000010841624_0002",
+        "remarks": "所报材料真实合法，一切责任由当事人自负。",
+        "state": "无效"
+      },
+      {
+        "base": "",
+        "businessId": "4mvev1v1fd1e74aa07919e1e3la3v278",
+        "cancel": "",
+        "cancelDate": "",
+        "certifNumber": "非公示项",
+        "certifNumberR": "非公示项",
+        "changeSituation": "",
+        "companyList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司"
+          },
+          {
+            "id": "22822",
+            "name": "北京百度网讯科技有限公司"
+          },
+          {
+            "id": "26031220",
+            "name": "北京百付宝科技有限公司"
+          }
+        ],
+        "equityAmount": "9100",
+        "id": 18262525,
+        "pledgee": "百度在线网络技术（北京）有限公司",
+        "pledgeeList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司",
+            "type": 1
+          }
+        ],
+        "pledgeeStr": "<a href='https://www.tianyancha.com/company/23289175' target='_blank' data-type='company'>百度在线网络技术（北京）有限公司</a>",
+        "pledgor": "北京百度网讯科技有限公司",
+        "pledgorList": [
+          {
+            "cid": 22822,
+            "hid": null,
+            "name": "北京百度网讯科技有限公司",
+            "type": 1
+          }
+        ],
+        "pledgorStr": "<a href='https://www.tianyancha.com/company/22822' target='_blank' data-type='company'>北京百度网讯科技有限公司</a>",
+        "putDate": null,
+        "regDate": 1421164800000,
+        "regNumber": "110000010841624_0002",
+        "remarks": "所报材料真实合法，一切责任由当事人自负。",
+        "state": ""
+      },
+      {
+        "base": "bj",
+        "businessId": "41e7mvo753f6e9d0ceedc5153lb8mf68",
+        "cancel": "",
+        "cancelDate": "",
+        "certifNumber": "非公示项",
+        "certifNumberR": "非公示项",
+        "changeSituation": "",
+        "companyList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司"
+          },
+          {
+            "id": "22822",
+            "name": "北京百度网讯科技有限公司"
+          },
+          {
+            "id": "26031220",
+            "name": "北京百付宝科技有限公司"
+          }
+        ],
+        "equityAmount": "9100 万元",
+        "id": 15638243,
+        "pledgee": "百度在线网络技术（北京）有限公司",
+        "pledgeeList": [
+          {
+            "id": "23289175",
+            "name": "百度在线网络技术（北京）有限公司",
+            "type": 1
+          }
+        ],
+        "pledgeeStr": "<a href='https://www.tianyancha.com/company/23289175' target='_blank' data-type='company'>百度在线网络技术（北京）有限公司</a>",
+        "pledgor": "北京百度网讯科技有限公司",
+        "pledgorList": [
+          {
+            "cid": 22822,
+            "hid": null,
+            "name": "北京百度网讯科技有限公司",
+            "type": 1
+          }
+        ],
+        "pledgorStr": "<a href='https://www.tianyancha.com/company/22822' target='_blank' data-type='company'>北京百度网讯科技有限公司</a>",
+        "putDate": null,
+        "regDate": 1421164800000,
+        "regNumber": "110000010841624_0002",
+        "remarks": "所报材料真实合法，一切责任由当事人自负。",
+        "state": "注销"
+      },
+      {
+        "base": "bj",
+        "businessId": "41om4o4cacb12d467e1d3c1cfl604c88",
+        "cancel": "",
+        "cancelDate": "",
+        "certifNumber": "非公示项",
+        "certifNumberR": "非公示项",
+        "changeSituation": "",
+        "companyList": [
+          {
+            "id": "22822",
+            "name": "北京百度网讯科技有限公司"
+          },
+          {
+            "id": "24777780",
+            "name": "北京云学时代科技有限公司"
+          }
+        ],
+        "equityAmount": "25 万元",
+        "id": 15481410,
+        "pledgee": "北京百度网讯科技有限公司",
+        "pledgeeList": [
+          {
+            "id": "22822",
+            "name": "北京百度网讯科技有限公司",
+            "type": 1
+          }
+        ],
+        "pledgeeStr": "<a href='https://www.tianyancha.com/company/22822' target='_blank' data-type='company'>北京百度网讯科技有限公司</a>",
+        "pledgor": "周建飞",
+        "pledgorList": [
+          {
+            "cid": 24777780,
+            "hid": 1854414330,
+            "name": "周建飞",
+            "type": 2
+          }
+        ],
+        "pledgorStr": "<a href='https://www.tianyancha.com/human/1854414330-c22822' target='_blank'>周建飞</a>",
+        "putDate": 1404230400000,
+        "regDate": 1419782400000,
+        "regNumber": "110105015951428_0003",
+        "remarks": "所报材料真实合法，一切责任由当事人自负。",
+        "state": "无效"
+      },
+      {
+        "base": "bj",
+        "businessId": "41om4ocz02b9ecb677291f1ffl6f43b8",
+        "cancel": "",
+        "cancelDate": "",
+        "certifNumber": "非公示项",
+        "certifNumberR": "非公示项",
+        "changeSituation": "",
+        "companyList": [
+          {
+            "id": "22822",
+            "name": "北京百度网讯科技有限公司"
+          },
+          {
+            "id": "24777780",
+            "name": "北京云学时代科技有限公司"
+          }
+        ],
+        "equityAmount": "25 万元",
+        "id": 15481409,
+        "pledgee": "北京百度网讯科技有限公司",
+        "pledgeeList": [
+          {
+            "id": "22822",
+            "name": "北京百度网讯科技有限公司",
+            "type": 1
+          }
+        ],
+        "pledgeeStr": "<a href='https://www.tianyancha.com/company/22822' target='_blank' data-type='company'>北京百度网讯科技有限公司</a>",
+        "pledgor": "李健",
+        "pledgorList": [
+          {
+            "cid": 24777780,
+            "hid": 1979639199,
+            "name": "李健",
+            "type": 2
+          }
+        ],
+        "pledgorStr": "<a href='https://www.tianyancha.com/human/1979639199-c22822' target='_blank'>李健</a>",
+        "putDate": 1404230400000,
+        "regDate": 1419782400000,
+        "regNumber": "110105015951428_0001",
+        "remarks": "所报材料真实合法，一切责任由当事人自负。",
+        "state": "无效"
+      }
+    ],
+    "total": 27
+  }
+}

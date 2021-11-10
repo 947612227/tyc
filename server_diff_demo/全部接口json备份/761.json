@@ -1,0 +1,85 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "alias": "沈",
+        "amount": "-",
+        "capital": [
+          {
+            "amomon": "-",
+            "paymet": "-",
+            "percent": "-",
+            "time": "-"
+          }
+        ],
+        "endTime": 1329321600000,
+        "id": "2045127266",
+        "logo": "https://imgh.tianyancha.com/logo/human/127df64cf44a7669622f13feab83f794_d200x200.png",
+        "name": "沈皓瑜",
+        "startTime": 1297612800000,
+        "toco": 2,
+        "type": 0
+      },
+      {
+        "alias": "王",
+        "amount": "-",
+        "capital": [
+          {
+            "amomon": "-",
+            "paymet": "-",
+            "percent": "-",
+            "time": "-"
+          }
+        ],
+        "endTime": 1499097600000,
+        "id": "2074091018",
+        "logo": "https://imgh.tianyancha.com/logo/human/02bb9119af3a1bafd93ace0f8238af82_d200x200.png",
+        "name": "王湛",
+        "startTime": 1329321600000,
+        "toco": 25,
+        "type": 0
+      },
+      {
+        "alias": "徐",
+        "amount": "-",
+        "capital": [
+          {
+            "amomon": "-",
+            "paymet": "-",
+            "percent": "-",
+            "time": "-"
+          }
+        ],
+        "endTime": 1297612800000,
+        "id": "1939484677",
+        "logo": "",
+        "name": "徐勇",
+        "startTime": 991670400000,
+        "toco": 0,
+        "type": 0
+      },
+      {
+        "alias": "向",
+        "amount": "-",
+        "capital": [
+          {
+            "amomon": "-",
+            "paymet": "-",
+            "percent": "-",
+            "time": "-"
+          }
+        ],
+        "endTime": 1566230400000,
+        "id": "1839080315",
+        "logo": "https://imgh.tianyancha.com/logo/human/57a4e623227df05c7c328e51da7fce92_d200x200.png",
+        "name": "向海龙",
+        "startTime": 1499097600000,
+        "toco": 16,
+        "type": 0
+      }
+    ],
+    "total": 4
+  }
+}

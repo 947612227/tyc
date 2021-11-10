@@ -1,0 +1,21 @@
+标准服务:
+请求:
+http://open.api.tianyancha.com/services/v4/open/position?keyword=%E4%B8%AD%E8%88%AA%E9%87%8D%E6%9C%BA%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+参数：http://open.api.tianyancha.com/services/v4/open/position?keyword=%E4%B8%AD%E8%88%AA%E9%87%8D%E6%9C%BA%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+
+
+标准接口调用结果:
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "city": "贵阳市",
+    "district": "南明区",
+    "graphId": 11684584,
+    "latitude": 26.5489153063178,
+    "longitude": 106.782785058114,
+    "name": "中航重机股份有限公司",
+    "province": "贵州省",
+    "regLocation": "贵州双龙航空港经济区机场路9号太升国际A栋3单元5层"
+  }
+}

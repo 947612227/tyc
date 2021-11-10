@@ -1,0 +1,130 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "investAmount": "1181000万人民币",
+        "proportion": "100%",
+        "shareHolderMemberId": 3046112687,
+        "shareHolderMemberName": "达孜县百瑞翔创业投资管理有限责任公司"
+      },
+      {
+        "investAmount": "150000万人民币",
+        "proportion": "100%",
+        "shareHolderMemberId": 4859482089,
+        "shareHolderMemberName": "百度云计算（上海）有限公司"
+      },
+      {
+        "investAmount": "76141.3726万人民币",
+        "proportion": "100%",
+        "shareHolderMemberId": 3485130445,
+        "shareHolderMemberName": "上海小度人工智能有限公司"
+      },
+      {
+        "investAmount": "21015.2218万人民币",
+        "proportion": "53.557%",
+        "shareHolderMemberId": 24489290,
+        "shareHolderMemberName": "北京幻想纵横网络技术有限公司"
+      },
+      {
+        "investAmount": "29000万人民币",
+        "proportion": "100%",
+        "shareHolderMemberId": 2310470083,
+        "shareHolderMemberName": "百度鹏寰资产管理（北京）有限公司"
+      },
+      {
+        "investAmount": "17200万人民币",
+        "proportion": "100%",
+        "shareHolderMemberId": 26080527,
+        "shareHolderMemberName": "北京长地万方科技有限公司"
+      },
+      {
+        "investAmount": "6111.1111万人民币",
+        "proportion": "55%",
+        "shareHolderMemberId": 4050121649,
+        "shareHolderMemberName": "华录易云科技有限公司"
+      },
+      {
+        "investAmount": "10000万人民币",
+        "proportion": "100%",
+        "shareHolderMemberId": 3125216335,
+        "shareHolderMemberName": "百度雄安科技有限公司"
+      },
+      {
+        "investAmount": "5102.0408万人民币",
+        "proportion": "100%",
+        "shareHolderMemberId": 107706459,
+        "shareHolderMemberName": "上海百度人才咨询有限公司"
+      },
+      {
+        "investAmount": "1449.4577万人民币",
+        "proportion": "38.806%",
+        "shareHolderMemberId": 934605,
+        "shareHolderMemberName": "北京太合音乐文化发展有限公司"
+      },
+      {
+        "investAmount": "3000万人民币",
+        "proportion": "100%",
+        "shareHolderMemberId": 3411760479,
+        "shareHolderMemberName": "百度健康（北京）科技有限公司"
+      },
+      {
+        "investAmount": "226.1782万人民币",
+        "proportion": "15.949%",
+        "shareHolderMemberId": 99678873,
+        "shareHolderMemberName": "云丁网络技术（北京）有限公司"
+      },
+      {
+        "investAmount": "1187.9307万人民币",
+        "proportion": "100%",
+        "shareHolderMemberId": 3147066859,
+        "shareHolderMemberName": "湖南微算互联信息技术有限公司"
+      },
+      {
+        "investAmount": "1000万人民币",
+        "proportion": "100%",
+        "shareHolderMemberId": 25104813,
+        "shareHolderMemberName": "北京乐和彩科技有限公司"
+      },
+      {
+        "investAmount": "1000万人民币",
+        "proportion": "100%",
+        "shareHolderMemberId": 3277354448,
+        "shareHolderMemberName": "北京康夫子健康技术有限公司"
+      },
+      {
+        "investAmount": "600万人民币",
+        "proportion": "60%",
+        "shareHolderMemberId": 4044000079,
+        "shareHolderMemberName": "贵州百讯智汇科技有限公司"
+      },
+      {
+        "investAmount": "462万人民币",
+        "proportion": "46.2%",
+        "shareHolderMemberId": 2310297330,
+        "shareHolderMemberName": "小船出海教育科技（北京）有限公司"
+      },
+      {
+        "investAmount": "311.0833万人民币",
+        "proportion": "52.249%",
+        "shareHolderMemberId": 2350111935,
+        "shareHolderMemberName": "北京小度互娱科技有限公司"
+      },
+      {
+        "investAmount": "5000万人民币",
+        "proportion": "100%",
+        "shareHolderMemberId": 2262980,
+        "shareHolderMemberName": "北京鼎新天下科技有限公司"
+      },
+      {
+        "investAmount": "400万人民币",
+        "proportion": "100%",
+        "shareHolderMemberId": 554335681,
+        "shareHolderMemberName": "合肥优点信息技术有限公司"
+      }
+    ],
+    "total": 24,
+    "viewTotal": 0
+  }
+}

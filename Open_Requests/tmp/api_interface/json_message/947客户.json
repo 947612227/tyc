@@ -1,0 +1,269 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "clientsYear": [
+      {
+        "title": "全部年份",
+        "value": "-100"
+      },
+      {
+        "title": "2021(20)",
+        "value": "2021"
+      },
+      {
+        "title": "2020(77)",
+        "value": "2020"
+      },
+      {
+        "title": "2019(61)",
+        "value": "2019"
+      },
+      {
+        "title": "2018(30)",
+        "value": "2018"
+      },
+      {
+        "title": "2017(22)",
+        "value": "2017"
+      },
+      {
+        "title": "2016(8)",
+        "value": "2016"
+      },
+      {
+        "title": "2015(8)",
+        "value": "2015"
+      },
+      {
+        "title": "2013(1)",
+        "value": "2013"
+      }
+    ],
+    "pageBean": {
+      "result": [
+        {
+          "alias": "气象台",
+          "amt": "",
+          "announcement_date": 1618502400000,
+          "client_graphId": 2311283844,
+          "client_name": "重庆市气象台",
+          "dataSource": "招投标公告",
+          "logo": "",
+          "ratio": "",
+          "relationship": ""
+        },
+        {
+          "alias": "厚学网",
+          "amt": "23.46",
+          "announcement_date": 1617811200000,
+          "client_graphId": 2349023833,
+          "client_name": "江苏厚学网信息技术股份有限公司",
+          "dataSource": "客户公告",
+          "logo": "https://img5.tianyancha.com/logo/lll/54fef9c1c2aa5ff6e437922e840d8498.png@!f_200x200",
+          "ratio": "5.63%",
+          "relationship": "非关联方"
+        },
+        {
+          "alias": "国网",
+          "amt": "",
+          "announcement_date": 1616947200000,
+          "client_graphId": 2346675115,
+          "client_name": "国网福建省电力有限公司物资分公司",
+          "dataSource": "招投标公告",
+          "logo": "https://img5.tianyancha.com/logo/lll/ff0dec9d5e8b7e661bcbce365f5ee3c7.png@!f_200x200",
+          "ratio": "",
+          "relationship": ""
+        },
+        {
+          "alias": "经济信息",
+          "amt": "887.00",
+          "announcement_date": 1616947200000,
+          "client_graphId": 3046343524,
+          "client_name": "中国经济信息社有限公司",
+          "dataSource": "招投标公告",
+          "logo": "https://img5.tianyancha.com/logo/lll/01053d8fab861191ad81e134845813c3.png@!f_200x200",
+          "ratio": "",
+          "relationship": ""
+        },
+        {
+          "alias": "西部国际",
+          "amt": "48.88",
+          "announcement_date": 1616428800000,
+          "client_graphId": 206594896,
+          "client_name": "重庆西部国际涉农物流加工区建设发展有限公司",
+          "dataSource": "招投标公告",
+          "logo": "https://img5.tianyancha.com/logo/lll/912bf93c5547f2d6dcdc32c4719a362f.png@!f_200x200",
+          "ratio": "",
+          "relationship": ""
+        },
+        {
+          "alias": "光大银行",
+          "amt": "181.00",
+          "announcement_date": 1615910400000,
+          "client_graphId": 22448805,
+          "client_name": "中国光大银行股份有限公司",
+          "dataSource": "招投标公告",
+          "logo": "https://img5.tianyancha.com/logo/lll/7f5556a3e1197960d5e2168189abb8be.png@!f_200x200",
+          "ratio": "",
+          "relationship": ""
+        },
+        {
+          "alias": "光大银行",
+          "amt": "0.73",
+          "announcement_date": 1615392000000,
+          "client_graphId": 22448805,
+          "client_name": "中国光大银行股份有限公司",
+          "dataSource": "招投标公告",
+          "logo": "https://img5.tianyancha.com/logo/lll/7f5556a3e1197960d5e2168189abb8be.png@!f_200x200",
+          "ratio": "",
+          "relationship": ""
+        },
+        {
+          "alias": "中国联合",
+          "amt": "411.00",
+          "announcement_date": 1615305600000,
+          "client_graphId": 23539151,
+          "client_name": "中国联合网络通信有限公司软件研究院",
+          "dataSource": "招投标公告",
+          "logo": "https://img5.tianyancha.com/logo/lll/8317af8fb3d2d21fe5b4bd28d91ee5a3.png@!f_200x200",
+          "ratio": "",
+          "relationship": ""
+        },
+        {
+          "alias": "中国联合",
+          "amt": "",
+          "announcement_date": 1614787200000,
+          "client_graphId": 2320502636,
+          "client_name": "中国联合网络通信有限公司河南省分公司",
+          "dataSource": "招投标公告",
+          "logo": "https://img5.tianyancha.com/logo/lll/541a220b4f4f385997c219d28833f6d8.png@!f_200x200",
+          "ratio": "",
+          "relationship": ""
+        },
+        {
+          "alias": "数字经济",
+          "amt": "996.40",
+          "announcement_date": 1613923200000,
+          "client_graphId": 3305338138,
+          "client_name": "丽江市数字经济产业投资有限公司",
+          "dataSource": "招投标公告",
+          "logo": "",
+          "ratio": "",
+          "relationship": ""
+        },
+        {
+          "alias": "浦东发展",
+          "amt": "1090.00",
+          "announcement_date": 1613923200000,
+          "client_graphId": 202898300,
+          "client_name": "上海浦东发展银行股份有限公司",
+          "dataSource": "招投标公告",
+          "logo": "https://img5.tianyancha.com/logo/lll/5c723b075beec8edb4052cacf8a4b613.png@!f_200x200",
+          "ratio": "",
+          "relationship": ""
+        },
+        {
+          "alias": "光大银行",
+          "amt": "188.00",
+          "announcement_date": 1613664000000,
+          "client_graphId": 22448805,
+          "client_name": "中国光大银行股份有限公司",
+          "dataSource": "招投标公告",
+          "logo": "https://img5.tianyancha.com/logo/lll/7f5556a3e1197960d5e2168189abb8be.png@!f_200x200",
+          "ratio": "",
+          "relationship": ""
+        },
+        {
+          "alias": "道达天际",
+          "amt": "258.00",
+          "announcement_date": 1611504000000,
+          "client_graphId": 25359153,
+          "client_name": "北京道达天际科技有限公司",
+          "dataSource": "招投标公告",
+          "logo": "https://img5.tianyancha.com/logo/lll/a83bf0bb7e55553a2195d05dc66dc724.png@!f_200x200",
+          "ratio": "",
+          "relationship": ""
+        },
+        {
+          "alias": "南方新",
+          "amt": "178.35",
+          "announcement_date": 1611504000000,
+          "client_graphId": 2370493664,
+          "client_name": "广东南方新媒体股份有限公司",
+          "dataSource": "招投标公告",
+          "logo": "https://img5.tianyancha.com/logo/lll/8deec525404eed08f764e0a79de47498.png@!f_200x200",
+          "ratio": "",
+          "relationship": ""
+        },
+        {
+          "alias": "南方电网",
+          "amt": "",
+          "announcement_date": 1611244800000,
+          "client_graphId": 3435805720,
+          "client_name": "南方电网深圳数字电网研究院有限公司",
+          "dataSource": "招投标公告",
+          "logo": "https://img5.tianyancha.com/logo/lll/1e3f21fd1fc2a35041066bd120e41a0c.png@!f_200x200",
+          "ratio": "",
+          "relationship": ""
+        },
+        {
+          "alias": "中国移动",
+          "amt": "",
+          "announcement_date": 1610899200000,
+          "client_graphId": 1034087317,
+          "client_name": "中国移动通信集团四川有限公司",
+          "dataSource": "招投标公告",
+          "logo": "https://img5.tianyancha.com/logo/lll/3394bf0ee815ccc37db76d12c6781664.png@!f_200x200",
+          "ratio": "",
+          "relationship": ""
+        },
+        {
+          "alias": "国投智慧",
+          "amt": "8771.18",
+          "announcement_date": 1610035200000,
+          "client_graphId": 3105937981,
+          "client_name": "株洲国投智慧城市产业发展投资有限公司",
+          "dataSource": "招投标公告",
+          "logo": "",
+          "ratio": "",
+          "relationship": ""
+        },
+        {
+          "alias": "格尚科技",
+          "amt": "",
+          "announcement_date": 1609776000000,
+          "client_graphId": 89346450,
+          "client_name": "北京格尚科技有限公司",
+          "dataSource": "司法数据",
+          "logo": "https://img5.tianyancha.com/logo/lll/4d50ee5c28757f77148469e018257b87.png@!f_200x200",
+          "ratio": "",
+          "relationship": ""
+        },
+        {
+          "alias": "央视国际",
+          "amt": "349.00",
+          "announcement_date": 1609776000000,
+          "client_graphId": 21357498,
+          "client_name": "央视国际网络有限公司",
+          "dataSource": "招投标公告",
+          "logo": "https://img5.tianyancha.com/logo/lll/7b03477d4200761d078690afccbb699a.png@!f_200x200",
+          "ratio": "",
+          "relationship": ""
+        },
+        {
+          "alias": "规划设计",
+          "amt": "30.30",
+          "announcement_date": 1609689600000,
+          "client_graphId": 1404624414,
+          "client_name": "宁波市规划设计研究院",
+          "dataSource": "招投标公告",
+          "logo": "https://img5.tianyancha.com/logo/lll/1b7879ab1775cae3c9136d378f3a785b.png@!f_200x200",
+          "ratio": "",
+          "relationship": ""
+        }
+      ],
+      "total": 20
+    }
+  }
+}

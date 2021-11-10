@@ -1,0 +1,78 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "path": [
+      {
+        "cid": "22822",
+        "id": "1984012283",
+        "type": "name",
+        "value": "李彦宏"
+      },
+      {
+        "cid": "",
+        "id": "",
+        "type": "percent",
+        "value": "99.5%"
+      },
+      {
+        "cid": "",
+        "id": "22822",
+        "type": "name",
+        "value": "北京百度网讯科技有限公司"
+      }
+    ],
+    "structure": {
+      "actualHolding": false,
+      "amount": "",
+      "children": [
+        {
+          "actualHolding": true,
+          "amount": "1335417.36万人民币",
+          "children": [],
+          "cid": 22822,
+          "id": "1984012283",
+          "name": "李彦宏",
+          "parentName": "北京百度网讯科技有限公司",
+          "percent": "99.5%",
+          "regCapital": "",
+          "sh_type": "",
+          "tagList": [
+            {
+              "name": "大股东",
+              "type": 1
+            },
+            {
+              "name": "最终受益人",
+              "type": 2
+            }
+          ],
+          "type": "H"
+        },
+        {
+          "actualHolding": false,
+          "amount": "6710.64万人民币",
+          "children": [],
+          "cid": 22822,
+          "id": "1905070872",
+          "name": "崔珊珊",
+          "parentName": "北京百度网讯科技有限公司",
+          "percent": "0.5%",
+          "regCapital": "",
+          "sh_type": "",
+          "tagList": [],
+          "type": "H"
+        }
+      ],
+      "cid": 0,
+      "id": "22822",
+      "name": "北京百度网讯科技有限公司",
+      "parentName": "",
+      "percent": "",
+      "regCapital": "",
+      "sh_type": "",
+      "tagList": [],
+      "type": "C"
+    }
+  }
+}

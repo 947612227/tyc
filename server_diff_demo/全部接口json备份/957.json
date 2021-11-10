@@ -1,0 +1,16 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "case_type": "虚开增值税专用发票或者虚开用于骗取出口退税、抵扣税款的其他发票",
+        "department": "",
+        "id": 1152,
+        "publish_time": "2017-01-01",
+        "taxpayer_name": "宁波保税区航晨塑化有限公司"
+      }
+    ],
+    "total": 1
+  }
+}

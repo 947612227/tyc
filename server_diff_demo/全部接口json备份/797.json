@@ -1,0 +1,55 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "historyCount": 1,
+    "items": [
+      {
+        "audiType": "普通",
+        "businessId": 59187998,
+        "cid": 51211546,
+        "dataUpdateTime": "",
+        "decisionDate": "2020-09-11",
+        "department": "上海市浦东新区市场监督管理局",
+        "endDate": "2022-10-25",
+        "legalPersonId": 2240955658,
+        "legalPersonName": "阚绪斌",
+        "licenceContent": "酒类商品零售经营许可证",
+        "licenceNumber": "（浦）酒零许准字﹝2020﹞第3414号",
+        "localCode": "",
+        "validityTime": ""
+      },
+      {
+        "audiType": "普通",
+        "businessId": 3,
+        "cid": 51211546,
+        "dataUpdateTime": "2017-10-29",
+        "decisionDate": "2017-10-26",
+        "department": "上海市浦东新区市场监督管理局",
+        "endDate": "2022-10-25",
+        "legalPersonId": 2240955658,
+        "legalPersonName": "阚绪斌",
+        "licenceContent": "预包装食品销售(含冷藏冷冻食品)、散装食品销售(含冷藏冷冻食品，不含熟食，含生猪产品)",
+        "licenceNumber": "jy13101150336763",
+        "localCode": "310115",
+        "validityTime": ""
+      },
+      {
+        "audiType": "普通",
+        "businessId": 1,
+        "cid": 51211546,
+        "dataUpdateTime": "2017-02-07",
+        "decisionDate": "2017-01-20",
+        "department": "上海市浦东新区烟草专卖局",
+        "endDate": "2022-01-12",
+        "legalPersonId": 2240955658,
+        "legalPersonName": "阚绪斌",
+        "licenceContent": "310119208371新办",
+        "licenceNumber": "浦烟决准字2017第﹝321700015﹞号",
+        "localCode": "310115",
+        "validityTime": ""
+      }
+    ],
+    "total": 3
+  }
+}

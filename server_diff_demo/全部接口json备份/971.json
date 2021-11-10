@@ -1,0 +1,186 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "corpFinancialYears": [
+      {
+        "title": "2021年度",
+        "value": "2021"
+      },
+      {
+        "title": "2020年度",
+        "value": "2020"
+      },
+      {
+        "title": "2019年度",
+        "value": "2019"
+      },
+      {
+        "title": "2018年度",
+        "value": "2018"
+      },
+      {
+        "title": "2017年度",
+        "value": "2017"
+      },
+      {
+        "title": "2016年度",
+        "value": "2016"
+      },
+      {
+        "title": "2015年度",
+        "value": "2015"
+      },
+      {
+        "title": "2014年度",
+        "value": "2014"
+      },
+      {
+        "title": "2013年度",
+        "value": "2013"
+      },
+      {
+        "title": "2012年度",
+        "value": "2012"
+      }
+    ],
+    "corpProfit": [
+      {
+        "asset_impairment_loss": "162.41万",
+        "basic_eps": "0.06",
+        "dlt_earnings_per_share": "0.06",
+        "financing_expenses": "-146.71万",
+        "income_from_chg_in_fv": "",
+        "income_tax_expenses": "41.61万",
+        "invest_income": "846.71万",
+        "invest_incomes_from_rr": "",
+        "manage_fee": "1508.94万",
+        "minority_gal": "6.72万",
+        "net_profit": "2630.04万",
+        "net_profit_atsopc": "2623.33万",
+        "non_operating_income": "25.33万",
+        "non_operating_payout": "1.71万",
+        "op": "2648.03万",
+        "operating_cost": "1.48亿",
+        "operating_costs": "1.77亿",
+        "operating_taxes_and_surcharge": "87.79万",
+        "othr_compre_income": "",
+        "othr_compre_income_atms": "",
+        "othr_compre_income_atoopc": "",
+        "othr_income": "",
+        "profit_deduct_nrgal_ly_sq": "1753.65万",
+        "profit_total_amt": "2671.65万",
+        "rad_cost": "",
+        "revenue": "1.95亿",
+        "sales_fee": "1236.71万",
+        "showYear": "2018一季度",
+        "total_compre_income": "2630.04万",
+        "total_compre_income_atms": "6.72万",
+        "total_compre_income_atsopc": "2623.33万",
+        "total_revenue": "1.95亿"
+      },
+      {
+        "asset_impairment_loss": "129.09万",
+        "basic_eps": "0.08",
+        "dlt_earnings_per_share": "0.08",
+        "financing_expenses": "-39.33万",
+        "income_from_chg_in_fv": "30.56万",
+        "income_tax_expenses": "140.26万",
+        "invest_income": "1809.54万",
+        "invest_incomes_from_rr": "",
+        "manage_fee": "2887.14万",
+        "minority_gal": "-23.56万",
+        "net_profit": "4965.78万",
+        "net_profit_atsopc": "4989.34万",
+        "non_operating_income": "28.04万",
+        "non_operating_payout": "10.17万",
+        "op": "5088.17万",
+        "operating_cost": "2.5亿",
+        "operating_costs": "3.08亿",
+        "operating_taxes_and_surcharge": "219.36万",
+        "othr_compre_income": "-201.86万",
+        "othr_compre_income_atms": "",
+        "othr_compre_income_atoopc": "-201.86万",
+        "othr_income": "",
+        "profit_deduct_nrgal_ly_sq": "2920.69万",
+        "profit_total_amt": "5106.04万",
+        "rad_cost": "",
+        "revenue": "3.41亿",
+        "sales_fee": "2652.88万",
+        "showYear": "2018中报",
+        "total_compre_income": "4763.92万",
+        "total_compre_income_atms": "-23.56万",
+        "total_compre_income_atsopc": "4787.48万",
+        "total_revenue": "3.41亿"
+      },
+      {
+        "asset_impairment_loss": "159.33万",
+        "basic_eps": "0.11",
+        "dlt_earnings_per_share": "0.11",
+        "financing_expenses": "33.55万",
+        "income_from_chg_in_fv": "437.91万",
+        "income_tax_expenses": "237.82万",
+        "invest_income": "2033.35万",
+        "invest_incomes_from_rr": "",
+        "manage_fee": "4588.69万",
+        "minority_gal": "-67.24万",
+        "net_profit": "6623.44万",
+        "net_profit_atsopc": "6690.68万",
+        "non_operating_income": "48.43万",
+        "non_operating_payout": "11.99万",
+        "op": "6824.82万",
+        "operating_cost": "3.35亿",
+        "operating_costs": "4.27亿",
+        "operating_taxes_and_surcharge": "312.75万",
+        "othr_compre_income": "-2191.58万",
+        "othr_compre_income_atms": "",
+        "othr_compre_income_atoopc": "-2191.58万",
+        "othr_income": "",
+        "profit_deduct_nrgal_ly_sq": "3943.63万",
+        "profit_total_amt": "6861.26万",
+        "rad_cost": "",
+        "revenue": "4.71亿",
+        "sales_fee": "4074.88万",
+        "showYear": "2018三季度",
+        "total_compre_income": "4431.86万",
+        "total_compre_income_atms": "-67.24万",
+        "total_compre_income_atsopc": "4499.1万",
+        "total_revenue": "4.71亿"
+      },
+      {
+        "asset_impairment_loss": "1352.24万",
+        "basic_eps": "0.12",
+        "dlt_earnings_per_share": "0.12",
+        "financing_expenses": "142.84万",
+        "income_from_chg_in_fv": "17.27万",
+        "income_tax_expenses": "7.41万",
+        "invest_income": "3400.32万",
+        "invest_incomes_from_rr": "2.15万",
+        "manage_fee": "6642.56万",
+        "minority_gal": "6.52万",
+        "net_profit": "7559.04万",
+        "net_profit_atsopc": "7552.52万",
+        "non_operating_income": "2893.02万",
+        "non_operating_payout": "64.16万",
+        "op": "4737.59万",
+        "operating_cost": "5.3亿",
+        "operating_costs": "7.04亿",
+        "operating_taxes_and_surcharge": "443.56万",
+        "othr_compre_income": "-7710.1万",
+        "othr_compre_income_atms": "",
+        "othr_compre_income_atoopc": "-7710.1万",
+        "othr_income": "",
+        "profit_deduct_nrgal_ly_sq": "1356.49万",
+        "profit_total_amt": "7566.45万",
+        "rad_cost": "2703.03万",
+        "revenue": "7.15亿",
+        "sales_fee": "6101.95万",
+        "showYear": "2018年报",
+        "total_compre_income": "-151.06万",
+        "total_compre_income_atms": "6.52万",
+        "total_compre_income_atsopc": "-157.58万",
+        "total_revenue": "7.15亿"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "content": "罚款人民币叁万元整。",
+        "decisionDate": "2021-04-14",
+        "departmentName": "北京市海淀区文化和旅游局",
+        "evidence": "《互联网文化管理暂行规定》第二十八条第一款",
+        "legalPersonName": "-",
+        "punishName": "《互联网文化管理暂行规定》第十六条第(七)项、第(十)项",
+        "punishNumber": "（海）文执罚〔2021〕第000026号",
+        "punishStatus": "-",
+        "reason": "北京百度网讯科技有限公司于2017年4月18日至2021年2月25日期间,在运营的“好看视频”、“全民小视频”2个平台上存在经营性互联网文化单位提供含有禁止内容的互联网文化产品的违法行为,违反了《互联网文化管理暂行规定》第十六条第(七)项、第(十)项规定,依据《互联网文化管理暂行规定》第二十八条第一款规定,应予处罚",
+        "remark": "",
+        "source": "信用中国",
+        "type": "罚款",
+        "typeSecond": "-"
+      },
+      {
+        "content": "罚款人民币贰万元。",
+        "decisionDate": "2021-03-29",
+        "departmentName": "北京市文化和旅游局",
+        "evidence": "",
+        "legalPersonName": "",
+        "punishName": "",
+        "punishNumber": "（京）文执罚〔2021〕第400154号",
+        "punishStatus": "",
+        "reason": "出版、传播含有宣扬淫秽、色情、赌博、暴力或者教唆犯罪的网络出版物",
+        "remark": "",
+        "source": "",
+        "type": "",
+        "typeSecond": ""
+      },
+      {
+        "content": "罚款人民币壹万元。",
+        "decisionDate": "2020-12-11",
+        "departmentName": "北京市文化和旅游局",
+        "evidence": "",
+        "legalPersonName": "",
+        "punishName": "",
+        "punishNumber": "（京）文执罚〔2020〕第400184号",
+        "punishStatus": "",
+        "reason": "出版、传播含有第二十四条所述禁止内容的网络出版物",
+        "remark": "",
+        "source": "",
+        "type": "",
+        "typeSecond": ""
+      },
+      {
+        "content": "罚款30000元。",
+        "decisionDate": "2020-10-28",
+        "departmentName": "北京市海淀区市场监督管理局",
+        "evidence": "",
+        "legalPersonName": "梁志祥",
+        "punishName": "",
+        "punishNumber": "京海市监处字〔2020〕第444号",
+        "punishStatus": "",
+        "reason": "违反了《中华人民共和国广告法》第三十四条第二款的规定",
+        "remark": "所报材料真实合法，一切责任由当事人自负。",
+        "source": "国家市场监督管理总局",
+        "type": "",
+        "typeSecond": ""
+      },
+      {
+        "content": "罚款30000元。",
+        "decisionDate": "2020-10-28",
+        "departmentName": "北京市海淀区市场监督管理局",
+        "evidence": "",
+        "legalPersonName": "梁志祥",
+        "punishName": "",
+        "punishNumber": "京海市监处字〔2020〕第445号",
+        "punishStatus": "",
+        "reason": "违反了《中华人民共和国广告法》第三十四条第二款的规定",
+        "remark": "所报材料真实合法，一切责任由当事人自负。",
+        "source": "国家市场监督管理总局",
+        "type": "",
+        "typeSecond": ""
+      }
+    ],
+    "total": 5
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "historyCount": 0,
+    "items": [
+      {
+        "baseInfo": {
+          "amount": "100万元",
+          "base": "hlj",
+          "businessId": "4czc4zovf0a43bd4568007176l204e98",
+          "cancelDate": null,
+          "cancelReason": "",
+          "id": 10901942,
+          "overviewAmount": "",
+          "overviewRemark": "",
+          "overviewScope": "",
+          "overviewTerm": "自2016-05-27至2017-05-10",
+          "overviewType": "",
+          "publishDate": 1464278400000,
+          "regDate": "2016-05-27",
+          "regDepartment": "讷河市市场监督管理局",
+          "regNum": "讷市监抵登字（2016）03018号",
+          "remark": "",
+          "scope": "主债权本金、利息、罚息、复利、违约金、损害赔偿金，以及诉讼仲裁费、律师费、处置费、过户费、过户费等抵押权人实现债权和抵押权的一切费用。",
+          "status": "有效",
+          "term": "自2016-05-27至2017-05-10",
+          "type": "借款"
+        },
+        "cancelInfo": {
+          "cancelDate": "-",
+          "cancelReason": "-"
+        },
+        "changeInfoList": [],
+        "pawnInfoList": [
+          {
+            "detail": "28台套、良好、老莱镇丰盛村",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "农机具",
+            "remark": ""
+          }
+        ],
+        "peopleInfo": [
+          {
+            "licenseNum": "非公示项",
+            "liceseType": "其他",
+            "peopleName": "讷河市农村信用合作联社"
+          }
+        ]
+      },
+      {
+        "baseInfo": {
+          "amount": "100万元",
+          "base": "hlj",
+          "businessId": "44z979ccbedae11055e6f717el9b7018",
+          "cancelDate": null,
+          "cancelReason": "",
+          "id": 11973700,
+          "overviewAmount": "",
+          "overviewRemark": "",
+          "overviewScope": "",
+          "overviewTerm": "自2015-05-14至2016-05-13",
+          "overviewType": "",
+          "publishDate": 1431532800000,
+          "regDate": "2015-05-14",
+          "regDepartment": "讷河市市场监督管理局",
+          "regNum": "黑讷动抵2015第21号",
+          "remark": "",
+          "scope": "主债权本金、利息、罚息复利、违约金、损害赔偿金以及诉讼（仲裁）费、律师费、处置费、过户费等抵押权人实现债权和抵押权的一切费用",
+          "status": "有效",
+          "term": "自2015-05-14至2016-05-13",
+          "type": "借款"
+        },
+        "cancelInfo": {
+          "cancelDate": "-",
+          "cancelReason": ""
+        },
+        "changeInfoList": [],
+        "pawnInfoList": [
+          {
+            "detail": "1台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "大垄双行整形机",
+            "remark": ""
+          },
+          {
+            "detail": "1台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "液压折叠镇压器",
+            "remark": ""
+          },
+          {
+            "detail": "1台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "马铃薯收获机",
+            "remark": ""
+          },
+          {
+            "detail": "2台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "马铃薯收获机",
+            "remark": ""
+          },
+          {
+            "detail": "1台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "拖拉机",
+            "remark": ""
+          },
+          {
+            "detail": "1台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "马铃薯2行播种机",
+            "remark": ""
+          },
+          {
+            "detail": "3台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "松耙联合整地机",
+            "remark": ""
+          },
+          {
+            "detail": "1台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "履带拖拉机",
+            "remark": ""
+          },
+          {
+            "detail": "2台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "马铃薯4行播种机",
+            "remark": ""
+          },
+          {
+            "detail": "1台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "免耕播种机",
+            "remark": ""
+          },
+          {
+            "detail": "1台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "轮式拖拉机",
+            "remark": ""
+          },
+          {
+            "detail": "2台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "3880A喷药机带水泵机组",
+            "remark": ""
+          },
+          {
+            "detail": "1台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "马铃薯收获机",
+            "remark": ""
+          },
+          {
+            "detail": "1台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "折叠重耙",
+            "remark": ""
+          },
+          {
+            "detail": "1台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "中耕机",
+            "remark": ""
+          },
+          {
+            "detail": "1台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "联合整地机",
+            "remark": ""
+          },
+          {
+            "detail": "1台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "马铃薯收获机",
+            "remark": ""
+          },
+          {
+            "detail": "2台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "拖拉机",
+            "remark": ""
+          },
+          {
+            "detail": "1台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "播种机",
+            "remark": ""
+          },
+          {
+            "detail": "1台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "玉米籽粒收获机",
+            "remark": ""
+          },
+          {
+            "detail": "1台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "拖拉机精确导航仪",
+            "remark": ""
+          },
+          {
+            "detail": "1台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "玉米收获机割台",
+            "remark": ""
+          },
+          {
+            "detail": "1台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "免耕播种机",
+            "remark": ""
+          },
+          {
+            "detail": "2台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "轮式拖拉机",
+            "remark": ""
+          },
+          {
+            "detail": "1台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "3879A喷药机",
+            "remark": ""
+          },
+          {
+            "detail": "1台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "高速灭茬缺口圆盘耙",
+            "remark": ""
+          },
+          {
+            "detail": "2台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "马铃薯中耕机",
+            "remark": ""
+          },
+          {
+            "detail": "1台、良好、院内",
+            "ownership": "讷河市丰盛现代农业农机专业合作社",
+            "pawnName": "轮式拖拉机",
+            "remark": ""
+          }
+        ],
+        "peopleInfo": [
+          {
+            "licenseNum": "非公示项",
+            "liceseType": "其他",
+            "peopleName": "讷河市农村信用合作联社"
+          }
+        ]
+      }
+    ],
+    "total": 2
+  }
+}

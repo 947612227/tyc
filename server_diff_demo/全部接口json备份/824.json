@@ -1,0 +1,126 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "alias": "北京百度",
+        "base": "js",
+        "category": "724",
+        "estiblishTime": 1374681600000,
+        "id": 139573097,
+        "legalPersonName": "赵坤",
+        "logo": "https://img5.tianyancha.com/logo/lll/010c44218af9a39e745a400850b48af0.png@!f_200x200",
+        "name": "北京百度网讯科技有限公司南京分公司",
+        "personType": 1,
+        "regCapital": "0万人民币",
+        "regStatus": "注销"
+      },
+      {
+        "alias": "北京百度",
+        "base": "hlj",
+        "category": "642",
+        "estiblishTime": 1336406400000,
+        "id": 1615756664,
+        "legalPersonName": "向海龙",
+        "logo": "https://img5.tianyancha.com/logo/lll/5ed7edde6ac52f84fed757e78a23c49f.png@!f_200x200",
+        "name": "北京百度网讯科技有限公司哈尔滨分公司",
+        "personType": 1,
+        "regCapital": "",
+        "regStatus": "注销"
+      },
+      {
+        "alias": "北京百度",
+        "base": "snx",
+        "category": "659",
+        "estiblishTime": 1330617600000,
+        "id": 1566690935,
+        "legalPersonName": "向海龙",
+        "logo": "https://img5.tianyancha.com/logo/lll/1e21bc076c4f1629d8de5be85fd0e2cb.png@!f_200x200",
+        "name": "北京百度网讯科技有限公司西安分公司",
+        "personType": 1,
+        "regCapital": "",
+        "regStatus": "注销"
+      },
+      {
+        "alias": "北京百度",
+        "base": "cq",
+        "category": "653",
+        "estiblishTime": 1326211200000,
+        "id": 412551136,
+        "legalPersonName": "向海龙",
+        "logo": "https://img5.tianyancha.com/logo/lll/53b97676f92b3ea6b7f37babdfbea680.png@!f_200x200",
+        "name": "北京百度网讯科技有限公司重庆分公司",
+        "personType": 1,
+        "regCapital": "",
+        "regStatus": "注销"
+      },
+      {
+        "alias": "北京百度",
+        "base": "gd",
+        "category": "653",
+        "estiblishTime": 1211212800000,
+        "id": 139572971,
+        "legalPersonName": "沈抖",
+        "logo": "https://img5.tianyancha.com/logo/lll/e94da5a7b0bb926632ac585766028e6f.png@!f_200x200",
+        "name": "北京百度网讯科技有限公司广州分公司",
+        "personType": 1,
+        "regCapital": "",
+        "regStatus": "在业"
+      },
+      {
+        "alias": "北京百度",
+        "base": "gd",
+        "category": "732",
+        "estiblishTime": 1210780800000,
+        "id": 139573020,
+        "legalPersonName": "沈抖",
+        "logo": "https://img5.tianyancha.com/logo/lll/762a5d7bd8f3a41a6ea39bbad6d946f0.png@!f_200x200",
+        "name": "北京百度网讯科技有限公司东莞分公司",
+        "personType": 1,
+        "regCapital": "",
+        "regStatus": "在业"
+      },
+      {
+        "alias": "北京百度",
+        "base": "sh",
+        "category": "751",
+        "estiblishTime": 1209916800000,
+        "id": 711249800,
+        "legalPersonName": "沈抖",
+        "logo": "https://img5.tianyancha.com/logo/lll/33c94402e09f1b2d027057f1ba61957f.png@!f_200x200",
+        "name": "北京百度网讯科技有限公司上海分公司",
+        "personType": 1,
+        "regCapital": "",
+        "regStatus": "存续"
+      },
+      {
+        "alias": "北京百度",
+        "base": "gd",
+        "category": "642",
+        "estiblishTime": 1209398400000,
+        "id": 2456357709,
+        "legalPersonName": "刘计平",
+        "logo": "https://img5.tianyancha.com/logo/lll/809d933b2ef0d6392274daab2fa0c24d.png@!f_200x200",
+        "name": "北京百度网讯科技有限公司佛山分公司",
+        "personType": 1,
+        "regCapital": "",
+        "regStatus": "注销"
+      },
+      {
+        "alias": "北京百度",
+        "base": "gd",
+        "category": "652",
+        "estiblishTime": 1208448000000,
+        "id": 139572921,
+        "legalPersonName": "沈抖",
+        "logo": "https://img5.tianyancha.com/logo/lll/8e1aa6e84ff617657c2eeadae5b451f0.png@!f_200x200",
+        "name": "北京百度网讯科技有限公司深圳分公司",
+        "personType": 1,
+        "regCapital": "",
+        "regStatus": "存续"
+      }
+    ],
+    "total": 9
+  }
+}

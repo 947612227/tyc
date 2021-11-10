@@ -1,0 +1,25 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "contact_number": "022-66286474",
+    "contact_organize": "天津市滨海新区土地发展中心",
+    "contact_person": "赵先生",
+    "electronic_mail": "binhailand@126.com",
+    "feedback_method": "该宗地双方已签订成交确认书，在30日内签订出让合同，相关事宜在合同中约定",
+    "landUser_clean": [
+      "天津大丰兴业科技有限公司"
+    ],
+    "land_area": "2",
+    "land_location": "天津开发区南港工业区，四至为东至天津杰士电池有限公司、南至规划用地、西至仓盛街及绿带、北至天津东邦铅资源再生有限公司",
+    "land_num": "津滨开（挂）G2017-29号",
+    "land_usefulness": "工业用地",
+    "organize_location": "天津市滨海新区土地发展中心（天津市滨海新区北塘经济区建投领海福地商务园一号楼）",
+    "postal_code": "00000",
+    "project_name": "天津市滨海新区土地发展中心国有土地使用权招拍挂出让成交公示 津滨开（挂）G2017-29号",
+    "public_announcement_period": "2018年01月31日 至 2018年02月07日",
+    "publication_date": "2018-01-31",
+    "publication_organize": "天津市滨海新区土地发展中心",
+    "remark": ""
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "base": "河南省-郑州市",
+    "bidding": {
+      "pageNum": null,
+      "pageSize": null,
+      "result": [
+        {
+          "index": "1",
+          "provincialWinningBidNumber": "B4101011704060201-BD-007",
+          "tenderMethod": "公开招标",
+          "tenderType": "施工",
+          "winningBidAmount": "12434.53",
+          "winningDate": "2012-05-01",
+          "winningNoticeNumber": "4101011707210201-BD-006",
+          "winningUnitName": "河南省公路工程局集团有限公司"
+        },
+        {
+          "index": "2",
+          "provincialWinningBidNumber": "B4101011704060201-BD-008",
+          "tenderMethod": "公开招标",
+          "tenderType": "施工",
+          "winningBidAmount": "12821.65",
+          "winningDate": "2012-05-01",
+          "winningNoticeNumber": "4101011707210201-BD-007",
+          "winningUnitName": "河南省公路工程局集团有限公司"
+        },
+        {
+          "index": "3",
+          "provincialWinningBidNumber": "B4101011704060201-BD-002",
+          "tenderMethod": "公开招标",
+          "tenderType": "施工",
+          "winningBidAmount": "16055.45",
+          "winningDate": "2012-05-01",
+          "winningNoticeNumber": "4101011707210201-BD-001",
+          "winningUnitName": "河南省公路工程局集团有限公司"
+        },
+        {
+          "index": "4",
+          "provincialWinningBidNumber": "B4101011704060201-BD-003",
+          "tenderMethod": "公开招标",
+          "tenderType": "施工",
+          "winningBidAmount": "12501.03",
+          "winningDate": "2012-05-01",
+          "winningNoticeNumber": "4101011707210201-BD-002",
+          "winningUnitName": "河南省公路工程局集团有限公司"
+        },
+        {
+          "index": "5",
+          "provincialWinningBidNumber": "B4101011704060201-BD-004",
+          "tenderMethod": "公开招标",
+          "tenderType": "施工",
+          "winningBidAmount": "9056.55",
+          "winningDate": "2012-05-01",
+          "winningNoticeNumber": "4101011707210201-BD-003",
+          "winningUnitName": "河南省公路工程局集团有限公司"
+        },
+        {
+          "index": "6",
+          "provincialWinningBidNumber": "B4101011704060201-BD-005",
+          "tenderMethod": "公开招标",
+          "tenderType": "施工",
+          "winningBidAmount": "11343.24",
+          "winningDate": "2012-05-01",
+          "winningNoticeNumber": "4101011707210201-BD-004",
+          "winningUnitName": "河南省公路工程局集团有限公司"
+        },
+        {
+          "index": "7",
+          "provincialWinningBidNumber": "B4101011704060201-BD-006",
+          "tenderMethod": "公开招标",
+          "tenderType": "施工",
+          "winningBidAmount": "11111.18",
+          "winningDate": "2012-05-01",
+          "winningNoticeNumber": "4101011707210201-BD-005",
+          "winningUnitName": "河南省公路工程局集团有限公司"
+        },
+        {
+          "index": "8",
+          "provincialWinningBidNumber": "B4101011704060201-BB-001",
+          "tenderMethod": "公开招标",
+          "tenderType": "勘察",
+          "winningBidAmount": "0.0",
+          "winningDate": "2010-05-01",
+          "winningNoticeNumber": "4101011707210201-BB-001",
+          "winningUnitName": "郑州中核岩土工程有限公司"
+        },
+        {
+          "index": "9",
+          "provincialWinningBidNumber": "B4101011704060201-BB-002",
+          "tenderMethod": "公开招标",
+          "tenderType": "勘察",
+          "winningBidAmount": "0.0",
+          "winningDate": "2010-05-01",
+          "winningNoticeNumber": "4101011707210201-BB-002",
+          "winningUnitName": "河南卓越建设工程有限公司"
+        },
+        {
+          "index": "10",
+          "provincialWinningBidNumber": "B4101011704060201-BB-003",
+          "tenderMethod": "公开招标",
+          "tenderType": "勘察",
+          "winningBidAmount": "0.0",
+          "winningDate": "2010-05-01",
+          "winningNoticeNumber": "4101011707210201-BB-003",
+          "winningUnitName": "河南省建筑设计研究院有限公司"
+        },
+        {
+          "index": "11",
+          "provincialWinningBidNumber": "B4101011704060201-BA-001",
+          "tenderMethod": "公开招标",
+          "tenderType": "设计",
+          "winningBidAmount": "0.0",
+          "winningDate": "2011-05-01",
+          "winningNoticeNumber": "4101011707210201-BA-001",
+          "winningUnitName": "郑州市市政工程勘测设计研究院"
+        },
+        {
+          "index": "12",
+          "provincialWinningBidNumber": "B4101011704060201-BB-004",
+          "tenderMethod": "公开招标",
+          "tenderType": "勘察",
+          "winningBidAmount": "0.0",
+          "winningDate": "2010-05-01",
+          "winningNoticeNumber": "4101011707210201-BB-004",
+          "winningUnitName": "化工部郑州地质工程勘察院"
+        },
+        {
+          "index": "13",
+          "provincialWinningBidNumber": "B4101011704060201-BD-001",
+          "tenderMethod": "公开招标",
+          "tenderType": "施工",
+          "winningBidAmount": "8850.7",
+          "winningDate": "2012-05-01",
+          "winningNoticeNumber": "4101011707210201-BD-008",
+          "winningUnitName": "河南省公路工程局集团有限公司"
+        },
+        {
+          "index": "14",
+          "provincialWinningBidNumber": "B4101011704060201-BD-012",
+          "tenderMethod": "公开招标",
+          "tenderType": "施工",
+          "winningBidAmount": "15917.91",
+          "winningDate": "2012-05-01",
+          "winningNoticeNumber": "4101011707210201-BD-012",
+          "winningUnitName": "河南省公路工程局集团有限公司"
+        },
+        {
+          "index": "15",
+          "provincialWinningBidNumber": "B4101011704060201-BD-013",
+          "tenderMethod": "公开招标",
+          "tenderType": "施工",
+          "winningBidAmount": "12860.09",
+          "winningDate": "2012-05-01",
+          "winningNoticeNumber": "4101011707210201-BD-013",
+          "winningUnitName": "河南省公路工程局集团有限公司"
+        },
+        {
+          "index": "16",
+          "provincialWinningBidNumber": "B4101011704060201-BD-014",
+          "tenderMethod": "公开招标",
+          "tenderType": "施工",
+          "winningBidAmount": "11752.73",
+          "winningDate": "2012-05-01",
+          "winningNoticeNumber": "4101011707210201-BD-014",
+          "winningUnitName": "河南省公路工程局集团有限公司"
+        },
+        {
+          "index": "17",
+          "provincialWinningBidNumber": "B4101011704060201-BE-001",
+          "tenderMethod": "公开招标",
+          "tenderType": "监理",
+          "winningBidAmount": "0.0",
+          "winningDate": "2012-06-15",
+          "winningNoticeNumber": "4101011707210201-BE-001",
+          "winningUnitName": "核工业第五研究设计院 "
+        },
+        {
+          "index": "18",
+          "provincialWinningBidNumber": "B4101011704060201-BE-002",
+          "tenderMethod": "公开招标",
+          "tenderType": "监理",
+          "winningBidAmount": "0.0",
+          "winningDate": "2012-06-15",
+          "winningNoticeNumber": "4101011707210201-BE-002",
+          "winningUnitName": "英泰克工程顾问(上海)有限公司"
+        },
+        {
+          "index": "19",
+          "provincialWinningBidNumber": "B4101011704060201-BD-011",
+          "tenderMethod": "公开招标",
+          "tenderType": "施工",
+          "winningBidAmount": "10650.14",
+          "winningDate": "2012-05-01",
+          "winningNoticeNumber": "4101011707210201-BD-011",
+          "winningUnitName": "河南省公路工程局集团有限公司"
+        },
+        {
+          "index": "20",
+          "provincialWinningBidNumber": "B4101011704060201-BD-009",
+          "tenderMethod": "公开招标",
+          "tenderType": "施工",
+          "winningBidAmount": "10902.82",
+          "winningDate": "2012-05-01",
+          "winningNoticeNumber": "4101011707210201-BD-009",
+          "winningUnitName": "河南省公路工程局集团有限公司"
+        },
+        {
+          "index": "21",
+          "provincialWinningBidNumber": "B4101011704060201-BD-010",
+          "tenderMethod": "公开招标",
+          "tenderType": "施工",
+          "winningBidAmount": "13856.33",
+          "winningDate": "2012-05-01",
+          "winningNoticeNumber": "4101011707210201-BD-010",
+          "winningUnitName": "河南省公路工程局集团有限公司"
+        }
+      ],
+      "total": 21
+    },
+    "buildCompany": "郑州新郑综合保税区（郑州航空港区）建设投资有限公司",
+    "buildCompanyId": 421586359,
+    "buildNature": "新建",
+    "completionAcceptanceRecord": {},
+    "constructionPermit": {
+      "pageNum": null,
+      "pageSize": null,
+      "result": [
+        {
+          "area": "",
+          "constructionPermitNo": "4101011707210201-SX-014",
+          "contractAmount": "12748.97",
+          "index": "1",
+          "issueDate": "2013-10-19",
+          "provincialConstructionPermitNo": "410102201310191418"
+        },
+        {
+          "area": "",
+          "constructionPermitNo": "4101011707210201-SX-014",
+          "contractAmount": "12748.97",
+          "index": "2",
+          "issueDate": "2013-10-19",
+          "provincialConstructionPermitNo": "410102201310191418"
+        },
+        {
+          "area": "",
+          "constructionPermitNo": "4101011707210201-SX-014",
+          "contractAmount": "12748.97",
+          "index": "3",
+          "issueDate": "2013-10-19",
+          "provincialConstructionPermitNo": "410102201310191418"
+        },
+        {
+          "area": "",
+          "constructionPermitNo": "4101011707210201-SX-014",
+          "contractAmount": "12748.97",
+          "index": "4",
+          "issueDate": "2013-10-19",
+          "provincialConstructionPermitNo": "410102201310191418"
+        },
+        {
+          "area": "601.6",
+          "constructionPermitNo": "4101011707210201-SX-013",
+          "contractAmount": "12501.03",
+          "index": "5",
+          "issueDate": "2013-10-19",
+          "provincialConstructionPermitNo": "410102201310190318"
+        },
+        {
+          "area": "560.0",
+          "constructionPermitNo": "4101011707210201-SX-007",
+          "contractAmount": "12860.09",
+          "index": "6",
+          "issueDate": "2013-10-19",
+          "provincialConstructionPermitNo": "410102201310191318"
+        },
+        {
+          "area": "561.48",
+          "constructionPermitNo": "4101011707210201-SX-004",
+          "contractAmount": "13856.33",
+          "index": "7",
+          "issueDate": "2013-10-19",
+          "provincialConstructionPermitNo": "410102201310191018"
+        },
+        {
+          "area": "648.17",
+          "constructionPermitNo": "4101011707210201-SX-003",
+          "contractAmount": "10902.82",
+          "index": "8",
+          "issueDate": "2013-10-19",
+          "provincialConstructionPermitNo": "410102201310190918"
+        },
+        {
+          "area": "560.11",
+          "constructionPermitNo": "4101011707210201-SX-002",
+          "contractAmount": "12821.65",
+          "index": "9",
+          "issueDate": "2013-10-19",
+          "provincialConstructionPermitNo": "410102201310190818"
+        },
+        {
+          "area": "647.7",
+          "constructionPermitNo": "4101011707210201-SX-006",
+          "contractAmount": "15917.91",
+          "index": "10",
+          "issueDate": "2013-10-19",
+          "provincialConstructionPermitNo": "410102201310191218"
+        },
+        {
+          "area": "550.47",
+          "constructionPermitNo": "4101011707210201-SX-005",
+          "contractAmount": "10650.14",
+          "index": "11",
+          "issueDate": "2013-10-19",
+          "provincialConstructionPermitNo": "410102201310191118"
+        },
+        {
+          "area": "561.54",
+          "constructionPermitNo": "4101011707210201-SX-010",
+          "contractAmount": "11111.18",
+          "index": "12",
+          "issueDate": "2013-10-19",
+          "provincialConstructionPermitNo": "410102201310190618"
+        },
+        {
+          "area": "561.54",
+          "constructionPermitNo": "4101011707210201-SX-009",
+          "contractAmount": "11343.24",
+          "index": "13",
+          "issueDate": "2013-10-19",
+          "provincialConstructionPermitNo": "410102201310190518"
+        },
+        {
+          "area": "550.47",
+          "constructionPermitNo": "4101011707210201-SX-008",
+          "contractAmount": "9056.55",
+          "index": "14",
+          "issueDate": "2013-10-19",
+          "provincialConstructionPermitNo": "410102201310190418"
+        },
+        {
+          "area": "560.33",
+          "constructionPermitNo": "4101011707210201-SX-001",
+          "contractAmount": "12434.53",
+          "index": "15",
+          "issueDate": "2013-10-19",
+          "provincialConstructionPermitNo": "410102201310190718"
+        },
+        {
+          "area": "548.78",
+          "constructionPermitNo": "4101011707210201-SX-012",
+          "contractAmount": "16055.45",
+          "index": "16",
+          "issueDate": "2013-10-19",
+          "provincialConstructionPermitNo": "410102201310190218"
+        },
+        {
+          "area": "574.4",
+          "constructionPermitNo": "4101011707210201-SX-011",
+          "contractAmount": "8850.7",
+          "index": "17",
+          "issueDate": "2013-10-19",
+          "provincialConstructionPermitNo": "410102201310190118"
+        }
+      ],
+      "total": 17
+    },
+    "contractFiling": {},
+    "creditCode": "91410100681760215Y",
+    "drawingReview": {
+      "pageNum": null,
+      "pageSize": null,
+      "result": [
+        {
+          "designUnitName": "",
+          "drawingCertificateNumber": "4101011707210201-TX-001",
+          "drawingCertificateUnitName": "中交第一公路勘察设计研究院有限公司",
+          "index": "1",
+          "provincialDrawingCertificateNumber": "B4101011704060201-TX-001",
+          "reviewCompletionDate": "2012-08-01",
+          "surveyUnitName": ""
+        },
+        {
+          "designUnitName": "",
+          "drawingCertificateNumber": "4101011707210201-TX-002",
+          "drawingCertificateUnitName": "招商局重庆交通科研设计院有限公司",
+          "index": "2",
+          "provincialDrawingCertificateNumber": "B4101011704060201-TX-002",
+          "reviewCompletionDate": "2012-08-01",
+          "surveyUnitName": ""
+        }
+      ],
+      "total": 2
+    },
+    "proName": "郑州新郑综合保税区（郑州航空港区）航兴路跨南水北调总干渠桥梁工程",
+    "proNum": "4101011707210201",
+    "proType": "市政基础设施工程",
+    "proUse": "桥隧",
+    "projectDocumentNumber": "",
+    "projectLevel": "",
+    "provinceProNum": "B4101011704060201",
+    "totalArea": "-",
+    "totalInvestment": "12748.97（万元）"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "administrative_district": "天津市  天津市市辖区  塘沽区",
+        "id": 74,
+        "land_area": "2",
+        "land_location": "天津开发区南港工业区，四至为东至天津杰士电池有限公司、南至规划用地、西至仓盛街及绿带、北至天津东邦铅资源再生有限公司",
+        "land_usefulness": "工业用地",
+        "publication_date": "2018-01-31",
+        "publication_organize": "天津市滨海新区土地发展中心"
+      }
+    ],
+    "total": 1
+  }
+}

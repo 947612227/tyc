@@ -1,0 +1,132 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "after": [
+      {
+        "fund_name": "上海博范投资合伙企业（有限合伙）",
+        "fund_no": "SJ5773",
+        "half_year_report": "应披露0条，按时披露0条，",
+        "monthly_report": "应披露0条，按时披露0条，",
+        "quarterly_report": "应披露4条，按时披露0条，",
+        "year_report": "应披露2条，按时披露1条，"
+      },
+      {
+        "fund_name": "上海博责投资合伙企业（有限合伙）",
+        "fund_no": "SK0593",
+        "half_year_report": "应披露0条，按时披露0条，",
+        "monthly_report": "应披露0条，按时披露0条，",
+        "quarterly_report": "应披露4条，按时披露0条，",
+        "year_report": "应披露2条，按时披露1条，"
+      },
+      {
+        "fund_name": "凯银26期资产管理计划",
+        "fund_no": "S27481",
+        "half_year_report": "应披露0条，按时披露0条，",
+        "monthly_report": "应披露0条，按时披露0条，",
+        "quarterly_report": "应披露0条，按时披露0条，",
+        "year_report": "应披露0条，按时披露0条，"
+      },
+      {
+        "fund_name": "凯银29期资产管理计划",
+        "fund_no": "SD7047",
+        "half_year_report": "应披露1条，按时披露0条，",
+        "monthly_report": "应披露0条，按时披露0条，",
+        "quarterly_report": "应披露0条，按时披露0条，",
+        "year_report": "应披露2条，按时披露1条，"
+      },
+      {
+        "fund_name": "凯银32期资产管理计划",
+        "fund_no": "S81622",
+        "half_year_report": "应披露0条，按时披露0条，",
+        "monthly_report": "应披露0条，按时披露0条，",
+        "quarterly_report": "应披露0条，按时披露0条，",
+        "year_report": "应披露0条，按时披露0条，"
+      },
+      {
+        "fund_name": "凯银33期资产管理",
+        "fund_no": "S81625",
+        "half_year_report": "应披露0条，按时披露0条，",
+        "monthly_report": "应披露0条，按时披露0条，",
+        "quarterly_report": "应披露0条，按时披露0条，",
+        "year_report": "应披露0条，按时披露0条，"
+      },
+      {
+        "fund_name": "凯银36期资产管理计划",
+        "fund_no": "SC9277",
+        "half_year_report": "应披露0条，按时披露0条，",
+        "monthly_report": "应披露0条，按时披露0条，",
+        "quarterly_report": "应披露0条，按时披露0条，",
+        "year_report": "应披露0条，按时披露0条，"
+      }
+    ],
+    "before": [
+      {
+        "fund_name": "上海凯亮投资中心（有限合伙）",
+        "fund_no": "SD6346",
+        "half_year_report": "应披露0条，按时披露0条，",
+        "monthly_report": "应披露0条，按时披露0条，",
+        "quarterly_report": "应披露0条，按时披露0条，",
+        "year_report": "应披露0条，按时披露0条，"
+      },
+      {
+        "fund_name": "上海凯吉投资合伙企业",
+        "fund_no": "SN6974",
+        "half_year_report": "应披露0条，按时披露0条，",
+        "monthly_report": "应披露0条，按时披露0条，",
+        "quarterly_report": "应披露0条，按时披露0条，",
+        "year_report": "应披露0条，按时披露0条，"
+      },
+      {
+        "fund_name": "上海凯彦投资中心（有限合伙）",
+        "fund_no": "SD2451",
+        "half_year_report": "应披露0条，按时披露0条，",
+        "monthly_report": "应披露0条，按时披露0条，",
+        "quarterly_report": "应披露0条，按时披露0条，",
+        "year_report": "应披露0条，按时披露0条，"
+      },
+      {
+        "fund_name": "上海凯昆投资中心（有限合伙）",
+        "fund_no": "SN6979",
+        "half_year_report": "应披露0条，按时披露0条，",
+        "monthly_report": "应披露0条，按时披露0条，",
+        "quarterly_report": "应披露0条，按时披露0条，",
+        "year_report": "应披露0条，按时披露0条，"
+      },
+      {
+        "fund_name": "上海凯昊投资中心（有限合伙）",
+        "fund_no": "SD2452",
+        "half_year_report": "应披露0条，按时披露0条，",
+        "monthly_report": "应披露0条，按时披露0条，",
+        "quarterly_report": "应披露0条，按时披露0条，",
+        "year_report": "应披露0条，按时披露0条，"
+      },
+      {
+        "fund_name": "上海凯桥投资中心（有限合伙）",
+        "fund_no": "SN6978",
+        "half_year_report": "应披露0条，按时披露0条，",
+        "monthly_report": "应披露0条，按时披露0条，",
+        "quarterly_report": "应披露0条，按时披露0条，",
+        "year_report": "应披露0条，按时披露0条，"
+      },
+      {
+        "fund_name": "上海凯穏投资中心（有限合伙）",
+        "fund_no": "SD2557",
+        "half_year_report": "应披露0条，按时披露0条，",
+        "monthly_report": "应披露0条，按时披露0条，",
+        "quarterly_report": "应披露0条，按时披露0条，",
+        "year_report": "应披露0条，按时披露0条，"
+      },
+      {
+        "fund_name": "上海凯纯投资合伙企业",
+        "fund_no": "SN6977",
+        "half_year_report": "应披露0条，按时披露0条，",
+        "monthly_report": "应披露0条，按时披露0条，",
+        "quarterly_report": "应披露0条，按时披露0条，",
+        "year_report": "应披露0条，按时披露0条，"
+      }
+    ],
+    "count": 72,
+    "graph_id": 46569407
+  }
+}

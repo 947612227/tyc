@@ -1,0 +1,39 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "alias": "红杉顺远",
+        "company_logo": "https://img5.tianyancha.com/logo/lll/a88e452ac81650116490fca55e67400a.png@!f_200x200",
+        "company_name": "北京红杉顺远股权投资中心（有限合伙）",
+        "estiblish_date": "2015-12-01",
+        "legal_person_id": 720041555,
+        "legal_person_name": "北京红杉坤德投资管理中心（有限合伙）",
+        "legal_person_type": 2,
+        "reg_capital": "201万人民币"
+      },
+      {
+        "alias": "红杉坤德",
+        "company_logo": "https://img5.tianyancha.com/logo/lll/5d76a7cd85cccb263aa8074d4bf72b3f.png@!f_200x200",
+        "company_name": "北京红杉坤德投资管理中心（有限合伙）",
+        "estiblish_date": "2015-06-04",
+        "legal_person_id": 2313505537,
+        "legal_person_name": "上海桓远投资管理有限公司",
+        "legal_person_type": 2,
+        "reg_capital": "10000万人民币"
+      },
+      {
+        "alias": "红杉资本",
+        "company_logo": "https://img5.tianyancha.com/logo/lll/a5a92753ec9f602b3fa8aced9295ec41.png@!f_200x200",
+        "company_name": "红杉资本股权投资管理（天津）有限公司",
+        "estiblish_date": "2009-08-10",
+        "legal_person_id": 1858268863,
+        "legal_person_name": "周逵",
+        "legal_person_type": 1,
+        "reg_capital": "10000万人民币"
+      }
+    ],
+    "total": 3
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "checkItem": "直销违法行为检查",
+        "checkResult": "通过登记的住所（经营场所）无法联系"
+      },
+      {
+        "checkItem": "网络经营主体网上亮照检查",
+        "checkResult": "通过登记的住所（经营场所）无法联系"
+      },
+      {
+        "checkItem": "商标违法行为检查",
+        "checkResult": "通过登记的住所（经营场所）无法联系"
+      },
+      {
+        "checkItem": "侵害消费者权益行为检查",
+        "checkResult": "通过登记的住所（经营场所）无法联系"
+      },
+      {
+        "checkItem": "拍卖活动经营资格的检查",
+        "checkResult": "通过登记的住所（经营场所）无法联系"
+      },
+      {
+        "checkItem": "年度报告检查",
+        "checkResult": "通过登记的住所（经营场所）无法联系"
+      },
+      {
+        "checkItem": "流通领域商品质量检查",
+        "checkResult": "通过登记的住所（经营场所）无法联系"
+      },
+      {
+        "checkItem": "广告违法行为检查",
+        "checkResult": "通过登记的住所（经营场所）无法联系"
+      },
+      {
+        "checkItem": "公示信息检查",
+        "checkResult": "通过登记的住所（经营场所）无法联系"
+      },
+      {
+        "checkItem": "登记事项检查",
+        "checkResult": "通过登记的住所（经营场所）无法联系"
+      }
+    ],
+    "total": 10
+  }
+}

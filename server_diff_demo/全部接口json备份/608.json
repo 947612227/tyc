@@ -1,0 +1,37 @@
+{
+  "data": {
+    "approvalDate": "1999-04-09",
+    "authorities": "浦东新区司法局",
+    "baseInfo": "锦天城律师事务所（“锦天城”）是一家提供全方位法律服务的、全国领先的中国律师事务所，是一家总部设在上海的全国性律师事务所。锦天城在中国大陆十八大城市（北京、深圳、杭州、苏州、南京、成都、重庆、太原、青岛、厦门、天津、济南、合肥、郑州、福州、南昌、西安、广州）及在香港开设分所，并在香港、深圳前海与史蒂文生黄律师事务所联营。锦天城致力于在瞬息万变的商业环境中为境内外客户制定法律解决方案并提供法律服务。",
+    "businessExpertise": "",
+    "creditCode": null,
+    "creditRating": "",
+    "dateOfEstablishment": "1999-04-09",
+    "dateOfIssue": "",
+    "email": "",
+    "entityType": 4,
+    "headquartersBranch": "",
+    "id": 3077495166,
+    "legalPersonName": "顾功耘",
+    "logo": "https://img5.tianyancha.com/logo/lll/4b455034766a96bad1473a08b6622036.png@!f_200x200",
+    "name": "上海市锦天城律师事务所",
+    "organizationForm": "特殊的普通合伙",
+    "permit": "23101199920121031",
+    "phoneList": [
+      "021-20511000"
+    ],
+    "phoneNumber": "021-20511000",
+    "practiceState": "正常",
+    "regCapital": "1122.0",
+    "regLocation": "银城中路501号上海中心大厦11、12层",
+    "summary": "&nbsp;",
+    "taxNumber": "",
+    "uuid": "3de02fa2b8d244479daa8882149ed9ea",
+    "websiteList": "http://www.allbrightlaw.com"
+  },
+  "isLogin": 0,
+  "message": "",
+  "special": "",
+  "state": "ok",
+  "vipMessage": ""
+}

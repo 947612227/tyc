@@ -1,0 +1,1325 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "alias": "正邦饲料",
+        "chainList": [
+          [
+            {
+              "cid": null,
+              "investType": 2,
+              "type": "percent",
+              "value": "73.13%"
+            },
+            {
+              "cid": 18515228,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦科技股份有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 197879783,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦养殖有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "73.13%"
+            },
+            {
+              "cid": 2944214696,
+              "investType": null,
+              "type": "company",
+              "value": "大悟正邦养殖有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3485322416,
+              "investType": null,
+              "type": "company",
+              "value": "大悟正邦饲料有限公司"
+            }
+          ],
+          [
+            {
+              "cid": null,
+              "investType": 2,
+              "type": "percent",
+              "value": "26.87%"
+            },
+            {
+              "cid": 18515228,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦科技股份有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "26.87%"
+            },
+            {
+              "cid": 2944214696,
+              "investType": null,
+              "type": "company",
+              "value": "大悟正邦养殖有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3485322416,
+              "investType": null,
+              "type": "company",
+              "value": "大悟正邦饲料有限公司"
+            }
+          ]
+        ],
+        "cid": 3485322416,
+        "estiblishTime": 1603641600000,
+        "legalPersonId": 2254499112,
+        "legalPersonName": "陈梓林",
+        "legalType": 1,
+        "logo": "https://img5.tianyancha.com/logo/lll/d7310c85125fe727f97bc82fa93757ed.png@!f_200x200",
+        "name": "大悟正邦饲料有限公司",
+        "percent": "100%",
+        "regCapital": "1000.000000万元人民币",
+        "regStatus": "存续"
+      },
+      {
+        "alias": "正邦养殖",
+        "chainList": [
+          [
+            {
+              "cid": null,
+              "investType": 2,
+              "type": "percent",
+              "value": "73.13%"
+            },
+            {
+              "cid": 18515228,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦科技股份有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 197879783,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦养殖有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "73.13%"
+            },
+            {
+              "cid": 2944214696,
+              "investType": null,
+              "type": "company",
+              "value": "大悟正邦养殖有限公司"
+            }
+          ],
+          [
+            {
+              "cid": null,
+              "investType": 1,
+              "type": "percent",
+              "value": "26.87%"
+            },
+            {
+              "cid": 18515228,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦科技股份有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "26.87%"
+            },
+            {
+              "cid": 2944214696,
+              "investType": null,
+              "type": "company",
+              "value": "大悟正邦养殖有限公司"
+            }
+          ]
+        ],
+        "cid": 2944214696,
+        "estiblishTime": 1477497600000,
+        "legalPersonId": 2009780133,
+        "legalPersonName": "林智毅",
+        "legalType": 1,
+        "logo": "https://img5.tianyancha.com/logo/lll/58cecfe7f64438ce2689b8071eb56347.png@!f_200x200",
+        "name": "大悟正邦养殖有限公司",
+        "percent": "100%",
+        "regCapital": "15042.000000万元人民币",
+        "regStatus": "存续"
+      },
+      {
+        "alias": "邦盛科技",
+        "chainList": [
+          [
+            {
+              "cid": null,
+              "investType": 2,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 18515228,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦科技股份有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 214887955,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦生物科技有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 367107447,
+              "investType": null,
+              "type": "company",
+              "value": "江西邦盛科技有限公司"
+            }
+          ]
+        ],
+        "cid": 367107447,
+        "estiblishTime": 1420300800000,
+        "legalPersonId": 2213529837,
+        "legalPersonName": "邹罡",
+        "legalType": 1,
+        "logo": "https://img5.tianyancha.com/logo/lll/980b11d9c4bea45cb140665c58222754.png@!f_200x200",
+        "name": "江西邦盛科技有限公司",
+        "percent": "100%",
+        "regCapital": "6000.000000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "alias": "广联养殖",
+        "chainList": [
+          [
+            {
+              "cid": null,
+              "investType": 2,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 18515228,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦科技股份有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 2944214679,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦畜牧发展有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3470484109,
+              "investType": null,
+              "type": "company",
+              "value": "四川正邦养殖有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3402612393,
+              "investType": null,
+              "type": "company",
+              "value": "重庆正邦养殖有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 4498196139,
+              "investType": null,
+              "type": "company",
+              "value": "泸州广联养殖有限公司"
+            }
+          ]
+        ],
+        "cid": 4498196139,
+        "estiblishTime": 1618416000000,
+        "legalPersonId": 1927944390,
+        "legalPersonName": "张根发",
+        "legalType": 1,
+        "logo": "https://img5.tianyancha.com/logo/lll/38d30eb2f4040ddb91ac8cda34b1ddc5.png@!f_200x200",
+        "name": "泸州广联养殖有限公司",
+        "percent": "100%",
+        "regCapital": "10000万人民币",
+        "regStatus": "在业"
+      },
+      {
+        "alias": "正邦养殖",
+        "chainList": [
+          [
+            {
+              "cid": null,
+              "investType": 2,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 18515228,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦科技股份有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 2944214679,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦畜牧发展有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 2995396450,
+              "investType": null,
+              "type": "company",
+              "value": "正邦北方（天津）农业科技有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3025086462,
+              "investType": null,
+              "type": "company",
+              "value": "衡水正邦养殖有限公司"
+            }
+          ]
+        ],
+        "cid": 3025086462,
+        "estiblishTime": 1488988800000,
+        "legalPersonId": 2308556095,
+        "legalPersonName": "龚正华",
+        "legalType": 1,
+        "logo": "https://img5.tianyancha.com/logo/lll/9affc81e1351183c80c3c883dd7d922c.png@!f_200x200",
+        "name": "衡水正邦养殖有限公司",
+        "percent": "100%",
+        "regCapital": "1000.000000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "alias": "正邦饲料",
+        "chainList": [
+          [
+            {
+              "cid": null,
+              "investType": 2,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 18515228,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦科技股份有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 214887955,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦生物科技有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 4038220696,
+              "investType": null,
+              "type": "company",
+              "value": "商丘正邦饲料有限公司"
+            }
+          ]
+        ],
+        "cid": 4038220696,
+        "estiblishTime": 1606233600000,
+        "legalPersonId": 1985474938,
+        "legalPersonName": "李明亮",
+        "legalType": 1,
+        "logo": "https://img5.tianyancha.com/logo/lll/0c65143160573d9e391e0613554729ec.png@!f_200x200",
+        "name": "商丘正邦饲料有限公司",
+        "percent": "100%",
+        "regCapital": "1000.000000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "alias": "正邦牧业",
+        "chainList": [
+          [
+            {
+              "cid": null,
+              "investType": 2,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 18515228,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦科技股份有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 197879783,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦养殖有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3032122448,
+              "investType": null,
+              "type": "company",
+              "value": "上海龙邦国际贸易有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3425004230,
+              "investType": null,
+              "type": "company",
+              "value": "江苏正邦牧业有限公司"
+            }
+          ]
+        ],
+        "cid": 3425004230,
+        "estiblishTime": 1587052800000,
+        "legalPersonId": 1871278168,
+        "legalPersonName": "姚泳",
+        "legalType": 1,
+        "logo": "https://img5.tianyancha.com/logo/lll/a5dc44708ad1ce799f4db8d09d2e7ad4.png@!f_200x200",
+        "name": "江苏正邦牧业有限公司",
+        "percent": "100%",
+        "regCapital": "10000.000000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "alias": "正邦农牧",
+        "chainList": [
+          [
+            {
+              "cid": null,
+              "investType": 2,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 18515228,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦科技股份有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 197879783,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦养殖有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3032122448,
+              "investType": null,
+              "type": "company",
+              "value": "上海龙邦国际贸易有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 400907590,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦农牧实业有限公司"
+            }
+          ]
+        ],
+        "cid": 400907590,
+        "estiblishTime": 1090771200000,
+        "legalPersonId": 2140740103,
+        "legalPersonName": "范荣辉",
+        "legalType": 1,
+        "logo": "https://img5.tianyancha.com/logo/lll/93315109bc8fcaa694febe7a51aaa62e.png@!f_200x200",
+        "name": "江西正邦农牧实业有限公司",
+        "percent": "100%",
+        "regCapital": "5000.000000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "alias": "龙邦",
+        "chainList": [
+          [
+            {
+              "cid": null,
+              "investType": 2,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 18515228,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦科技股份有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 197879783,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦养殖有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3032122448,
+              "investType": null,
+              "type": "company",
+              "value": "上海龙邦国际贸易有限公司"
+            }
+          ]
+        ],
+        "cid": 3032122448,
+        "estiblishTime": 1492012800000,
+        "legalPersonId": 2320449395,
+        "legalPersonName": "李快荣",
+        "legalType": 1,
+        "logo": "https://img5.tianyancha.com/logo/lll/fdaa69bf090e3aaa1d3422caa305fc1f.png@!f_200x200",
+        "name": "上海龙邦国际贸易有限公司",
+        "percent": "100%",
+        "regCapital": "50000.000000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "alias": "正邦养殖",
+        "chainList": [
+          [
+            {
+              "cid": null,
+              "investType": 2,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 18515228,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦科技股份有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 2944214679,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦畜牧发展有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3470484109,
+              "investType": null,
+              "type": "company",
+              "value": "四川正邦养殖有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3402612393,
+              "investType": null,
+              "type": "company",
+              "value": "重庆正邦养殖有限公司"
+            }
+          ]
+        ],
+        "cid": 3402612393,
+        "estiblishTime": 1577635200000,
+        "legalPersonId": 3361426382,
+        "legalPersonName": "高亚俐",
+        "legalType": 1,
+        "logo": "https://img5.tianyancha.com/logo/lll/1d96b6b51c19bf23311671d933ccaad1.png@!f_200x200",
+        "name": "重庆正邦养殖有限公司",
+        "percent": "100%",
+        "regCapital": "300.000000万",
+        "regStatus": "存续"
+      },
+      {
+        "alias": "正邦养殖",
+        "chainList": [
+          [
+            {
+              "cid": null,
+              "investType": 2,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 18515228,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦科技股份有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 2944214679,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦畜牧发展有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3470484109,
+              "investType": null,
+              "type": "company",
+              "value": "四川正邦养殖有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 4049308433,
+              "investType": null,
+              "type": "company",
+              "value": "安岳正邦养殖有限公司"
+            }
+          ]
+        ],
+        "cid": 4049308433,
+        "estiblishTime": 1606838400000,
+        "legalPersonId": 1927944390,
+        "legalPersonName": "张根发",
+        "legalType": 1,
+        "logo": "https://img5.tianyancha.com/logo/lll/3b130709a42171829ea17540638761a1.png@!f_200x200",
+        "name": "安岳正邦养殖有限公司",
+        "percent": "100%",
+        "regCapital": "1000.000000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "alias": "正邦养殖",
+        "chainList": [
+          [
+            {
+              "cid": null,
+              "investType": 2,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 18515228,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦科技股份有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 2944214679,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦畜牧发展有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3470484109,
+              "investType": null,
+              "type": "company",
+              "value": "四川正邦养殖有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3297281869,
+              "investType": null,
+              "type": "company",
+              "value": "内江正邦养殖有限公司"
+            }
+          ]
+        ],
+        "cid": 3297281869,
+        "estiblishTime": 1550678400000,
+        "legalPersonId": 1927944390,
+        "legalPersonName": "张根发",
+        "legalType": 1,
+        "logo": "https://img5.tianyancha.com/logo/lll/87b9a5de9e67de7deb8b1e5b729a4704.png@!f_200x200",
+        "name": "内江正邦养殖有限公司",
+        "percent": "100%",
+        "regCapital": "10000.000000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "alias": "正邦养殖",
+        "chainList": [
+          [
+            {
+              "cid": null,
+              "investType": 2,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 18515228,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦科技股份有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 2944214679,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦畜牧发展有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3470484109,
+              "investType": null,
+              "type": "company",
+              "value": "四川正邦养殖有限公司"
+            }
+          ]
+        ],
+        "cid": 3470484109,
+        "estiblishTime": 1477843200000,
+        "legalPersonId": 2009780133,
+        "legalPersonName": "林智毅",
+        "legalType": 1,
+        "logo": "https://img5.tianyancha.com/logo/lll/34ab7bb81e37f66126c6d2de8e69ae22.png@!f_200x200",
+        "name": "四川正邦养殖有限公司",
+        "percent": "100%",
+        "regCapital": "36030.880000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "alias": "正邦养殖",
+        "chainList": [
+          [
+            {
+              "cid": null,
+              "investType": 2,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 18515228,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦科技股份有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 2944214679,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦畜牧发展有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3470484109,
+              "investType": null,
+              "type": "company",
+              "value": "四川正邦养殖有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 4133221402,
+              "investType": null,
+              "type": "company",
+              "value": "蓬溪正邦养殖有限公司"
+            }
+          ]
+        ],
+        "cid": 4133221402,
+        "estiblishTime": 1608825600000,
+        "legalPersonId": 1927944390,
+        "legalPersonName": "张根发",
+        "legalType": 1,
+        "logo": "https://img5.tianyancha.com/logo/lll/95a641589a194021c4c22a577a3b297f.png@!f_200x200",
+        "name": "蓬溪正邦养殖有限公司",
+        "percent": "100%",
+        "regCapital": "1000.000000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "alias": "正邦养殖",
+        "chainList": [
+          [
+            {
+              "cid": null,
+              "investType": 2,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 18515228,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦科技股份有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 2944214679,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦畜牧发展有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3470484109,
+              "investType": null,
+              "type": "company",
+              "value": "四川正邦养殖有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 4033922994,
+              "investType": null,
+              "type": "company",
+              "value": "盐源县正邦养殖有限公司"
+            }
+          ]
+        ],
+        "cid": 4033922994,
+        "estiblishTime": 1606060800000,
+        "legalPersonId": 1927944390,
+        "legalPersonName": "张根发",
+        "legalType": 1,
+        "logo": "https://img5.tianyancha.com/logo/lll/5470628dbfe8879deb81284928db599b.png@!f_200x200",
+        "name": "盐源县正邦养殖有限公司",
+        "percent": "100%",
+        "regCapital": "2000.000000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "alias": "正邦养殖",
+        "chainList": [
+          [
+            {
+              "cid": null,
+              "investType": 2,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 18515228,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦科技股份有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 2944214679,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦畜牧发展有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3470484109,
+              "investType": null,
+              "type": "company",
+              "value": "四川正邦养殖有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3474084984,
+              "investType": null,
+              "type": "company",
+              "value": "石棉县正邦养殖有限公司"
+            }
+          ]
+        ],
+        "cid": 3474084984,
+        "estiblishTime": 1599840000000,
+        "legalPersonId": 1927944390,
+        "legalPersonName": "张根发",
+        "legalType": 1,
+        "logo": "https://img5.tianyancha.com/logo/lll/e33afcd5261324579a6d8d671c04b5bd.png@!f_200x200",
+        "name": "石棉县正邦养殖有限公司",
+        "percent": "100%",
+        "regCapital": "500.000000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "alias": "正邦畜牧",
+        "chainList": [
+          [
+            {
+              "cid": null,
+              "investType": 2,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 18515228,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦科技股份有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 2944214679,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦畜牧发展有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3470484109,
+              "investType": null,
+              "type": "company",
+              "value": "四川正邦养殖有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3449825632,
+              "investType": null,
+              "type": "company",
+              "value": "雅安正邦畜牧养殖有限公司"
+            }
+          ]
+        ],
+        "cid": 3449825632,
+        "estiblishTime": 1592841600000,
+        "legalPersonId": 1927944390,
+        "legalPersonName": "张根发",
+        "legalType": 1,
+        "logo": "https://img5.tianyancha.com/logo/lll/420bf610539825d7848c5d92d1504a23.png@!f_200x200",
+        "name": "雅安正邦畜牧养殖有限公司",
+        "percent": "100%",
+        "regCapital": "5000.000000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "alias": "正邦养殖",
+        "chainList": [
+          [
+            {
+              "cid": null,
+              "investType": 2,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 18515228,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦科技股份有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 2944214679,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦畜牧发展有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3470484109,
+              "investType": null,
+              "type": "company",
+              "value": "四川正邦养殖有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 4050021174,
+              "investType": null,
+              "type": "company",
+              "value": "乐至县正邦养殖有限公司"
+            }
+          ]
+        ],
+        "cid": 4050021174,
+        "estiblishTime": 1606924800000,
+        "legalPersonId": 1927944390,
+        "legalPersonName": "张根发",
+        "legalType": 1,
+        "logo": "https://img5.tianyancha.com/logo/lll/fe3b882bfebd7ff937db81262468b2ee.png@!f_200x200",
+        "name": "乐至县正邦养殖有限公司",
+        "percent": "100%",
+        "regCapital": "500.000000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "alias": "正邦养殖",
+        "chainList": [
+          [
+            {
+              "cid": null,
+              "investType": 2,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 18515228,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦科技股份有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 2944214679,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦畜牧发展有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3470484109,
+              "investType": null,
+              "type": "company",
+              "value": "四川正邦养殖有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3478950692,
+              "investType": null,
+              "type": "company",
+              "value": "甘洛县正邦养殖有限公司"
+            }
+          ]
+        ],
+        "cid": 3478950692,
+        "estiblishTime": 1600963200000,
+        "legalPersonId": 1990654588,
+        "legalPersonName": "李荣华",
+        "legalType": 1,
+        "logo": "https://img5.tianyancha.com/logo/lll/9e4b1c9cea1285e51087520f86920c3e.png@!f_200x200",
+        "name": "甘洛县正邦养殖有限公司",
+        "percent": "100%",
+        "regCapital": "500.000000万人民币",
+        "regStatus": "存续"
+      },
+      {
+        "alias": "正邦养殖",
+        "chainList": [
+          [
+            {
+              "cid": null,
+              "investType": 2,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 18515228,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦科技股份有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 2944214679,
+              "investType": null,
+              "type": "company",
+              "value": "江西正邦畜牧发展有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3470484109,
+              "investType": null,
+              "type": "company",
+              "value": "四川正邦养殖有限公司"
+            },
+            {
+              "cid": null,
+              "investType": null,
+              "type": "percent",
+              "value": "100%"
+            },
+            {
+              "cid": 3478542206,
+              "investType": null,
+              "type": "company",
+              "value": "冕宁县正邦养殖有限公司"
+            }
+          ]
+        ],
+        "cid": 3478542206,
+        "estiblishTime": 1600876800000,
+        "legalPersonId": 1990654588,
+        "legalPersonName": "李荣华",
+        "legalType": 1,
+        "logo": "https://img5.tianyancha.com/logo/lll/a2fd4e98af2b442f4cde74d0fb6e7d06.png@!f_200x200",
+        "name": "冕宁县正邦养殖有限公司",
+        "percent": "100%",
+        "regCapital": "2000.000000万人民币",
+        "regStatus": "存续"
+      }
+    ],
+    "total": 558
+  }
+}

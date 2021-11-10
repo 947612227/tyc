@@ -1,0 +1,3433 @@
+{
+  "result": {
+    "total": 8,
+    "items": [
+      {
+        "baseInfo": {
+          "employeeNum": "企业选择不公示",
+          "totalAssets": "企业选择不公示",
+          "totalProfit": "企业选择不公示",
+          "totalLiability": "企业选择不公示",
+          "companyName": "北京百度网讯科技有限公司",
+          "postcode": "100085",
+          "totalSales": "企业选择不公示",
+          "operatorName": "",
+          "retainedProfit": "企业选择不公示",
+          "totalTax": "企业选择不公示",
+          "reportYear": "2020",
+          "regNumber": "",
+          "totalEquity": "企业选择不公示",
+          "creditCode": "91110000802100433B",
+          "phoneNumber": "010-59928888",
+          "postalAddress": "北京市海淀区上地十街10号百度大厦2层",
+          "primeBusProfit": "企业选择不公示",
+          "id": 3065131627,
+          "manageState": "开业",
+          "email": "无"
+        },
+        "companyId": "22822",
+        "outboundInvestmentList": [
+          {
+            "outcompanyName": "湖南微算互联信息技术有限公司",
+            "reportYear": "2020",
+            "creditCode": "91430111338411878E",
+            "regNum": "",
+            "clickId": "3147066859",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "百度健康(北京)科技有限公司",
+            "reportYear": "2020",
+            "creditCode": "91110108MA01QAH21L",
+            "regNum": "",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海百度人才咨询有限公司",
+            "reportYear": "2020",
+            "creditCode": "",
+            "regNum": "310114002218153",
+            "clickId": "107706459",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上弦月投资管理(北京)有限公司",
+            "reportYear": "2020",
+            "creditCode": "91110108339709545A",
+            "regNum": "",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "百度云计算(上海)有限公司",
+            "reportYear": "2020",
+            "creditCode": "91310114MA1GY5BTXC",
+            "regNum": "",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京百慧创赢投资管理有限公司",
+            "reportYear": "2020",
+            "creditCode": "91110113MA01A4QX9G",
+            "regNum": "",
+            "clickId": "3150610718",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京华缨文化传播有限公司",
+            "reportYear": "2020",
+            "creditCode": "91110108MA00H28W8F",
+            "regNum": "",
+            "clickId": "3089357851",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京掌讯远景数码信息技术有限公司",
+            "reportYear": "2020",
+            "creditCode": "911101148026524062",
+            "regNum": "",
+            "clickId": "17912691",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京缪客科技有限公司",
+            "reportYear": "2020",
+            "creditCode": "911101083181623099",
+            "regNum": "",
+            "clickId": "53577189",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "医来(海南)网络科技有限公司",
+            "reportYear": "2020",
+            "creditCode": "91460000MA5TA8JA17",
+            "regNum": "",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "集度科技有限公司",
+            "reportYear": "2020",
+            "creditCode": "91110400MA04BBC23L",
+            "regNum": "",
+            "clickId": "4983769070",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "海南医来远程医疗中心有限公司",
+            "reportYear": "2020",
+            "creditCode": "91460000MA5TK6T29C",
+            "regNum": "",
+            "clickId": "3441744935",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "广州微算互联信息技术有限公司",
+            "reportYear": "2020",
+            "creditCode": "91440101MA5AQ90Q4E",
+            "regNum": "",
+            "clickId": "3156894551",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京幻想纵横网络技术有限公司",
+            "reportYear": "2020",
+            "creditCode": "91110105678221683F",
+            "regNum": "",
+            "clickId": "24489290",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "定兴百锐科技有限公司",
+            "reportYear": "2020",
+            "creditCode": "91130626MA0EEXAK36",
+            "regNum": "",
+            "clickId": "3397431940",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "蝴蝶互动(上海)信息技术有限公司",
+            "reportYear": "2020",
+            "creditCode": "91310115590395208R",
+            "regNum": "",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海骄风网络科技有限公司",
+            "reportYear": "2020",
+            "creditCode": "91310114MA1GURK91T",
+            "regNum": "",
+            "clickId": "3204645567",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京幻想纵横影业有限公司",
+            "reportYear": "2020",
+            "creditCode": "91110115MA01WJHR3F",
+            "regNum": "",
+            "clickId": "3484714850",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京乐和彩科技有限公司",
+            "reportYear": "2020",
+            "creditCode": "91110108551407704H",
+            "regNum": "",
+            "clickId": "25104813",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海七猫文化传媒有限公司",
+            "reportYear": "2020",
+            "creditCode": "91310117MA1J203301",
+            "regNum": "",
+            "clickId": "3216569983",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京小度互娱掌讯科技有限公司",
+            "reportYear": "2020",
+            "creditCode": "91110108MA00BK0449",
+            "regNum": "",
+            "clickId": "3018586791",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "济南百伯人力资源有限公司分享 关注",
+            "reportYear": "2020",
+            "creditCode": "",
+            "regNum": "370127200049395",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "保定市徐水区埃必赛科技有限公司",
+            "reportYear": "2020",
+            "creditCode": "91130609MA0EG0NT0J",
+            "regNum": "",
+            "clickId": "3398684634",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京小鱼在家科技有限公司",
+            "reportYear": "2020",
+            "creditCode": "91110108091857076P",
+            "regNum": "",
+            "clickId": "3068106833",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京七猫信息技术有限公司",
+            "reportYear": "2020",
+            "creditCode": "91110105MA01P6JJ7D",
+            "regNum": "",
+            "clickId": "3395627346",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海彦沐信息技术有限公司",
+            "reportYear": "2020",
+            "creditCode": "91310118MA1JND5M92",
+            "regNum": "",
+            "clickId": "3393514700",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海蝶舞信息技术有限公司",
+            "reportYear": "2020",
+            "creditCode": "913101155916873765",
+            "regNum": "",
+            "clickId": "331140883",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海小度人工智能有限公司",
+            "reportYear": "2020",
+            "creditCode": "91310115MA1K4MA10K",
+            "regNum": "",
+            "clickId": "3485130445",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "贵州百讯智汇科技有限公司",
+            "reportYear": "2020",
+            "creditCode": "91520114MAAK4YGN80",
+            "regNum": "",
+            "clickId": "4044000079",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京掌讯互动广告有限公司",
+            "reportYear": "2020",
+            "creditCode": "",
+            "regNum": "1101081999742",
+            "clickId": "120468742",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "霍尔果斯蝶飞信息技术有限公司",
+            "reportYear": "2020",
+            "creditCode": "91654004MA776ML53J",
+            "regNum": "",
+            "clickId": "2944532153",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京长地万方科技有限公司",
+            "reportYear": "2020",
+            "creditCode": "9111010874753190XJ",
+            "regNum": "",
+            "clickId": "26080527",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "海南幻想纵横娱乐有限公司",
+            "reportYear": "2020",
+            "creditCode": "91460000MA5TQCHF8M",
+            "regNum": "",
+            "clickId": "3487053444",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "海南医来互联网医院有限公司",
+            "reportYear": "2020",
+            "creditCode": "91460100MA5TK6WB1D",
+            "regNum": "",
+            "clickId": "3441945608",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "蝴蝶互动(北京)信息技术有限公司",
+            "reportYear": "2020",
+            "creditCode": "91110107587659268Y",
+            "regNum": "",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京蓝宙管理咨询有限公司",
+            "reportYear": "2020",
+            "creditCode": "",
+            "regNum": "110000014920737",
+            "clickId": "107706383",
+            "type": "2"
+          }
+        ],
+        "releaseTime": "2021-06-25",
+        "shareholderList": [
+          {
+            "subscribeAmount": "127487.4万元",
+            "subscribeTime": "2017-10-11",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2017-10-11",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2020",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "127487.4万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "422875万元",
+            "subscribeTime": "2018-08-14",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2018-08-14",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2020",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "422875万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "64675万元",
+            "subscribeTime": "2015-12-22",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2015-12-22",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2020",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "64675万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "13930万元",
+            "subscribeTime": "2016-03-29",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2016-03-29",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2020",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "13930万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "9950万元",
+            "subscribeTime": "2008-04-28",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2008-04-28",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2020",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "9950万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "696500万元",
+            "subscribeTime": "2019-07-22",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2019-07-22",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2020",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "696500万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "6710.64万元",
+            "subscribeTime": "2019-12-25",
+            "clickId": "1905070872",
+            "investorName": "崔珊珊",
+            "paidTime": "2019-12-25",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2020",
+            "toco": "17",
+            "alias": "崔",
+            "logo": "https://imgh.tianyancha.com/logo/human/086164804ac49f1d8c8ba0a9179017f2_d200x200.png",
+            "paidAmount": "6710.64万元",
+            "cid": 22822
+          }
+        ],
+        "reportSocialSecurityInfo": {
+          "medicalInsurancePayAmount": "企业选择不公示",
+          "medicalInsuranceOweAmount": "企业选择不公示",
+          "unemploymentInsuranceBase": "企业选择不公示",
+          "unemploymentInsuranceOweAmount": "企业选择不公示",
+          "unemploymentInsurancePayAmount": "企业选择不公示",
+          "endowmentInsurance": "4611人",
+          "maternityInsurancePayAmount": "企业选择不公示",
+          "employmentInjuryInsurancePayAmount": "企业选择不公示",
+          "medicalInsurance": "4611人",
+          "medicalInsuranceBase": "企业选择不公示",
+          "unemploymentInsurance": "4611人",
+          "annaulreportId": 3065131627,
+          "endowmentInsuranceBase": "企业选择不公示",
+          "maternityInsuranceBase": "企业选择不公示",
+          "createTime": 1624974567000,
+          "endowmentInsurancePayAmount": "企业选择不公示",
+          "employmentInjuryInsurance": "4611人",
+          "endowmentInsuranceOweAmount": "企业选择不公示",
+          "maternityInsurance": "4611人",
+          "maternityInsuranceOweAmount": "企业选择不公示",
+          "employmentInjuryInsuranceOweAmount": "企业选择不公示",
+          "id": 536055978
+        },
+        "govReport": null,
+        "equityChangeInfoList": [],
+        "type": 2,
+        "changeRecordList": [],
+        "webInfoList": [
+          {
+            "reportYear": "2020",
+            "webType": "网页",
+            "website": "www.baidu.com",
+            "name": "百度"
+          }
+        ],
+        "outGuaranteeInfoList": []
+      },
+      {
+        "baseInfo": {
+          "employeeNum": "企业选择不公示",
+          "totalAssets": "企业选择不公示",
+          "totalProfit": "企业选择不公示",
+          "totalLiability": "企业选择不公示",
+          "companyName": "北京百度网讯科技有限公司",
+          "postcode": "100085",
+          "totalSales": "企业选择不公示",
+          "operatorName": "",
+          "retainedProfit": "企业选择不公示",
+          "totalTax": "企业选择不公示",
+          "reportYear": "2019",
+          "regNumber": "",
+          "totalEquity": "企业选择不公示",
+          "creditCode": "91110000802100433B",
+          "phoneNumber": "010-59928888",
+          "postalAddress": "北京市海淀区上地十街10号百度大厦2层",
+          "primeBusProfit": "企业选择不公示",
+          "id": 2986469332,
+          "manageState": "开业",
+          "email": "无"
+        },
+        "companyId": "22822",
+        "outboundInvestmentList": [
+          {
+            "outcompanyName": "南京乐韵瑞信息技术有限公司",
+            "reportYear": "2019",
+            "creditCode": "91320115057958105F",
+            "regNum": "",
+            "clickId": "2310286977",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "华扬联众数字技术股份有限公司",
+            "reportYear": "2019",
+            "creditCode": "91110101101343096U",
+            "regNum": "",
+            "clickId": "3174100",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京创新伙伴教育科技有限公司",
+            "reportYear": "2019",
+            "creditCode": "91110108592389960Y",
+            "regNum": "",
+            "clickId": "24643544",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "达孜县百瑞翔创业投资管理有限责任公司",
+            "reportYear": "2019",
+            "creditCode": "91540126MA6T2X654G",
+            "regNum": "",
+            "clickId": "3046112687",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "河南沸点网络科技有限公司",
+            "reportYear": "2019",
+            "creditCode": "9141010056103928XQ",
+            "regNum": "",
+            "clickId": "888343156",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海汉得信息技术股份有限公司",
+            "reportYear": "2019",
+            "creditCode": "9131000074027295XF",
+            "regNum": "",
+            "clickId": "266155492",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京幻想纵横网络技术有限公司",
+            "reportYear": "2019",
+            "creditCode": "91110105678221683F",
+            "regNum": "",
+            "clickId": "24489290",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "百度鹏寰资产管理（北京）有限公司",
+            "reportYear": "2019",
+            "creditCode": "91110108769934777T",
+            "regNum": "",
+            "clickId": "2310470083",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "湖南微算互联信息技术有限公司",
+            "reportYear": "2019",
+            "creditCode": "91430111338411878E",
+            "regNum": "",
+            "clickId": "3147066859",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京康夫子健康技术有限公司",
+            "reportYear": "2019",
+            "creditCode": "91110108MA01FYN333",
+            "regNum": "",
+            "clickId": "3277354448",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "沪江教育科技（上海）股份有限公司",
+            "reportYear": "2019",
+            "creditCode": "91310000685518944H",
+            "regNum": "",
+            "clickId": "2349015448",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海兴容信息技术有限公司",
+            "reportYear": "2019",
+            "creditCode": "91310107557404344D",
+            "regNum": "",
+            "clickId": "3049680574",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "沈阳分分钟企业管理有限公司",
+            "reportYear": "2019",
+            "creditCode": "9121011256466462XD",
+            "regNum": "",
+            "clickId": "2332608915",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "星云融创（北京）科技有限公",
+            "reportYear": "2019",
+            "creditCode": "91110108576914390R",
+            "regNum": "",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京度小满支付科技有限公司",
+            "reportYear": "2019",
+            "creditCode": "91110108672354426W",
+            "regNum": "",
+            "clickId": "3381591494",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京乐和彩科技有限公司",
+            "reportYear": "2019",
+            "creditCode": "91110108551407704H",
+            "regNum": "",
+            "clickId": "25104813",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京百度智行科技有限公司",
+            "reportYear": "2019",
+            "creditCode": "91110302MA00DW8P02",
+            "regNum": "",
+            "clickId": "3043827609",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海齐家网信息科技股份有限公司",
+            "reportYear": "2019",
+            "creditCode": "913100006643910916",
+            "regNum": "",
+            "clickId": "174626493",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京鼎新天下科技有限公司",
+            "reportYear": "2019",
+            "creditCode": "9111010869495430XC",
+            "regNum": "",
+            "clickId": "2262980",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京小度互娱科技有限公司",
+            "reportYear": "2019",
+            "creditCode": "91110108MA004HKR33",
+            "regNum": "",
+            "clickId": "2350111935",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "深圳米筐科技有限公司",
+            "reportYear": "2019",
+            "creditCode": "91440300319757355B",
+            "regNum": "",
+            "clickId": "1284552427",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京受教信息科技有限公司",
+            "reportYear": "2019",
+            "creditCode": "91110108MA003XEJ8X",
+            "regNum": "",
+            "clickId": "2358180982",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "重庆融度科技有限公司",
+            "reportYear": "2019",
+            "creditCode": "915000005634753922",
+            "regNum": "",
+            "clickId": "275778835",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "小船出海教育科技（北京）有限公司",
+            "reportYear": "2019",
+            "creditCode": "911101083443353579",
+            "regNum": "",
+            "clickId": "2310297330",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京龙渊天启投资管理中心（有限合伙）",
+            "reportYear": "2019",
+            "creditCode": "91110107074104515C",
+            "regNum": "",
+            "clickId": "99739261",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "厦门千时科技有限公司",
+            "reportYear": "2019",
+            "creditCode": "91350206303151471K",
+            "regNum": "",
+            "clickId": "2349734522",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "湖南阿波罗智行科技有限公司",
+            "reportYear": "2019",
+            "creditCode": "91430104MA4QBML795",
+            "regNum": "",
+            "clickId": "3306033246",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "首约科技（北京）有限公司",
+            "reportYear": "2019",
+            "creditCode": "91120118328676979R",
+            "regNum": "",
+            "clickId": "2943685733",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京智能车联产业创新中心有限公司",
+            "reportYear": "2019",
+            "creditCode": "91110302MA0094445T",
+            "regNum": "",
+            "clickId": "2959951982",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "云丁网络技术（北京）有限公司",
+            "reportYear": "2019",
+            "creditCode": "91110108399514950D",
+            "regNum": "",
+            "clickId": "99678873",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "深圳前海华视移动互联有限公司",
+            "reportYear": "2019",
+            "creditCode": "9144030007111008XF",
+            "regNum": "",
+            "clickId": "2313860920",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "客如云科技（北京）股份有限公司",
+            "reportYear": "2019",
+            "creditCode": "9111010105137837XC",
+            "regNum": "",
+            "clickId": "968162943",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京亦水方舟科技有限公司",
+            "reportYear": "2019",
+            "creditCode": "91110101584477119R",
+            "regNum": "",
+            "clickId": "33978180",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "天津龙渊云腾投资管理合伙企业（有限合伙）",
+            "reportYear": "2019",
+            "creditCode": "911201163003084964",
+            "regNum": "",
+            "clickId": "220504138",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京长地万方科技有限公司",
+            "reportYear": "2019",
+            "creditCode": "9111010874753190XJ",
+            "regNum": "",
+            "clickId": "26080527",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海叶萌广告传媒有限公司",
+            "reportYear": "2019",
+            "creditCode": "91310113055929095M",
+            "regNum": "",
+            "clickId": "522030252",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "百度雄安科技有限公司",
+            "reportYear": "2019",
+            "creditCode": "91130629MA09DHY337",
+            "regNum": "",
+            "clickId": "3125216335",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京捷通华声科技股份有限公司",
+            "reportYear": "2019",
+            "creditCode": "91110108723968939Y",
+            "regNum": "",
+            "clickId": "2345039913",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "百度健康（北京）科技有限公司",
+            "reportYear": "2019",
+            "creditCode": "91110108MA01QAH21L",
+            "regNum": "",
+            "clickId": "3411760479",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "广东瑞图万方科技股份有限公司",
+            "reportYear": "2019",
+            "creditCode": "914406067417265703",
+            "regNum": "",
+            "clickId": "18139981",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京太合音乐文化发展有限公司",
+            "reportYear": "2019",
+            "creditCode": "911101053067230171",
+            "regNum": "",
+            "clickId": "934605",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "深圳市百分之百数码科技有限公司",
+            "reportYear": "2019",
+            "creditCode": "91440300793889056E",
+            "regNum": "",
+            "clickId": "1137573838",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "诺克萨斯（北京）科技有限公司",
+            "reportYear": "2019",
+            "creditCode": "91110106059289814B",
+            "regNum": "",
+            "clickId": "24644208",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "美味不用等（上海）信息科技股份有限公司",
+            "reportYear": "2019",
+            "creditCode": "91310000062502540G",
+            "regNum": "",
+            "clickId": "2358521463",
+            "type": "2"
+          }
+        ],
+        "releaseTime": "2020-06-29",
+        "shareholderList": [
+          {
+            "subscribeAmount": "3500万元",
+            "subscribeTime": "2019-08-01",
+            "clickId": "1839080315",
+            "investorName": "向海龙",
+            "paidTime": "2019-08-01",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2019",
+            "toco": "45",
+            "alias": "向",
+            "logo": "https://imgh.tianyancha.com/logo/human/57a4e623227df05c7c328e51da7fce92_d200x200.png",
+            "paidAmount": "3500万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "696500万元",
+            "subscribeTime": "2019-07-22",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2019-07-22",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2019",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "696500万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "127487.4万元",
+            "subscribeTime": "2017-10-11",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2017-10-11",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2019",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "127487.4万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "640.64万元",
+            "subscribeTime": "2017-10-24",
+            "clickId": "1839080315",
+            "investorName": "向海龙",
+            "paidTime": "2017-10-24",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2019",
+            "toco": "45",
+            "alias": "向",
+            "logo": "https://imgh.tianyancha.com/logo/human/57a4e623227df05c7c328e51da7fce92_d200x200.png",
+            "paidAmount": "640.64万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "2125万元",
+            "subscribeTime": "2018-08-14",
+            "clickId": "1839080315",
+            "investorName": "向海龙",
+            "paidTime": "2018-08-14",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2019",
+            "toco": "45",
+            "alias": "向",
+            "logo": "https://imgh.tianyancha.com/logo/human/57a4e623227df05c7c328e51da7fce92_d200x200.png",
+            "paidAmount": "2125万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "445万元",
+            "subscribeTime": "2016-06-13",
+            "clickId": "1839080315",
+            "investorName": "向海龙",
+            "paidTime": "2016-06-13",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2019",
+            "toco": "45",
+            "alias": "向",
+            "logo": "https://imgh.tianyancha.com/logo/human/57a4e623227df05c7c328e51da7fce92_d200x200.png",
+            "paidAmount": "445万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "13930万元",
+            "subscribeTime": "2016-03-29",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2016-03-29",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2019",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "13930万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "64675万元",
+            "subscribeTime": "2015-12-22",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2015-12-22",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2019",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "64675万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "422875万元",
+            "subscribeTime": "2018-08-14",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2018-08-14",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2019",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "422875万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "9950万元",
+            "subscribeTime": "2008-04-28",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2008-04-28",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2019",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "9950万元",
+            "cid": 22822
+          }
+        ],
+        "reportSocialSecurityInfo": {
+          "medicalInsurancePayAmount": "企业选择不公示",
+          "medicalInsuranceOweAmount": "企业选择不公示",
+          "unemploymentInsuranceBase": "企业选择不公示",
+          "unemploymentInsuranceOweAmount": "企业选择不公示",
+          "unemploymentInsurancePayAmount": "企业选择不公示",
+          "endowmentInsurance": "6668人",
+          "maternityInsurancePayAmount": "企业选择不公示",
+          "employmentInjuryInsurancePayAmount": "企业选择不公示",
+          "medicalInsurance": "6668人",
+          "medicalInsuranceBase": "企业选择不公示",
+          "unemploymentInsurance": "6668人",
+          "annaulreportId": 2986469332,
+          "endowmentInsuranceBase": "企业选择不公示",
+          "maternityInsuranceBase": "企业选择不公示",
+          "createTime": 1594341399000,
+          "endowmentInsurancePayAmount": "企业选择不公示",
+          "employmentInjuryInsurance": "6668人",
+          "endowmentInsuranceOweAmount": "企业选择不公示",
+          "maternityInsurance": "6668人",
+          "maternityInsuranceOweAmount": "企业选择不公示",
+          "employmentInjuryInsuranceOweAmount": "企业选择不公示",
+          "id": 485692499
+        },
+        "govReport": null,
+        "equityChangeInfoList": [
+          {
+            "changeTime": "2019-12-25",
+            "reportYear": "2019",
+            "ratioAfter": "5%",
+            "ratioBefore": "0%",
+            "investorName": "崔珊珊"
+          },
+          {
+            "changeTime": "2019-12-25",
+            "reportYear": "2019",
+            "ratioAfter": "0%",
+            "ratioBefore": "5%",
+            "investorName": "向海龙"
+          }
+        ],
+        "type": 2,
+        "changeRecordList": [],
+        "webInfoList": [
+          {
+            "reportYear": "2019",
+            "webType": "网页",
+            "website": "www.baidu.com",
+            "name": "百度"
+          }
+        ],
+        "outGuaranteeInfoList": []
+      },
+      {
+        "baseInfo": {
+          "employeeNum": "企业选择不公示",
+          "totalAssets": "企业选择不公示",
+          "totalProfit": "企业选择不公示",
+          "totalLiability": "企业选择不公示",
+          "companyName": "北京百度网讯科技有限公司",
+          "postcode": "100085",
+          "totalSales": "企业选择不公示",
+          "operatorName": "",
+          "retainedProfit": "企业选择不公示",
+          "totalTax": "企业选择不公示",
+          "reportYear": "2018",
+          "regNumber": "110108002734659",
+          "totalEquity": "企业选择不公示",
+          "creditCode": "91110000802100433B",
+          "phoneNumber": "010-59928888",
+          "postalAddress": "北京市海淀区上地十街10号百度大厦2层",
+          "primeBusProfit": "企业选择不公示",
+          "id": 2936194836,
+          "manageState": "开业",
+          "email": "无"
+        },
+        "companyId": "22822",
+        "outboundInvestmentList": [
+          {
+            "outcompanyName": "客如云科技（北京）股份有限公司",
+            "reportYear": "2018",
+            "creditCode": "9111010105137837XC",
+            "regNum": "",
+            "clickId": "968162943",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "深圳市百分之百数码科技有限公司",
+            "reportYear": "2018",
+            "creditCode": "91440300793889056E",
+            "regNum": "",
+            "clickId": "1137573838",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京长地万方科技有限公司",
+            "reportYear": "2018",
+            "creditCode": "9111010874753190XJ",
+            "regNum": "",
+            "clickId": "26080527",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京智能车联产业创新中心有限公司",
+            "reportYear": "2018",
+            "creditCode": "91110302MA0094445T",
+            "regNum": "",
+            "clickId": "2959951982",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "深圳前海华视移动互联有限公司",
+            "reportYear": "2018",
+            "creditCode": "9144030007111008XF",
+            "regNum": "",
+            "clickId": "2313860920",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "河南沸点网络科技有限公司",
+            "reportYear": "2018",
+            "creditCode": "9141010056103928XQ",
+            "regNum": "",
+            "clickId": "888343156",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京百付宝科技有限公司",
+            "reportYear": "2018",
+            "creditCode": "91110108672354426W",
+            "regNum": "",
+            "clickId": "26031220",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京幻想纵横网络技术有限公司",
+            "reportYear": "2018",
+            "creditCode": "91110105678221683F",
+            "regNum": "",
+            "clickId": "24489290",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海兴容信息技术有限公司",
+            "reportYear": "2018",
+            "creditCode": "91310107557404344D",
+            "regNum": "",
+            "clickId": "3049680574",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "沈阳分分钟科技有限公司",
+            "reportYear": "2018",
+            "creditCode": "9121011256466462XD",
+            "regNum": "",
+            "clickId": "367313515",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "风灵创景(北京)技术有限公司",
+            "reportYear": "2018",
+            "creditCode": "91110108569450612E",
+            "regNum": "",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京米筐科技有限公司",
+            "reportYear": "2018",
+            "creditCode": "91110105318197819N",
+            "regNum": "",
+            "clickId": "108698053",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京龙渊天启投资管理中心（有限合伙）",
+            "reportYear": "2018",
+            "creditCode": "91110107074104515C",
+            "regNum": "",
+            "clickId": "99739261",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "小船出海教育科技（北京）有限公司",
+            "reportYear": "2018",
+            "creditCode": "911101083443353579",
+            "regNum": "",
+            "clickId": "2310297330",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京亦水方舟科技有限公司",
+            "reportYear": "2018",
+            "creditCode": "91110101584477119R",
+            "regNum": "",
+            "clickId": "33978180",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "天津龙渊云腾投资管理合伙企业（有限合伙）",
+            "reportYear": "2018",
+            "creditCode": "911201163003084964",
+            "regNum": "",
+            "clickId": "220504138",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京小度互娱科技有限公司",
+            "reportYear": "2018",
+            "creditCode": "91110108MA004HKR33",
+            "regNum": "",
+            "clickId": "2350111935",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "云丁网络技术（北京）有限公司",
+            "reportYear": "2018",
+            "creditCode": "91110108399514950D",
+            "regNum": "",
+            "clickId": "99678873",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京鼎新天下科技有限公司",
+            "reportYear": "2018",
+            "creditCode": "9111010869495430XC",
+            "regNum": "",
+            "clickId": "2262980",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "重庆融度科技有限公司",
+            "reportYear": "2018",
+            "creditCode": "915000005634753922",
+            "regNum": "",
+            "clickId": "275778835",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海叶萌广告传媒有限公司",
+            "reportYear": "2018",
+            "creditCode": "91310113055929095M",
+            "regNum": "",
+            "clickId": "522030252",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "广东瑞图万方科技股份有限公司",
+            "reportYear": "2018",
+            "creditCode": "914406067417265703",
+            "regNum": "",
+            "clickId": "18139981",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "湖南红手指信息技术有限公司",
+            "reportYear": "2018",
+            "creditCode": "91430111338411878E",
+            "regNum": "",
+            "clickId": "1263915123",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京北冥鱼信息技术有限公司",
+            "reportYear": "2018",
+            "creditCode": "91110107596022365X",
+            "regNum": "",
+            "clickId": "41457332",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京百度保险经纪有限公司",
+            "reportYear": "2018",
+            "creditCode": "91110108MA006JY671",
+            "regNum": "",
+            "clickId": "2353690439",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京创新伙伴教育科技有限公司",
+            "reportYear": "2018",
+            "creditCode": "91110108592389960Y",
+            "regNum": "",
+            "clickId": "24643544",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "成都市极米科技有限公司",
+            "reportYear": "2018",
+            "creditCode": "915101000833108553",
+            "regNum": "",
+            "clickId": "356883753",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "沪江教育科技(上海)股份有限公司",
+            "reportYear": "2018",
+            "creditCode": "91310000685518944H",
+            "regNum": "",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "美味不用等（上海）信息科技股份有限公司",
+            "reportYear": "2018",
+            "creditCode": "91310000062502540G",
+            "regNum": "",
+            "clickId": "2358521463",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "百度鹏寰资产管理（北京）有限公司",
+            "reportYear": "2018",
+            "creditCode": "91110108769934777T",
+            "regNum": "",
+            "clickId": "2310470083",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海优扬新媒信息技术有限公司",
+            "reportYear": "2018",
+            "creditCode": "91310114585239729M",
+            "regNum": "",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "百度雄安科技有限公司",
+            "reportYear": "2018",
+            "creditCode": "91130629MA09DHY337",
+            "regNum": "",
+            "clickId": "3125216335",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "南京信风网络科技有限公司",
+            "reportYear": "2018",
+            "creditCode": "91320104756879916G",
+            "regNum": "",
+            "clickId": "2332608916",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "星云融创(北京)信息技术有限公司",
+            "reportYear": "2018",
+            "creditCode": "91110108575155521C",
+            "regNum": "",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海齐家网信息科技股份有限公司",
+            "reportYear": "2018",
+            "creditCode": "913100006643910916",
+            "regNum": "",
+            "clickId": "174626493",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京捷通华声科技股份有限公司",
+            "reportYear": "2018",
+            "creditCode": "91110108723968939Y",
+            "regNum": "",
+            "clickId": "2345039913",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "华扬联众数字技术股份有限公司",
+            "reportYear": "2018",
+            "creditCode": "91110101101343096U",
+            "regNum": "",
+            "clickId": "3174100",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "南京乐韵瑞信息技术有限公司",
+            "reportYear": "2018",
+            "creditCode": "91320115057958105F",
+            "regNum": "",
+            "clickId": "2310286977",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "首约科技（北京）有限公司",
+            "reportYear": "2018",
+            "creditCode": "91120118328676979R",
+            "regNum": "",
+            "clickId": "2943685733",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京乐和彩科技有限公司",
+            "reportYear": "2018",
+            "creditCode": "91110108551407704H",
+            "regNum": "",
+            "clickId": "25104813",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京太合音乐文化发展有限公司",
+            "reportYear": "2018",
+            "creditCode": "911101053067230171",
+            "regNum": "",
+            "clickId": "934605",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京趣活科技有限公司",
+            "reportYear": "2018",
+            "creditCode": "911101085923799229",
+            "regNum": "",
+            "clickId": "33015172",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京受教信息科技有限公司",
+            "reportYear": "2018",
+            "creditCode": "91110108MA003XEJ8X",
+            "regNum": "",
+            "clickId": "2358180982",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "达孜县百瑞翔创业投资管理有限责任公司",
+            "reportYear": "2018",
+            "creditCode": "91540126MA6T2X654G",
+            "regNum": "",
+            "clickId": "3046112687",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京百誉信征信有限公司",
+            "reportYear": "2018",
+            "creditCode": "91110000327250562L",
+            "regNum": "",
+            "clickId": "82770842",
+            "type": "2"
+          }
+        ],
+        "releaseTime": "2019-06-24",
+        "shareholderList": [
+          {
+            "subscribeAmount": "64675.0万元",
+            "subscribeTime": "2015-12-22",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2015-12-22",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2018",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "64675.0万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "13930.0万元",
+            "subscribeTime": "2016-03-29",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2016-03-29",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2018",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "13930.0万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "127487.36万元",
+            "subscribeTime": "2017-10-11",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2017-10-11",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2018",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "127487.36万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "2125.0万元",
+            "subscribeTime": "2018-08-14",
+            "clickId": "1839080315",
+            "investorName": "向海龙",
+            "paidTime": "2018-08-14",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2018",
+            "toco": "45",
+            "alias": "向",
+            "logo": "https://imgh.tianyancha.com/logo/human/57a4e623227df05c7c328e51da7fce92_d200x200.png",
+            "paidAmount": "2125.0万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "445.0万元",
+            "subscribeTime": "2016-06-13",
+            "clickId": "1839080315",
+            "investorName": "向海龙",
+            "paidTime": "2016-06-13",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2018",
+            "toco": "45",
+            "alias": "向",
+            "logo": "https://imgh.tianyancha.com/logo/human/57a4e623227df05c7c328e51da7fce92_d200x200.png",
+            "paidAmount": "445.0万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "640.64万元",
+            "subscribeTime": "2017-10-24",
+            "clickId": "1839080315",
+            "investorName": "向海龙",
+            "paidTime": "2017-10-24",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2018",
+            "toco": "45",
+            "alias": "向",
+            "logo": "https://imgh.tianyancha.com/logo/human/57a4e623227df05c7c328e51da7fce92_d200x200.png",
+            "paidAmount": "640.64万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "422875.0万元",
+            "subscribeTime": "2018-08-14",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2018-08-14",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2018",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "422875.0万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "9950.0万元",
+            "subscribeTime": "2008-04-28",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2008-04-28",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2018",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "9950.0万元",
+            "cid": 22822
+          }
+        ],
+        "reportSocialSecurityInfo": {
+          "medicalInsurancePayAmount": "企业选择不公示",
+          "medicalInsuranceOweAmount": "企业选择不公示",
+          "unemploymentInsuranceBase": "企业选择不公示",
+          "unemploymentInsuranceOweAmount": "企业选择不公示",
+          "unemploymentInsurancePayAmount": "企业选择不公示",
+          "endowmentInsurance": "6792人",
+          "maternityInsurancePayAmount": "企业选择不公示",
+          "employmentInjuryInsurancePayAmount": "企业选择不公示",
+          "medicalInsurance": "6792人",
+          "medicalInsuranceBase": "企业选择不公示",
+          "unemploymentInsurance": "6792人",
+          "annaulreportId": 2936194836,
+          "endowmentInsuranceBase": "企业选择不公示",
+          "maternityInsuranceBase": "企业选择不公示",
+          "createTime": 1561455232000,
+          "endowmentInsurancePayAmount": "企业选择不公示",
+          "employmentInjuryInsurance": "6792人",
+          "endowmentInsuranceOweAmount": "企业选择不公示",
+          "maternityInsurance": "6792人",
+          "maternityInsuranceOweAmount": "企业选择不公示",
+          "employmentInjuryInsuranceOweAmount": "企业选择不公示",
+          "id": 452260539
+        },
+        "govReport": null,
+        "equityChangeInfoList": [],
+        "type": 2,
+        "changeRecordList": [],
+        "webInfoList": [
+          {
+            "reportYear": "2018",
+            "webType": "网页",
+            "website": "www.baidu.com",
+            "name": "百度"
+          }
+        ],
+        "outGuaranteeInfoList": []
+      },
+      {
+        "baseInfo": {
+          "employeeNum": "企业选择不公示",
+          "totalAssets": "企业选择不公示",
+          "totalProfit": "企业选择不公示",
+          "totalLiability": "企业选择不公示",
+          "companyName": "北京百度网讯科技有限公司",
+          "postcode": "100085",
+          "totalSales": "企业选择不公示",
+          "operatorName": "",
+          "retainedProfit": "企业选择不公示",
+          "totalTax": "企业选择不公示",
+          "reportYear": "2017",
+          "regNumber": "110108002734659",
+          "totalEquity": "企业选择不公示",
+          "creditCode": "91110000802100433B",
+          "phoneNumber": "010-59928888",
+          "postalAddress": "北京市海淀区上地十街10号百度大厦2层",
+          "primeBusProfit": "企业选择不公示",
+          "id": 2913344959,
+          "manageState": "开业",
+          "email": "无"
+        },
+        "companyId": "22822",
+        "outboundInvestmentList": [
+          {
+            "outcompanyName": "南京信风网络科技有限公司",
+            "reportYear": "2017",
+            "creditCode": "91320104756879916G",
+            "regNum": "",
+            "clickId": "2332608916",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "美味不用等（上海）信息科技股份有限公司",
+            "reportYear": "2017",
+            "creditCode": "91310000062502540G",
+            "regNum": "",
+            "clickId": "2358521463",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "星云融创(北京)信息技术有限公司",
+            "reportYear": "2017",
+            "creditCode": "91110108575155521C",
+            "regNum": "",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海齐家网信息科技股份有限公司",
+            "reportYear": "2017",
+            "creditCode": "913100006643910916",
+            "regNum": "",
+            "clickId": "174626493",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "百度鹏寰资产管理（北京）有限公司",
+            "reportYear": "2017",
+            "creditCode": "91110108769934777T",
+            "regNum": "",
+            "clickId": "2310470083",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京乐和彩科技有限公司",
+            "reportYear": "2017",
+            "creditCode": "91110108551407704H",
+            "regNum": "",
+            "clickId": "25104813",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "华扬联众数字技术股份有限公司",
+            "reportYear": "2017",
+            "creditCode": "91110101101343096U",
+            "regNum": "",
+            "clickId": "3174100",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京捷通华声科技股份有限公司",
+            "reportYear": "2017",
+            "creditCode": "91110108723968939Y",
+            "regNum": "",
+            "clickId": "2345039913",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "成都市极米科技有限公司",
+            "reportYear": "2017",
+            "creditCode": "915101000833108553",
+            "regNum": "",
+            "clickId": "356883753",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "沈阳分分钟企业管理有限公司",
+            "reportYear": "2017",
+            "creditCode": "9121011256466462XD",
+            "regNum": "",
+            "clickId": "2332608915",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京小度互娱科技有限公司",
+            "reportYear": "2017",
+            "creditCode": "91110108MA004HKR33",
+            "regNum": "",
+            "clickId": "2350111935",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京百度保险经纪有限公司",
+            "reportYear": "2017",
+            "creditCode": "91110108MA006JY671",
+            "regNum": "",
+            "clickId": "2353690439",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "沪江教育科技（上海）股份有限公司",
+            "reportYear": "2017",
+            "creditCode": "91310000685518944H",
+            "regNum": "",
+            "clickId": "2349015448",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "达孜县百瑞翔创业投资管理有限责任公司",
+            "reportYear": "2017",
+            "creditCode": "91540126MA6T2X654G",
+            "regNum": "",
+            "clickId": "3046112687",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "南京乐韵瑞信息技术有限公司",
+            "reportYear": "2017",
+            "creditCode": "91320115057958105F",
+            "regNum": "",
+            "clickId": "2310286977",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京百付宝科技有限公司",
+            "reportYear": "2017",
+            "creditCode": "91110108672354426W",
+            "regNum": "",
+            "clickId": "26031220",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "深圳前海华视移动互联有限公司",
+            "reportYear": "2017",
+            "creditCode": "9144030007111008XF",
+            "regNum": "",
+            "clickId": "2313860920",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "广东瑞图万方科技股份有限公司",
+            "reportYear": "2017",
+            "creditCode": "914406067417265703",
+            "regNum": "",
+            "clickId": "18139981",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京太合音乐文化发展有限公司",
+            "reportYear": "2017",
+            "creditCode": "911101053067230171",
+            "regNum": "",
+            "clickId": "934605",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京长地万方科技有限公司",
+            "reportYear": "2017",
+            "creditCode": "9111010874753190XJ",
+            "regNum": "",
+            "clickId": "26080527",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "客如云科技（北京）股份有限公司",
+            "reportYear": "2017",
+            "creditCode": "9111010105137837XC",
+            "regNum": "",
+            "clickId": "968162943",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京智能车联产业创新中心有限公司",
+            "reportYear": "2017",
+            "creditCode": "91110302MA0094445T",
+            "regNum": "",
+            "clickId": "2959951982",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海叶萌广告传媒有限公司",
+            "reportYear": "2017",
+            "creditCode": "91310113055929095M",
+            "regNum": "",
+            "clickId": "522030252",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京幻想纵横网络技术有限公司",
+            "reportYear": "2017",
+            "creditCode": "91110105678221683F",
+            "regNum": "",
+            "clickId": "24489290",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "河南沸点网络科技有限公司",
+            "reportYear": "2017",
+            "creditCode": "9141010056103928XQ",
+            "regNum": "",
+            "clickId": "888343156",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京北冥鱼信息技术有限公司",
+            "reportYear": "2017",
+            "creditCode": "91110107596022365X",
+            "regNum": "",
+            "clickId": "41457332",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "风灵创景(北京)技术有限公司",
+            "reportYear": "2017",
+            "creditCode": "91110108569450612E",
+            "regNum": "",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京百誉信征信有限公司",
+            "reportYear": "2017",
+            "creditCode": "91110000327250562L",
+            "regNum": "",
+            "clickId": "82770842",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京创新伙伴教育科技有限公司",
+            "reportYear": "2017",
+            "creditCode": "91110108592389960Y",
+            "regNum": "",
+            "clickId": "24643544",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "小船出海教育科技（北京）有限公司",
+            "reportYear": "2017",
+            "creditCode": "911101083443353579",
+            "regNum": "",
+            "clickId": "2310297330",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "首约科技（北京）有限公司",
+            "reportYear": "2017",
+            "creditCode": "91120118328676979R",
+            "regNum": "",
+            "clickId": "2943685733",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "天津龙渊云腾投资管理合伙企业（有限合伙）",
+            "reportYear": "2017",
+            "creditCode": "911201163003084964",
+            "regNum": "",
+            "clickId": "220504138",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京鼎新天下科技有限公司",
+            "reportYear": "2017",
+            "creditCode": "9111010869495430XC",
+            "regNum": "",
+            "clickId": "2262980",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "湖南红手指信息技术有限公司",
+            "reportYear": "2017",
+            "creditCode": "91430111338411878E",
+            "regNum": "",
+            "clickId": "1263915123",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京受教信息科技有限公司",
+            "reportYear": "2017",
+            "creditCode": "91110108MA003XEJ8X",
+            "regNum": "",
+            "clickId": "2358180982",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海优扬新媒信息技术有限公司",
+            "reportYear": "2017",
+            "creditCode": "91310114585239729M",
+            "regNum": "",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京趣活科技有限公司",
+            "reportYear": "2017",
+            "creditCode": "911101085923799229",
+            "regNum": "",
+            "clickId": "33015172",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京龙渊天启投资管理中心（有限合伙）",
+            "reportYear": "2017",
+            "creditCode": "91110107074104515C",
+            "regNum": "",
+            "clickId": "99739261",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海兴容信息技术有限公司",
+            "reportYear": "2017",
+            "creditCode": "91310107557404344D",
+            "regNum": "",
+            "clickId": "3049680574",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京米筐科技有限公司",
+            "reportYear": "2017",
+            "creditCode": "91110105318197819N",
+            "regNum": "",
+            "clickId": "108698053",
+            "type": "2"
+          }
+        ],
+        "releaseTime": "2018-06-25",
+        "shareholderList": [
+          {
+            "subscribeAmount": "445.0万元",
+            "subscribeTime": "2016-06-13",
+            "clickId": "1839080315",
+            "investorName": "向海龙",
+            "paidTime": "2016-06-13",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2017",
+            "toco": "45",
+            "alias": "向",
+            "logo": "https://imgh.tianyancha.com/logo/human/57a4e623227df05c7c328e51da7fce92_d200x200.png",
+            "paidAmount": "445.0万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "127487.36万元",
+            "subscribeTime": "2017-10-11",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2017-10-11",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2017",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "127487.36万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "13930.0万元",
+            "subscribeTime": "2016-03-29",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2016-03-29",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2017",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "13930.0万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "64675.0万元",
+            "subscribeTime": "2015-12-22",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2015-12-22",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2017",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "64675.0万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "9950.0万元",
+            "subscribeTime": "2008-04-28",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2008-04-28",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2017",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "9950.0万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "640.64万元",
+            "subscribeTime": "2017-10-24",
+            "clickId": "1839080315",
+            "investorName": "向海龙",
+            "paidTime": "2017-10-24",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2017",
+            "toco": "45",
+            "alias": "向",
+            "logo": "https://imgh.tianyancha.com/logo/human/57a4e623227df05c7c328e51da7fce92_d200x200.png",
+            "paidAmount": "640.64万元",
+            "cid": 22822
+          }
+        ],
+        "reportSocialSecurityInfo": {
+          "medicalInsurancePayAmount": "企业选择不公示",
+          "medicalInsuranceOweAmount": "企业选择不公示",
+          "unemploymentInsuranceBase": "企业选择不公示",
+          "unemploymentInsuranceOweAmount": "企业选择不公示",
+          "unemploymentInsurancePayAmount": "企业选择不公示",
+          "endowmentInsurance": "3411人",
+          "maternityInsurancePayAmount": "企业选择不公示",
+          "employmentInjuryInsurancePayAmount": "企业选择不公示",
+          "medicalInsurance": "3411人",
+          "medicalInsuranceBase": "企业选择不公示",
+          "unemploymentInsurance": "3411人",
+          "annaulreportId": 2913344959,
+          "endowmentInsuranceBase": "企业选择不公示",
+          "maternityInsuranceBase": "企业选择不公示",
+          "createTime": 1552033226000,
+          "endowmentInsurancePayAmount": "企业选择不公示",
+          "employmentInjuryInsurance": "3411人",
+          "endowmentInsuranceOweAmount": "企业选择不公示",
+          "maternityInsurance": "3411人",
+          "maternityInsuranceOweAmount": "企业选择不公示",
+          "employmentInjuryInsuranceOweAmount": "企业选择不公示",
+          "id": 433275836
+        },
+        "govReport": null,
+        "equityChangeInfoList": [],
+        "type": 2,
+        "changeRecordList": [],
+        "webInfoList": [
+          {
+            "reportYear": "2017",
+            "webType": "网页",
+            "website": "www.baidu.com",
+            "name": "百度"
+          }
+        ],
+        "outGuaranteeInfoList": []
+      },
+      {
+        "baseInfo": {
+          "employeeNum": "企业选择不公示",
+          "totalAssets": "企业选择不公示",
+          "totalProfit": "企业选择不公示",
+          "totalLiability": "企业选择不公示",
+          "companyName": "北京百度网讯科技有限公司",
+          "postcode": "100085",
+          "totalSales": "企业选择不公示",
+          "operatorName": "",
+          "retainedProfit": "企业选择不公示",
+          "totalTax": "企业选择不公示",
+          "reportYear": "2016",
+          "regNumber": "110108002734659",
+          "totalEquity": "企业选择不公示",
+          "creditCode": "91110000802100433B",
+          "phoneNumber": "010-59928888",
+          "postalAddress": "北京市海淀区上地十街10号百度大厦",
+          "primeBusProfit": "企业选择不公示",
+          "id": 2913344962,
+          "manageState": "开业",
+          "email": "无"
+        },
+        "companyId": "22822",
+        "outboundInvestmentList": [
+          {
+            "outcompanyName": "北京幻想纵横网络技术有限公司",
+            "reportYear": "2016",
+            "creditCode": "91110105678221683F",
+            "regNum": "",
+            "clickId": "24489290",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "南京信风网络科技有限公司",
+            "reportYear": "2016",
+            "creditCode": "91320104756879916G",
+            "regNum": "",
+            "clickId": "2332608916",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京小度互娱科技有限公司",
+            "reportYear": "2016",
+            "creditCode": "91110108MA004HKR33",
+            "regNum": "",
+            "clickId": "2350111935",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "深圳前海华视移动互联有限公司",
+            "reportYear": "2016",
+            "creditCode": "9144030007111008XF",
+            "regNum": "",
+            "clickId": "2313860920",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "广东瑞图万方科技股份有限公司",
+            "reportYear": "2016",
+            "creditCode": "914406067417265703",
+            "regNum": "",
+            "clickId": "18139981",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "客如云科技（北京）股份有限公司",
+            "reportYear": "2016",
+            "creditCode": "9111010105137837XC",
+            "regNum": "",
+            "clickId": "968162943",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "河南沸点网络科技有限公司",
+            "reportYear": "2016",
+            "creditCode": "9141010056103928XQ",
+            "regNum": "",
+            "clickId": "888343156",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "风灵创景(北京)技术有限公司",
+            "reportYear": "2016",
+            "creditCode": "91110108569450612E",
+            "regNum": "",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京创新伙伴教育科技有限公司",
+            "reportYear": "2016",
+            "creditCode": "91110108592389960Y",
+            "regNum": "",
+            "clickId": "24643544",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京鼎新天下科技有限公司",
+            "reportYear": "2016",
+            "creditCode": "9111010869495430XC",
+            "regNum": "",
+            "clickId": "2262980",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海优扬新媒信息技术有限公司",
+            "reportYear": "2016",
+            "creditCode": "91310114585239729M",
+            "regNum": "",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京乐和彩科技有限公司",
+            "reportYear": "2016",
+            "creditCode": "91110108551407704H",
+            "regNum": "",
+            "clickId": "25104813",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京百誉信征信有限公司",
+            "reportYear": "2016",
+            "creditCode": "91110000327250562L",
+            "regNum": "",
+            "clickId": "82770842",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "天津龙渊云腾投资管理合伙企业（有限合伙）",
+            "reportYear": "2016",
+            "creditCode": "911201163003084964",
+            "regNum": "",
+            "clickId": "220504138",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京捷通华声科技股份有限公司",
+            "reportYear": "2016",
+            "creditCode": "91110108723968939Y",
+            "regNum": "",
+            "clickId": "2345039913",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京北冥鱼信息技术有限公司",
+            "reportYear": "2016",
+            "creditCode": "91110107596022365X",
+            "regNum": "",
+            "clickId": "41457332",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "沪江教育科技（上海）股份有限公司",
+            "reportYear": "2016",
+            "creditCode": "91310000685518944H",
+            "regNum": "",
+            "clickId": "2349015448",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海叶萌广告传媒有限公司",
+            "reportYear": "2016",
+            "creditCode": "",
+            "regNum": "310113001004153",
+            "clickId": "522030252",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "美味不用等（上海）信息科技股份有限公司",
+            "reportYear": "2016",
+            "creditCode": "91310000062502540G",
+            "regNum": "",
+            "clickId": "2358521463",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "深圳米筐科技有限公司",
+            "reportYear": "2016",
+            "creditCode": "91440300319757355B",
+            "regNum": "",
+            "clickId": "1284552427",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京龙渊天启投资管理中心（有限合伙）",
+            "reportYear": "2016",
+            "creditCode": "91110107074104515C",
+            "regNum": "",
+            "clickId": "99739261",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京百度保险经纪有限公司",
+            "reportYear": "2016",
+            "creditCode": "91110108MA006JY671",
+            "regNum": "",
+            "clickId": "2353690439",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "星云融创(北京)信息技术有限公司",
+            "reportYear": "2016",
+            "creditCode": "91110108575155521C",
+            "regNum": "",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京趣活科技有限公司",
+            "reportYear": "2016",
+            "creditCode": "911101085923799229",
+            "regNum": "",
+            "clickId": "33015172",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京智能车联产业创新中心有限公司",
+            "reportYear": "2016",
+            "creditCode": "91110302MA0094445T",
+            "regNum": "",
+            "clickId": "2959951982",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "小船出海教育科技（北京）有限公司",
+            "reportYear": "2016",
+            "creditCode": "911101083443353579",
+            "regNum": "",
+            "clickId": "2310297330",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海齐家网信息科技股份有限公司",
+            "reportYear": "2016",
+            "creditCode": "913100006643910916",
+            "regNum": "",
+            "clickId": "174626493",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海兴容信息技术有限公司",
+            "reportYear": "2016",
+            "creditCode": "91310107557404344D",
+            "regNum": "",
+            "clickId": "3049680574",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "沈阳分分钟企业管理有限公司",
+            "reportYear": "2016",
+            "creditCode": "9121011256466462XD",
+            "regNum": "",
+            "clickId": "2332608915",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "诺克萨斯（北京）科技有限公司",
+            "reportYear": "2016",
+            "creditCode": "91110106059289814B",
+            "regNum": "",
+            "clickId": "24644208",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京太合音乐文化发展有限公司",
+            "reportYear": "2016",
+            "creditCode": "911101053067230171",
+            "regNum": "",
+            "clickId": "934605",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "百度鹏寰资产管理（北京）有限公司",
+            "reportYear": "2016",
+            "creditCode": "91110108769934777T",
+            "regNum": "",
+            "clickId": "2310470083",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京长地万方科技有限公司",
+            "reportYear": "2016",
+            "creditCode": "9111010874753190XJ",
+            "regNum": "",
+            "clickId": "26080527",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京百付宝科技有限公司",
+            "reportYear": "2016",
+            "creditCode": "91110108672354426W",
+            "regNum": "",
+            "clickId": "26031220",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "华扬联众数字技术股份有限公司",
+            "reportYear": "2016",
+            "creditCode": "91110101101343096U",
+            "regNum": "",
+            "clickId": "3174100",
+            "type": "2"
+          }
+        ],
+        "releaseTime": "2017-05-27",
+        "shareholderList": [
+          {
+            "subscribeAmount": "70.0万元",
+            "subscribeTime": "2016-03-29",
+            "clickId": "2074091018",
+            "investorName": "王湛",
+            "paidTime": "2016-03-29",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2016",
+            "toco": "47",
+            "alias": "王",
+            "logo": "https://imgh.tianyancha.com/logo/human/02bb9119af3a1bafd93ace0f8238af82_d200x200.png",
+            "paidAmount": "70.0万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "325.0万元",
+            "subscribeTime": "2015-12-22",
+            "clickId": "2074091018",
+            "investorName": "王湛",
+            "paidTime": "2015-12-22",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2016",
+            "toco": "47",
+            "alias": "王",
+            "logo": "https://imgh.tianyancha.com/logo/human/02bb9119af3a1bafd93ace0f8238af82_d200x200.png",
+            "paidAmount": "325.0万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "13930.0万元",
+            "subscribeTime": "2016-03-29",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2016-03-29",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2016",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "13930.0万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "50.0万元",
+            "subscribeTime": "2008-04-28",
+            "clickId": "2074091018",
+            "investorName": "王湛",
+            "paidTime": "2008-04-28",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2016",
+            "toco": "47",
+            "alias": "王",
+            "logo": "https://imgh.tianyancha.com/logo/human/02bb9119af3a1bafd93ace0f8238af82_d200x200.png",
+            "paidAmount": "50.0万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "64675.0万元",
+            "subscribeTime": "2015-12-22",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2015-12-22",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2016",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "64675.0万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "9950.0万元",
+            "subscribeTime": "2008-04-28",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2008-04-28",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2016",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "9950.0万元",
+            "cid": 22822
+          }
+        ],
+        "reportSocialSecurityInfo": {
+          "medicalInsurancePayAmount": "企业选择不公示",
+          "medicalInsuranceOweAmount": "企业选择不公示",
+          "unemploymentInsuranceBase": "企业选择不公示",
+          "unemploymentInsuranceOweAmount": "企业选择不公示",
+          "unemploymentInsurancePayAmount": "企业选择不公示",
+          "endowmentInsurance": "1904人",
+          "maternityInsurancePayAmount": "企业选择不公示",
+          "employmentInjuryInsurancePayAmount": "企业选择不公示",
+          "medicalInsurance": "1904人",
+          "medicalInsuranceBase": "企业选择不公示",
+          "unemploymentInsurance": "1904人",
+          "annaulreportId": 2913344962,
+          "endowmentInsuranceBase": "企业选择不公示",
+          "maternityInsuranceBase": "企业选择不公示",
+          "createTime": 1552033226000,
+          "endowmentInsurancePayAmount": "企业选择不公示",
+          "employmentInjuryInsurance": "1904人",
+          "endowmentInsuranceOweAmount": "企业选择不公示",
+          "maternityInsurance": "1904人",
+          "maternityInsuranceOweAmount": "企业选择不公示",
+          "employmentInjuryInsuranceOweAmount": "企业选择不公示",
+          "id": 433275838
+        },
+        "govReport": null,
+        "equityChangeInfoList": [],
+        "type": 2,
+        "changeRecordList": [],
+        "webInfoList": [
+          {
+            "reportYear": "2016",
+            "webType": "网页",
+            "website": "www.baidu.com",
+            "name": "百度"
+          }
+        ],
+        "outGuaranteeInfoList": []
+      },
+      {
+        "baseInfo": {
+          "employeeNum": "企业选择不公示",
+          "totalAssets": "企业选择不公示",
+          "totalProfit": "企业选择不公示",
+          "totalLiability": "企业选择不公示",
+          "companyName": "北京百度网讯科技有限公司",
+          "postcode": "100085",
+          "totalSales": "企业选择不公示",
+          "operatorName": "",
+          "retainedProfit": "企业选择不公示",
+          "totalTax": "企业选择不公示",
+          "reportYear": "2015",
+          "regNumber": "110108002734659",
+          "totalEquity": "企业选择不公示",
+          "creditCode": "91110000802100433B",
+          "phoneNumber": "010-59928888",
+          "postalAddress": "北京市海淀区上地十街百度大厦",
+          "primeBusProfit": "企业选择不公示",
+          "id": 2913344960,
+          "manageState": "开业",
+          "email": "无"
+        },
+        "companyId": "22822",
+        "outboundInvestmentList": [
+          {
+            "outcompanyName": "客如云科技（北京）股份有限公司",
+            "reportYear": "2015",
+            "creditCode": "9111010105137837XC",
+            "regNum": "",
+            "clickId": "968162943",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京鼎新天下科技有限公司",
+            "reportYear": "2015",
+            "creditCode": "9111010869495430XC",
+            "regNum": "",
+            "clickId": "2262980",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "星云融创（北京）科技有限公司",
+            "reportYear": "2015",
+            "creditCode": "",
+            "regNum": "110108013949273",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海叶萌广告传媒有限公司",
+            "reportYear": "2015",
+            "creditCode": "",
+            "regNum": "310113001004153",
+            "clickId": "522030252",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "沪江教育科技（上海）股份有限公司",
+            "reportYear": "2015",
+            "creditCode": "91310000685518944H",
+            "regNum": "",
+            "clickId": "2349015448",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京幻想纵横网络技术有限公司",
+            "reportYear": "2015",
+            "creditCode": "91110105678221683F",
+            "regNum": "",
+            "clickId": "24489290",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "广东瑞图万方科技股份有限公司",
+            "reportYear": "2015",
+            "creditCode": "914406067417265703",
+            "regNum": "",
+            "clickId": "18139981",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "沈阳分分钟企业管理有限公司",
+            "reportYear": "2015",
+            "creditCode": "9121011256466462XD",
+            "regNum": "",
+            "clickId": "2332608915",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海普景信息科技有限公司",
+            "reportYear": "2015",
+            "creditCode": "91310000062502540G",
+            "regNum": "",
+            "clickId": "498896652",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海优扬新媒信息技术有限公司",
+            "reportYear": "2015",
+            "creditCode": "",
+            "regNum": "310115001892641",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京北冥鱼信息技术有限公司",
+            "reportYear": "2015",
+            "creditCode": "91110107596022365X",
+            "regNum": "",
+            "clickId": "41457332",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "河南沸点网络科技有限公司",
+            "reportYear": "2015",
+            "creditCode": "9141010056103928XQ",
+            "regNum": "",
+            "clickId": "888343156",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "南京信风网络科技有限公司 ",
+            "reportYear": "2015",
+            "creditCode": "91320104756879916G",
+            "regNum": "",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "百度鹏寰资产管理（北京）有限公司",
+            "reportYear": "2015",
+            "creditCode": "91110108769934777T",
+            "regNum": "",
+            "clickId": "2310470083",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海齐家网信息科技股份有限公司",
+            "reportYear": "2015",
+            "creditCode": "",
+            "regNum": "310114001825071",
+            "clickId": "174626493",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京乐和彩科技有限公司",
+            "reportYear": "2015",
+            "creditCode": "91110108551407704H",
+            "regNum": "",
+            "clickId": "25104813",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "华扬联众数字技术股份有限公司",
+            "reportYear": "2015",
+            "creditCode": "91110101101343096U",
+            "regNum": "",
+            "clickId": "3174100",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京长地万方科技有限公司",
+            "reportYear": "2015",
+            "creditCode": "",
+            "regNum": "110000005463716",
+            "clickId": "26080527",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "深圳前海华视移动互联有限公司 ",
+            "reportYear": "2015",
+            "creditCode": "",
+            "regNum": "440301107438187",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京百付宝科技有限公司",
+            "reportYear": "2015",
+            "creditCode": "91110108672354426W",
+            "regNum": "",
+            "clickId": "26031220",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京趣活科技有限公司",
+            "reportYear": "2015",
+            "creditCode": "911101085923799229",
+            "regNum": "",
+            "clickId": "33015172",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "诺克萨斯（北京）科技有限公司",
+            "reportYear": "2015",
+            "creditCode": "91110106059289814B",
+            "regNum": "",
+            "clickId": "24644208",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京捷通华声科技股份有限公司",
+            "reportYear": "2015",
+            "creditCode": "91110108723968939Y",
+            "regNum": "",
+            "clickId": "2345039913",
+            "type": "2"
+          }
+        ],
+        "releaseTime": "2016-06-28",
+        "shareholderList": [
+          {
+            "subscribeAmount": "64675.0万元",
+            "subscribeTime": "2015-12-22",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2015-12-22",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2015",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "64675.0万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "9950.0万元",
+            "subscribeTime": "2008-04-28",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2008-04-28",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2015",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "9950.0万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "325.0万元",
+            "subscribeTime": "2015-12-22",
+            "clickId": "2074091018",
+            "investorName": "王湛",
+            "paidTime": "2015-12-22",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2015",
+            "toco": "47",
+            "alias": "王",
+            "logo": "https://imgh.tianyancha.com/logo/human/02bb9119af3a1bafd93ace0f8238af82_d200x200.png",
+            "paidAmount": "325.0万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "50.0万元",
+            "subscribeTime": "2008-04-28",
+            "clickId": "2074091018",
+            "investorName": "王湛",
+            "paidTime": "2008-04-28",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2015",
+            "toco": "47",
+            "alias": "王",
+            "logo": "https://imgh.tianyancha.com/logo/human/02bb9119af3a1bafd93ace0f8238af82_d200x200.png",
+            "paidAmount": "50.0万元",
+            "cid": 22822
+          }
+        ],
+        "reportSocialSecurityInfo": null,
+        "govReport": null,
+        "equityChangeInfoList": [],
+        "type": 2,
+        "changeRecordList": [
+          {
+            "changeTime": "2016-06-28",
+            "reportYear": "2015",
+            "contentAfter": "50",
+            "contentBefore": "375",
+            "changeItem": "3"
+          },
+          {
+            "changeTime": "2016-06-28",
+            "reportYear": "2015",
+            "contentAfter": "",
+            "contentBefore": "",
+            "changeItem": "3"
+          },
+          {
+            "changeTime": "2016-06-28",
+            "reportYear": "2015",
+            "contentAfter": "50",
+            "contentBefore": "375",
+            "changeItem": "3"
+          },
+          {
+            "changeTime": "2016-06-28",
+            "reportYear": "2015",
+            "contentAfter": "2008-04-28",
+            "contentBefore": "2015-12-22",
+            "changeItem": "3"
+          },
+          {
+            "changeTime": "2016-06-28",
+            "reportYear": "2015",
+            "contentAfter": "",
+            "contentBefore": "",
+            "changeItem": "3"
+          },
+          {
+            "changeTime": "2016-06-28",
+            "reportYear": "2015",
+            "contentAfter": "2008-04-28",
+            "contentBefore": "2015-12-22",
+            "changeItem": "3"
+          }
+        ],
+        "webInfoList": [
+          {
+            "reportYear": "2015",
+            "webType": "网页",
+            "website": "www.baidu.com",
+            "name": "百度"
+          }
+        ],
+        "outGuaranteeInfoList": []
+      },
+      {
+        "baseInfo": {
+          "employeeNum": "企业选择不公示",
+          "totalAssets": "企业选择不公示",
+          "totalProfit": "企业选择不公示",
+          "totalLiability": "企业选择不公示",
+          "companyName": "北京百度网讯科技有限公司",
+          "postcode": "100085",
+          "totalSales": "企业选择不公示",
+          "operatorName": "",
+          "retainedProfit": "企业选择不公示",
+          "totalTax": "企业选择不公示",
+          "reportYear": "2014",
+          "regNumber": "110108002734659",
+          "totalEquity": "企业选择不公示",
+          "creditCode": "91110000802100433B",
+          "phoneNumber": "56798989",
+          "postalAddress": "北京市海淀区上地十街百度大厦",
+          "primeBusProfit": "企业选择不公示",
+          "id": 2912829652,
+          "manageState": "开业",
+          "email": "无"
+        },
+        "companyId": "22822",
+        "outboundInvestmentList": [
+          {
+            "outcompanyName": "北京乐和彩科技有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "110108012645996",
+            "clickId": "25104813",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "重庆融度科技有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "500103000096755",
+            "clickId": "275778835",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海百度人才咨询有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "310114002218153",
+            "clickId": "107706459",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "鹏寰资产管理（北京）有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "110108007831519",
+            "clickId": "2358488052",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "南京信风网络科技有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "320102000052417",
+            "clickId": "2332608916",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京捷通华声语音技术有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "110108001716760",
+            "clickId": "21473239",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "广东瑞图万方科技股份有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "440681000097039",
+            "clickId": "18139981",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海齐家网信息科技股份有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "310114001825071",
+            "clickId": "174626493",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京莱富特佰网络科技股份有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "110108010467720",
+            "clickId": "24802584",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "河南沸点网络科技有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "410198000013965",
+            "clickId": "888343156",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京知道创宇信息技术有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "110108010419556",
+            "clickId": "22468",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京北冥鱼信息技术有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "110107014932867",
+            "clickId": "41457332",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "深圳市百分之百数码科技有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "440301102897184",
+            "clickId": "1137573838",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海优扬新媒信息技术有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "310115001892641",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海叶萌广告传媒有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "310113001004153",
+            "clickId": "522030252",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "华扬联众数字技术股份有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "110108000676672",
+            "clickId": "3174100",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京鼎新天下科技有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "110108012602314",
+            "clickId": "2262980",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "沈阳分分钟科技有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "210132000050933",
+            "clickId": "367313515",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "诺克萨斯（北京）科技有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "110105015433076",
+            "clickId": "24644208",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京亦水方舟科技有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "110101014299674",
+            "clickId": "33978180",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京长地万方科技有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "110000005463716",
+            "clickId": "26080527",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "合肥优点信息技术有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "340191000002568",
+            "clickId": "554335681",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海互加文化传播有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "310115001115390",
+            "clickId": "779103867",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京趣活科技有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "110108014696148",
+            "clickId": "33015172",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京时时客科技有限责任公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "110105015163053",
+            "clickId": "25441569",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京幻想纵横网络技术有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "110108011146563",
+            "clickId": "24489290",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京百付宝科技有限公司",
+            "reportYear": "2014",
+            "creditCode": "",
+            "regNum": "110000010841624",
+            "clickId": "26031220",
+            "type": "2"
+          }
+        ],
+        "releaseTime": "2015-06-05",
+        "shareholderList": [
+          {
+            "subscribeAmount": "50.0万元",
+            "subscribeTime": "2008-04-28",
+            "clickId": "2074091018",
+            "investorName": "王湛",
+            "paidTime": "2008-04-28",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2014",
+            "toco": "47",
+            "alias": "王",
+            "logo": "https://imgh.tianyancha.com/logo/human/02bb9119af3a1bafd93ace0f8238af82_d200x200.png",
+            "paidAmount": "50.0万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "9950.0万元",
+            "subscribeTime": "2008-04-28",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2008-04-28",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2014",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "9950.0万元",
+            "cid": 22822
+          }
+        ],
+        "reportSocialSecurityInfo": null,
+        "govReport": null,
+        "equityChangeInfoList": [],
+        "type": 2,
+        "changeRecordList": [],
+        "webInfoList": [
+          {
+            "reportYear": "2014",
+            "webType": "网页",
+            "website": "www.baidu.com",
+            "name": "百度"
+          }
+        ],
+        "outGuaranteeInfoList": []
+      },
+      {
+        "baseInfo": {
+          "employeeNum": "企业选择不公示",
+          "totalAssets": "企业选择不公示",
+          "totalProfit": "企业选择不公示",
+          "totalLiability": "企业选择不公示",
+          "companyName": "北京百度网讯科技有限公司",
+          "postcode": "100085",
+          "totalSales": "企业选择不公示",
+          "operatorName": "",
+          "retainedProfit": "企业选择不公示",
+          "totalTax": "企业选择不公示",
+          "reportYear": "2013",
+          "regNumber": "110108002734659",
+          "totalEquity": "企业选择不公示",
+          "creditCode": "91110000802100433B",
+          "phoneNumber": "59928888",
+          "postalAddress": "北京市海淀区上地十街百度大厦",
+          "primeBusProfit": "企业选择不公示",
+          "id": 2912829651,
+          "manageState": "开业",
+          "email": "无"
+        },
+        "companyId": "22822",
+        "outboundInvestmentList": [
+          {
+            "outcompanyName": "北京百付宝科技有限公司 ",
+            "reportYear": "2013",
+            "creditCode": "",
+            "regNum": "110000010841624",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "华扬联众数字技术股份有限公司",
+            "reportYear": "2013",
+            "creditCode": "",
+            "regNum": "110108000676672",
+            "clickId": "3174100",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海优扬新媒信息技术有限公司",
+            "reportYear": "2013",
+            "creditCode": "",
+            "regNum": "310115001892641",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "深圳市百分之百数码科技有限公司",
+            "reportYear": "2013",
+            "creditCode": "",
+            "regNum": "440301102897184",
+            "clickId": "1137573838",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "鹏寰资产管理（北京）有限公司 ",
+            "reportYear": "2013",
+            "creditCode": "",
+            "regNum": "110108007831519",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "诺克萨斯（北京）科技有限公司 ",
+            "reportYear": "2013",
+            "creditCode": "",
+            "regNum": "110105015433076",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京莱富特佰网络科技股份有限公司 ",
+            "reportYear": "2013",
+            "creditCode": "",
+            "regNum": "110108010467720",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海齐家网信息科技股份有限公司",
+            "reportYear": "2013",
+            "creditCode": "",
+            "regNum": "310114001825071",
+            "clickId": "174626493",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "广东瑞图万方科技股份有限公司",
+            "reportYear": "2013",
+            "creditCode": "",
+            "regNum": "440681000097039",
+            "clickId": "18139981",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "沈阳分分钟科技有限公司",
+            "reportYear": "2013",
+            "creditCode": "",
+            "regNum": "210132000050933",
+            "clickId": "367313515",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京知道创宇信息技术有限公司 ",
+            "reportYear": "2013",
+            "creditCode": "",
+            "regNum": "110108010419556",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "重庆融度科技有限公司",
+            "reportYear": "2013",
+            "creditCode": "",
+            "regNum": "500103000096755",
+            "clickId": "275778835",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京长地万方科技有限公司 ",
+            "reportYear": "2013",
+            "creditCode": "",
+            "regNum": "110000005463716",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "河南沸点网络科技有限公司",
+            "reportYear": "2013",
+            "creditCode": "",
+            "regNum": "410198000013965",
+            "clickId": "888343156",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "合肥优点信息技术有限公司",
+            "reportYear": "2013",
+            "creditCode": "",
+            "regNum": "340191000002568",
+            "clickId": "554335681",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京北冥鱼信息技术有限公司 ",
+            "reportYear": "2013",
+            "creditCode": "",
+            "regNum": "110107014932867",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京亦水方舟科技有限公司 ",
+            "reportYear": "2013",
+            "creditCode": "",
+            "regNum": "110101014299674",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京捷通华声语音技术有限公司 ",
+            "reportYear": "2013",
+            "creditCode": "",
+            "regNum": "110108001716760",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京乐和彩科技有限公司",
+            "reportYear": "2013",
+            "creditCode": "",
+            "regNum": "110108012645996",
+            "clickId": "25104813",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "南京信风网络科技有限公司",
+            "reportYear": "2013",
+            "creditCode": "",
+            "regNum": "320102000052417",
+            "clickId": "2332608916",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "北京鼎新天下科技有限公司 ",
+            "reportYear": "2013",
+            "creditCode": "",
+            "regNum": "110108012602314",
+            "clickId": "",
+            "type": "2"
+          },
+          {
+            "outcompanyName": "上海百度人才咨询有限公司",
+            "reportYear": "2013",
+            "creditCode": "",
+            "regNum": "310114002218153",
+            "clickId": "107706459",
+            "type": "2"
+          }
+        ],
+        "releaseTime": "2015-01-27",
+        "shareholderList": [
+          {
+            "subscribeAmount": "50.0万元",
+            "subscribeTime": "2001-06-05",
+            "clickId": "2074091018",
+            "investorName": "王湛",
+            "paidTime": "2001-06-05",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2013",
+            "toco": "47",
+            "alias": "王",
+            "logo": "https://imgh.tianyancha.com/logo/human/02bb9119af3a1bafd93ace0f8238af82_d200x200.png",
+            "paidAmount": "50.0万元",
+            "cid": 22822
+          },
+          {
+            "subscribeAmount": "9950.0万元",
+            "subscribeTime": "2001-06-05",
+            "clickId": "1984012283",
+            "investorName": "李彦宏",
+            "paidTime": "2001-06-05",
+            "type": "1",
+            "paidType": "货币",
+            "subscribeType": "货币",
+            "reportYear": "2013",
+            "toco": "16",
+            "alias": "李",
+            "logo": "https://imgh.tianyancha.com/logo/human/2c89a37665fe7374a23694bad46330ba_d200x200.png",
+            "paidAmount": "9950.0万元",
+            "cid": 22822
+          }
+        ],
+        "reportSocialSecurityInfo": null,
+        "govReport": null,
+        "equityChangeInfoList": [],
+        "type": 2,
+        "changeRecordList": [],
+        "webInfoList": [
+          {
+            "reportYear": "2013",
+            "webType": "网页",
+            "website": "www.baidu.com",
+            "name": "百度"
+          }
+        ],
+        "outGuaranteeInfoList": []
+      }
+    ]
+  },
+  "reason": "ok",
+  "error_code": 0,
+  "debugInfo": {
+    "traceId": "473345ec439c435bac950a5becb5fa4e.26060.16278116120431755"
+  }
+}

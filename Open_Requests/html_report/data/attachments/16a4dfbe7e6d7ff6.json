@@ -1,0 +1,96 @@
+{
+  "result": {
+    "total": 4,
+    "items": [
+      {
+        "capital": [
+          {
+            "amomon": "0.6772",
+            "paymet": "货币",
+            "time": "2034-10-16",
+            "percent": ""
+          }
+        ],
+        "name": "孙敬伟",
+        "capitalActl": [
+          {
+            "amomon": "0.6772",
+            "paymet": "货币",
+            "time": "2015-12-08"
+          }
+        ],
+        "logo": "https://imgh.tianyancha.com/logo/human/3732f9fc57883d157e29bacdd25e8c0e_d200x200.png",
+        "id": 1880221308,
+        "type": 2
+      },
+      {
+        "capital": [
+          {
+            "amomon": "30",
+            "paymet": "货币",
+            "time": "2034-10-16",
+            "percent": ""
+          }
+        ],
+        "name": "樊亚静",
+        "capitalActl": [
+          {
+            "amomon": "30",
+            "paymet": "货币",
+            "time": "2015-06-30"
+          }
+        ],
+        "logo": "",
+        "id": 2024226624,
+        "type": 2
+      },
+      {
+        "capital": [
+          {
+            "amomon": "18.3704",
+            "paymet": "货币",
+            "time": "2034-10-16",
+            "percent": ""
+          }
+        ],
+        "name": "北京腾业创新投资管理中心（有限合伙）",
+        "capitalActl": [
+          {
+            "amomon": "18.3704",
+            "paymet": "货币",
+            "time": "2015-12-08"
+          }
+        ],
+        "logo": "https://img5.tianyancha.com/logo/lll/88f6bcc9e6e12a6e2a8262238d77ca9d.png@!f_200x200",
+        "id": 2327089,
+        "type": 1
+      },
+      {
+        "capital": [
+          {
+            "amomon": "70",
+            "paymet": "货币",
+            "time": "2034-10-16",
+            "percent": ""
+          }
+        ],
+        "name": "柳超",
+        "capitalActl": [
+          {
+            "amomon": "70",
+            "paymet": "货币",
+            "time": "2015-06-30"
+          }
+        ],
+        "logo": "https://imgh.tianyancha.com/logo/human/cd0c7904643e9d2c1c0b91ecb2d8634d_d200x200.png",
+        "id": 2015682356,
+        "type": 2
+      }
+    ]
+  },
+  "reason": "ok",
+  "error_code": 0,
+  "debugInfo": {
+    "traceId": "71ab56c0f6674ef99e646adf957433cd.28121.16278116108312543"
+  }
+}

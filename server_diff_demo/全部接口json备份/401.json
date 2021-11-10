@@ -1,0 +1,19 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "areaName": "海淀区",
+        "punishmentName": "发票违法-丢失发票",
+        "url": "https://img5.tianyancha.com/companyPunishmentCreditChinaN/8b6f879c8aa40aed56aac6a01ee339fd/eyxmdmR9SzZx.JPEG@!watermark01"
+      },
+      {
+        "areaName": "北京市",
+        "punishmentName": "北京百度网讯科技有限公司",
+        "url": "https://img5.tianyancha.com/companyPunishmentCreditChinaN/8b6f879c8aa40aed56aac6a01ee339fd/cGxiO0FsZHs2.JPEG@!watermark01"
+      }
+    ],
+    "total": 2
+  }
+}

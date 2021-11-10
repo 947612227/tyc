@@ -1,0 +1,28 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "address": "广西南宁市银沙大道11号新加坡城1号楼2单元5层504号",
+    "case_info": "经广西壮族自治区南宁市国家税务局第三稽查局检查，发现其在2016年01月01日至2016年11月30日期间，主要存在以下问题：对外虚开增值税销项发票50份，金额499.57万元，税额84.93万元。 依照《中华人民共和国税收征收管理法》等相关法律法规的有关规定，对该单位行为定性为虚开增值税专用发票，因该案已移送公安机关立案侦查，对该单位虚开增值税专用发票的行为暂不予以行政处罚。",
+    "case_type": "虚开增值税专用发票或者虚开用于骗取出口退税、抵扣税款的其他发票",
+    "companyGraphId": 2962802291,
+    "department": "",
+    "legal_person_id_number": "532529********3310",
+    "legal_person_id_type": "身份证",
+    "legal_person_name": "陈啊生",
+    "legal_person_sex": "男",
+    "publish_time": "2018-01-01",
+    "res_department_id_number": "",
+    "res_department_id_type": "",
+    "res_department_name": "",
+    "res_department_sex": "",
+    "res_person_id_number": "",
+    "res_person_id_type": "",
+    "res_person_name": "",
+    "res_person_sex": "",
+    "responsible_department": "",
+    "taxpayer_code": "MA5KCLY11",
+    "taxpayer_name": "广西书之投资有限公司",
+    "taxpayer_number": "91450108MA5KCLY11T"
+  }
+}

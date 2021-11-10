@@ -1,0 +1,97 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "caseCode": "(2021)京03执恢266号",
+        "caseCreateTime": 1626796800000,
+        "execCourtName": "北京市第三中级人民法院",
+        "execMoney": "479191488.0",
+        "partyCardNum": "14262319731****081X",
+        "pname": "贾跃亭"
+      },
+      {
+        "caseCode": "(2021)京03执恢264号",
+        "caseCreateTime": 1626796800000,
+        "execCourtName": "北京市第三中级人民法院",
+        "execMoney": "458425888.0",
+        "partyCardNum": "14262319731****081X",
+        "pname": "贾跃亭"
+      },
+      {
+        "caseCode": "(2021)京03执恢268号",
+        "caseCreateTime": 1626796800000,
+        "execCourtName": "北京市第三中级人民法院",
+        "execMoney": "1514957570.0",
+        "partyCardNum": "14262319731****081X",
+        "pname": "贾跃亭"
+      },
+      {
+        "caseCode": "(2021)京03执恢269号",
+        "caseCreateTime": 1626796800000,
+        "execCourtName": "北京市第三中级人民法院",
+        "execMoney": "1384585980.0",
+        "partyCardNum": "14262319731****081X",
+        "pname": "贾跃亭"
+      },
+      {
+        "caseCode": "(2021)京03执恢265号",
+        "caseCreateTime": 1626796800000,
+        "execCourtName": "北京市第三中级人民法院",
+        "execMoney": "501992704.0",
+        "partyCardNum": "14262319731****081X",
+        "pname": "贾跃亭"
+      },
+      {
+        "caseCode": "(2021)京03执恢267号",
+        "caseCreateTime": 1626796800000,
+        "execCourtName": "北京市第三中级人民法院",
+        "execMoney": "531811200.0",
+        "partyCardNum": "14262319731****081X",
+        "pname": "贾跃亭"
+      },
+      {
+        "caseCode": "(2021)京03执恢246号",
+        "caseCreateTime": 1626105600000,
+        "execCourtName": "北京市第三中级人民法院",
+        "execMoney": "1413517950.0",
+        "partyCardNum": "14262319731****081X",
+        "pname": "贾跃亭"
+      },
+      {
+        "caseCode": "(2021)京03执1163号",
+        "caseCreateTime": 1623772800000,
+        "execCourtName": "北京市第三中级人民法院",
+        "execMoney": "159333088.0",
+        "partyCardNum": "14262319731****081X",
+        "pname": "贾跃亭"
+      },
+      {
+        "caseCode": "(2021)京03执恢34号",
+        "caseCreateTime": 1612195200000,
+        "execCourtName": "北京市第三中级人民法院",
+        "execMoney": "287514240.0",
+        "partyCardNum": "14262319731****081X",
+        "pname": "贾跃亭"
+      },
+      {
+        "caseCode": "(2020)京03执934号",
+        "caseCreateTime": 1591632000000,
+        "execCourtName": "北京市第三中级人民法院",
+        "execMoney": "2125516800.0",
+        "partyCardNum": "14262319731****081X",
+        "pname": "贾跃亭"
+      },
+      {
+        "caseCode": "(2019)京03执恢184号",
+        "caseCreateTime": 1572364800000,
+        "execCourtName": "北京市第三中级人民法院",
+        "execMoney": "169016800.0",
+        "partyCardNum": "14262319731****081X",
+        "pname": "贾跃亭"
+      }
+    ],
+    "total": 11
+  }
+}

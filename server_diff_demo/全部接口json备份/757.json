@@ -1,0 +1,43 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "assDetail": {
+      "equityAmount": "83万人民币",
+      "executeNoticeNum": "（2016）沪法执0115民初字第73189号",
+      "executedPerson": "上海东上海国际文化影视（集团）有限公司",
+      "executedPersonCid": 13941120,
+      "executedPersonHid": "",
+      "executedPersonType": "1",
+      "executiveCourt": "上海市浦东新区人民法院",
+      "id": 14985578,
+      "stockExecutedCid": 522345923,
+      "stockExecutedCompany": "上海东上海文化传播有限公司",
+      "typeState": "股权冻结|失效"
+    },
+    "frozen": {
+      "equityAmountOther": "83.0万人民币",
+      "executeNoticeNum": "（2016）沪法执0115民初字第73189号",
+      "executeOrderNum": "（2016）沪法执0115民初字第73189号",
+      "executedPerson": "上海东上海国际文化影视（集团）有限公司",
+      "executedPersonCid": 13941120,
+      "executedPersonHid": null,
+      "executedPersonType": "1",
+      "executiveCourt": "上海市浦东新区人民法院",
+      "fromDate": 1478016000000,
+      "implementationMatters": "公示冻结股权、其他投资权益",
+      "licenseNum": "非公示项",
+      "licenseType": "",
+      "period": "2年",
+      "publicityAate": 1478016000000,
+      "toDate": 1541001600000
+    },
+    "invalidationFrozen": {
+      "invalidationDate": 1541001600000,
+      "invalidationReason": "冻结期满且未续行冻结，自动失效"
+    },
+    "keepFrozen": {},
+    "removeFrozen": {},
+    "shareholderChange": {}
+  }
+}

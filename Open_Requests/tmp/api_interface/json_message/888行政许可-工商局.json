@@ -1,0 +1,169 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "department": "省商务厅",
+        "fromdate": "2017-11-07",
+        "licencename": "货物出口许可",
+        "licencenumber": "HN220171107002359",
+        "scope": "承诺审批制;",
+        "todate": ""
+      },
+      {
+        "department": "省商务厅",
+        "fromdate": "2017-10-30",
+        "licencename": "货物出口许可",
+        "licencenumber": "HN220171027035294",
+        "scope": "承诺审批制;",
+        "todate": ""
+      },
+      {
+        "department": "省商务厅",
+        "fromdate": "2017-10-23",
+        "licencename": "货物出口许可",
+        "licencenumber": "HN220171023085112",
+        "scope": "承诺审批制;",
+        "todate": ""
+      },
+      {
+        "department": "省商务厅",
+        "fromdate": "2017-10-12",
+        "licencename": "货物出口许可",
+        "licencenumber": "HN220171012033121",
+        "scope": "承诺审批制;",
+        "todate": ""
+      },
+      {
+        "department": "省商务厅",
+        "fromdate": "2017-10-12",
+        "licencename": "货物出口许可",
+        "licencenumber": "HN220171012033107",
+        "scope": "承诺审批制;",
+        "todate": ""
+      },
+      {
+        "department": "省商务厅",
+        "fromdate": "2017-09-21",
+        "licencename": "货物出口许可",
+        "licencenumber": "HN220170921000385",
+        "scope": "承诺审批制;",
+        "todate": ""
+      },
+      {
+        "department": "海口海关",
+        "fromdate": "2017-09-15",
+        "licencename": "进出口货物收发货人注册登记（含变更）",
+        "licencenumber": "HN120170915020963",
+        "scope": "变更;",
+        "todate": ""
+      },
+      {
+        "department": "省商务厅",
+        "fromdate": "2017-09-07",
+        "licencename": "货物出口许可",
+        "licencenumber": "HN220170907097453",
+        "scope": "承诺审批制;",
+        "todate": ""
+      },
+      {
+        "department": "省商务厅",
+        "fromdate": "2017-09-05",
+        "licencename": "技术进出口合同登记",
+        "licencenumber": "HN220170905061461",
+        "scope": "",
+        "todate": ""
+      },
+      {
+        "department": "省商务厅",
+        "fromdate": "2017-08-24",
+        "licencename": "货物出口许可",
+        "licencenumber": "HN220170824060759",
+        "scope": "承诺审批制;",
+        "todate": ""
+      },
+      {
+        "department": "省商务厅",
+        "fromdate": "2017-08-21",
+        "licencename": "货物出口许可",
+        "licencenumber": "HN220170821016436",
+        "scope": "承诺审批制;",
+        "todate": ""
+      },
+      {
+        "department": "省商务厅",
+        "fromdate": "2017-08-21",
+        "licencename": "货物出口许可",
+        "licencenumber": "HN220170821019456",
+        "scope": "承诺审批制;",
+        "todate": ""
+      },
+      {
+        "department": "省商务厅",
+        "fromdate": "2017-08-10",
+        "licencename": "货物出口许可",
+        "licencenumber": "HN220170810030312",
+        "scope": "承诺审批制;",
+        "todate": ""
+      },
+      {
+        "department": "省商务厅",
+        "fromdate": "2017-08-09",
+        "licencename": "货物出口许可",
+        "licencenumber": "HN220170809088466",
+        "scope": "承诺审批制;",
+        "todate": ""
+      },
+      {
+        "department": "省商务厅",
+        "fromdate": "2017-08-09",
+        "licencename": "货物出口许可",
+        "licencenumber": "HN220170809088420",
+        "scope": "承诺审批制;",
+        "todate": ""
+      },
+      {
+        "department": "省商务厅",
+        "fromdate": "2017-08-09",
+        "licencename": "货物出口许可",
+        "licencenumber": "HN220170809088508",
+        "scope": "承诺审批制;",
+        "todate": ""
+      },
+      {
+        "department": "省生态环境保护厅",
+        "fromdate": "2017-07-25",
+        "licencename": "建设项目竣工环境保护验收许可",
+        "licencenumber": "HN220170628006465",
+        "scope": "",
+        "todate": ""
+      },
+      {
+        "department": "省商务厅",
+        "fromdate": "2017-07-18",
+        "licencename": "货物出口许可",
+        "licencenumber": "HN220170718048257",
+        "scope": "承诺审批制;",
+        "todate": ""
+      },
+      {
+        "department": "省商务厅",
+        "fromdate": "2017-07-12",
+        "licencename": "货物出口许可",
+        "licencenumber": "HN220170712034862",
+        "scope": "承诺审批制;",
+        "todate": ""
+      },
+      {
+        "department": "省商务厅",
+        "fromdate": "2017-06-28",
+        "licencename": "货物出口许可",
+        "licencenumber": "HN120170628006164",
+        "scope": "承诺审批制;",
+        "todate": ""
+      }
+    ],
+    "total": 149
+  }
+}

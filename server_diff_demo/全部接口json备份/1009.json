@@ -1,0 +1,149 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "businessId": "5d4bc3c6888a5db351bc9d44",
+        "humanName": "杜丹",
+        "practiceSealNo": "4100251-CN010",
+        "registerProfession": "",
+        "registerType": "注册公用设备工程师（暖通空调）"
+      },
+      {
+        "businessId": "5d4bb570888a5db351bc0122",
+        "humanName": "车健",
+        "practiceSealNo": "4100251-CS016",
+        "registerProfession": "",
+        "registerType": "注册公用设备工程师（给水排水）"
+      },
+      {
+        "businessId": "5d49c3ccc02a0fa2ff18915f",
+        "humanName": "张玉民",
+        "practiceSealNo": "41002859、豫141060801721、A01410000796",
+        "registerProfession": "房屋建筑工程、土建、市政公用工程、建筑工程",
+        "registerType": "注册监理工程师、注册造价工程师、一级注册建造师"
+      },
+      {
+        "businessId": "5d483c8fc02a0fa2ff1660e0",
+        "humanName": "龙斌",
+        "practiceSealNo": "41003653",
+        "registerProfession": "房屋建筑工程",
+        "registerType": "注册监理工程师"
+      },
+      {
+        "businessId": "5d49c3e7c02a0fa2ff18918e",
+        "humanName": "董学军",
+        "practiceSealNo": "41001884、4100251-CN002",
+        "registerProfession": "房屋建筑工程、市政公用工程",
+        "registerType": "注册监理工程师、注册公用设备工程师（暖通空调）"
+      },
+      {
+        "businessId": "5d49c3ccc02a0fa2ff189160",
+        "humanName": "张全栋",
+        "practiceSealNo": "41002688、A01410000792",
+        "registerProfession": "房屋建筑工程、土建、市政公用工程",
+        "registerType": "注册监理工程师、注册造价工程师"
+      },
+      {
+        "businessId": "5d48344bc02a0fa2ff165836",
+        "humanName": "冯秋保",
+        "practiceSealNo": "41004868、豫141070800398、4100251-S011",
+        "registerProfession": "房屋建筑工程、市政公用工程、建筑工程",
+        "registerType": "注册监理工程师、一级注册结构工程师、一级注册建造师"
+      },
+      {
+        "businessId": "5d48341fc02a0fa2ff1657eb",
+        "humanName": "陈鹏",
+        "practiceSealNo": "豫141091007818、41006234",
+        "registerProfession": "房屋建筑工程、市政公用工程、建筑工程",
+        "registerType": "注册监理工程师、一级注册建造师"
+      },
+      {
+        "businessId": "5d4832c1c02a0fa2ff1654e6",
+        "humanName": "姬跃国",
+        "practiceSealNo": "A06410003374、4100251-CS011、41002353",
+        "registerProfession": "房屋建筑工程、土建、市政公用工程",
+        "registerType": "注册监理工程师、注册造价工程师、注册公用设备工程师（给水排水）"
+      },
+      {
+        "businessId": "5d4830d9c02a0fa2ff16510e",
+        "humanName": "余永奇",
+        "practiceSealNo": "4100251-CS003、41006235",
+        "registerProfession": "房屋建筑工程、市政公用工程",
+        "registerType": "注册监理工程师、注册公用设备工程师（给水排水）"
+      },
+      {
+        "businessId": "5d482fe8c02a0fa2ff164f94",
+        "humanName": "刘胜",
+        "practiceSealNo": "41005084、A01410000165",
+        "registerProfession": "房屋建筑工程、土建",
+        "registerType": "注册监理工程师、注册造价工程师"
+      },
+      {
+        "businessId": "5d482fdcc02a0fa2ff164f82",
+        "humanName": "胡殿彦",
+        "practiceSealNo": "41004869、豫141091007819",
+        "registerProfession": "房屋建筑工程、市政公用工程、建筑工程",
+        "registerType": "注册监理工程师、一级注册建造师"
+      },
+      {
+        "businessId": "5d482d43c02a0fa2ff164aca",
+        "humanName": "王庆华",
+        "practiceSealNo": "豫141060800402、41008702",
+        "registerProfession": "房屋建筑工程、市政公用工程、建筑工程",
+        "registerType": "注册监理工程师、一级注册建造师"
+      },
+      {
+        "businessId": "5d4828d2c02a0fa2ff164215",
+        "humanName": "王小倩",
+        "practiceSealNo": "41007474、豫141060801720、A03410001974",
+        "registerProfession": "房屋建筑工程、土建、建筑工程",
+        "registerType": "注册监理工程师、注册造价工程师、一级注册建造师"
+      },
+      {
+        "businessId": "5d48285fc02a0fa2ff16410f",
+        "humanName": "张红亮",
+        "practiceSealNo": "41009650、豫141181902793",
+        "registerProfession": "房屋建筑工程、市政公用工程、建筑工程",
+        "registerType": "注册监理工程师、一级注册建造师"
+      },
+      {
+        "businessId": "5d4424b5c02a0fa2ff1231c8",
+        "humanName": "樊振东",
+        "practiceSealNo": "4100251-CS009、豫141060800397",
+        "registerProfession": "市政公用工程、建筑工程",
+        "registerType": "一级注册建造师、注册公用设备工程师（给水排水）"
+      },
+      {
+        "businessId": "5d4420a4c02a0fa2ff1226e2",
+        "humanName": "左世波",
+        "practiceSealNo": "豫141101108879、A13410005658",
+        "registerProfession": "土建、建筑工程",
+        "registerType": "注册造价工程师、一级注册建造师"
+      },
+      {
+        "businessId": "5d4420abc02a0fa2ff1226f7",
+        "humanName": "王文才",
+        "practiceSealNo": "豫141070804719",
+        "registerProfession": "机电工程",
+        "registerType": "一级注册建造师"
+      },
+      {
+        "businessId": "5d441ec8c02a0fa2ff1221e7",
+        "humanName": "邢许颍",
+        "practiceSealNo": "豫141060800404、4100251-S020",
+        "registerProfession": "建筑工程",
+        "registerType": "一级注册结构工程师、一级注册建造师"
+      },
+      {
+        "businessId": "5d43ec2fc02a0fa2ff11a4c8",
+        "humanName": "赵玉",
+        "practiceSealNo": "A02410001034",
+        "registerProfession": "土建",
+        "registerType": "注册造价工程师"
+      }
+    ],
+    "total": 103
+  }
+}

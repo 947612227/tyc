@@ -1,0 +1,54 @@
+{
+  "data": {
+    "count": 6,
+    "items": [
+      {
+        "checkDate": "2016-04-20",
+        "checkOrg": "市发展改革委",
+        "checkResult": "其他",
+        "checkType": "检查",
+        "remark": "— —"
+      },
+      {
+        "checkDate": "2016-03-18",
+        "checkOrg": "市发展改革委",
+        "checkResult": "其他",
+        "checkType": "检查",
+        "remark": "— —"
+      },
+      {
+        "checkDate": "2016-01-25",
+        "checkOrg": "市发展改革委",
+        "checkResult": "其他",
+        "checkType": "检查",
+        "remark": "— —"
+      },
+      {
+        "checkDate": "2016-01-19",
+        "checkOrg": "市发展改革委",
+        "checkResult": "其他",
+        "checkType": "检查",
+        "remark": "— —"
+      },
+      {
+        "checkDate": "2016-01-18",
+        "checkOrg": "市发展改革委",
+        "checkResult": "其他",
+        "checkType": "检查",
+        "remark": "— —"
+      },
+      {
+        "checkDate": "2015-06-11",
+        "checkOrg": "海淀分局",
+        "checkResult": "正常",
+        "checkType": "抽查",
+        "remark": "— —"
+      }
+    ]
+  },
+  "isLogin": 0,
+  "message": "",
+  "special": "",
+  "state": "ok",
+  "vipMessage": ""
+}

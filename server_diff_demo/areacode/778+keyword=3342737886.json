@@ -1,0 +1,14 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "city": "保定市",
+    "district": "安新县",
+    "graphId": 3342737886,
+    "latitude": 39.0483750629062,
+    "longitude": 116.219404773096,
+    "name": "雄县乾润建材销售有限公司",
+    "province": "河北省",
+    "regLocation": "河北省雄安新区雄县昝岗镇东河岗村2组019号"
+  }
+}

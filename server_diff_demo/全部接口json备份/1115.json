@@ -1,0 +1,689 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "caseMoney": "",
+        "caseNo": "（2016）沪73民辖终346号",
+        "casePersons": [
+          {
+            "emotion": null,
+            "gid": "22822",
+            "name": "北京百度网讯科技有限公司",
+            "result": "",
+            "role": "上诉人",
+            "type": "2"
+          }
+        ],
+        "caseReason": "侵害商标权纠纷",
+        "caseType": "管辖案件",
+        "court": "上海知识产权法院",
+        "docType": "裁定书",
+        "id": 16955929,
+        "judgeTime": "2016-07-13",
+        "lawsuitUrl": "https://www.tianyancha.com/lawsuit/0b3eec23ea53478984decbe46d6e05bf",
+        "submitTime": 1469980800000,
+        "title": "北京百度网讯科技有限公司与青岛薇薇新娘婚纱摄影有限公司、上海桔子摄影有限公司侵害商标权纠纷管辖民事裁定书",
+        "uuid": "0b3eec23ea53478984decbe46d6e05bf"
+      },
+      {
+        "caseMoney": "",
+        "caseNo": "（2016）豫0825民初1337号",
+        "casePersons": [
+          {
+            "emotion": 0,
+            "gid": "",
+            "name": "高天",
+            "result": "撤诉",
+            "role": "原告",
+            "type": ""
+          },
+          {
+            "emotion": 0,
+            "gid": "22822",
+            "name": "北京百度网讯科技有限公司",
+            "result": "原告撤诉",
+            "role": "被告",
+            "type": "2"
+          }
+        ],
+        "caseReason": "名誉权纠纷",
+        "caseType": "民事案件",
+        "court": "河南省温县人民法院",
+        "docType": "裁定书",
+        "id": 16947838,
+        "judgeTime": "2016-06-23",
+        "lawsuitUrl": "https://www.tianyancha.com/lawsuit/58fbed53d3574519a7dd69ea300a3ef1",
+        "submitTime": 1469980800000,
+        "title": "高天与北京百度网讯科技有限公司名誉权纠纷一审民事裁定书",
+        "uuid": "58fbed53d3574519a7dd69ea300a3ef1"
+      },
+      {
+        "caseMoney": "",
+        "caseNo": "（2016）京01民终3854号",
+        "casePersons": [
+          {
+            "emotion": -1,
+            "gid": "97463356",
+            "name": "北京版中版文化传媒有限公司",
+            "result": "驳回上诉",
+            "role": "上诉人",
+            "type": "2"
+          },
+          {
+            "emotion": 1,
+            "gid": "22822",
+            "name": "北京百度网讯科技有限公司",
+            "result": "驳回对方上诉",
+            "role": "被上诉人",
+            "type": "2"
+          }
+        ],
+        "caseReason": "名誉权纠纷",
+        "caseType": "民事",
+        "court": "北京市第一中级人民法院",
+        "docType": "民事判决书",
+        "id": 254525726,
+        "judgeTime": "2016-07-15",
+        "lawsuitUrl": "https://www.tianyancha.com/lawsuit/848fb268bb6a4251b3bb0da0feee2910",
+        "submitTime": 1469721600000,
+        "title": "北京版中版文化传媒有限公司与北京百度网讯科技有限公司名誉权纠纷二审民事判决书",
+        "uuid": "848fb268bb6a4251b3bb0da0feee2910"
+      },
+      {
+        "caseMoney": "50000元",
+        "caseNo": "2015年海民（知）初字第19885号",
+        "casePersons": [
+          {
+            "emotion": 0,
+            "gid": "2328367707",
+            "name": "山东鲍尔浦实业有限公司",
+            "result": "部分支持",
+            "role": "原告",
+            "type": "2"
+          },
+          {
+            "emotion": 0,
+            "gid": "22822",
+            "name": "北京百度网讯科技有限公司",
+            "result": "不承担责任",
+            "role": "被告",
+            "type": "2"
+          },
+          {
+            "emotion": 0,
+            "gid": "407585409",
+            "name": "山东迪浩耐磨管道股份有限公司",
+            "result": "部分支持",
+            "role": "被告",
+            "type": "2"
+          }
+        ],
+        "caseReason": "不正当竞争纠纷",
+        "caseType": "民事",
+        "court": "北京市海淀区人民法院",
+        "docType": "民事判决书",
+        "id": 254522474,
+        "judgeTime": "2015-12-07",
+        "lawsuitUrl": "https://www.tianyancha.com/lawsuit/e43a4924dd244c0ca1a831664d8a0390",
+        "submitTime": 1469721600000,
+        "title": "山东鲍尔浦实业有限公司与山东迪浩耐磨管道股份有限公司等不正当竞争纠纷一审民事判决书",
+        "uuid": "e43a4924dd244c0ca1a831664d8a0390"
+      },
+      {
+        "caseMoney": "",
+        "caseNo": "（2016）苏民辖终155号",
+        "casePersons": [
+          {
+            "emotion": -1,
+            "gid": "22822",
+            "name": "北京百度网讯科技有限公司",
+            "result": "驳回上诉",
+            "role": "上诉人",
+            "type": "2"
+          },
+          {
+            "emotion": 1,
+            "gid": "2352018706",
+            "name": "上海玄霆娱乐信息科技有限公司苏州分公司",
+            "result": "驳回对方上诉",
+            "role": "被上诉人",
+            "type": "2"
+          }
+        ],
+        "caseReason": "侵害作品信息网络传播权纠纷",
+        "caseType": "",
+        "court": "江苏省高级人民法院",
+        "docType": "裁定书",
+        "id": 23846965,
+        "judgeTime": "2016-07-27",
+        "lawsuitUrl": "https://www.tianyancha.com/lawsuit/002a02e273f24049b0f389dec89c231c",
+        "submitTime": 1469548800000,
+        "title": "上海玄霆娱乐信息科技有限公司苏州分公司与北京百度网讯科技有限公司管辖裁定书",
+        "uuid": "002a02e273f24049b0f389dec89c231c"
+      },
+      {
+        "caseMoney": "",
+        "caseNo": "（2016）苏民辖终153号",
+        "casePersons": [
+          {
+            "emotion": -1,
+            "gid": "22822",
+            "name": "北京百度网讯科技有限公司",
+            "result": "驳回上诉",
+            "role": "上诉人",
+            "type": "2"
+          },
+          {
+            "emotion": 1,
+            "gid": "2352018706",
+            "name": "上海玄霆娱乐信息科技有限公司苏州分公司",
+            "result": "驳回对方上诉",
+            "role": "被上诉人",
+            "type": "2"
+          }
+        ],
+        "caseReason": "侵害作品信息网络传播权纠纷",
+        "caseType": "",
+        "court": "江苏省高级人民法院",
+        "docType": "裁定书",
+        "id": 23846654,
+        "judgeTime": "2016-07-27",
+        "lawsuitUrl": "https://www.tianyancha.com/lawsuit/3ad4df774dff4fe38302cb36dc6bf311",
+        "submitTime": 1469548800000,
+        "title": "上海玄霆娱乐信息科技有限公司苏州分公司与北京百度网讯科技有限公司管辖裁定书",
+        "uuid": "3ad4df774dff4fe38302cb36dc6bf311"
+      },
+      {
+        "caseMoney": "",
+        "caseNo": "（2016）苏民辖终156号",
+        "casePersons": [
+          {
+            "emotion": -1,
+            "gid": "22822",
+            "name": "北京百度网讯科技有限公司",
+            "result": "驳回上诉",
+            "role": "上诉人",
+            "type": "2"
+          },
+          {
+            "emotion": 1,
+            "gid": "2352018706",
+            "name": "上海玄霆娱乐信息科技有限公司苏州分公司",
+            "result": "驳回对方上诉",
+            "role": "被上诉人",
+            "type": "2"
+          }
+        ],
+        "caseReason": "侵害作品信息网络传播权纠纷",
+        "caseType": "",
+        "court": "江苏省高级人民法院",
+        "docType": "裁定书",
+        "id": 23846399,
+        "judgeTime": "2016-07-27",
+        "lawsuitUrl": "https://www.tianyancha.com/lawsuit/fe261caca9a1442688a16de27effee5c",
+        "submitTime": 1469548800000,
+        "title": "上海玄霆娱乐信息科技有限公司苏州分公司与北京百度网讯科技有限公司管辖裁定书",
+        "uuid": "fe261caca9a1442688a16de27effee5c"
+      },
+      {
+        "caseMoney": "",
+        "caseNo": "（2016）苏民辖终159号",
+        "casePersons": [
+          {
+            "emotion": -1,
+            "gid": "22822",
+            "name": "北京百度网讯科技有限公司",
+            "result": "驳回上诉",
+            "role": "上诉人",
+            "type": "2"
+          },
+          {
+            "emotion": 1,
+            "gid": "2352018706",
+            "name": "上海玄霆娱乐信息科技有限公司苏州分公司",
+            "result": "驳回对方上诉",
+            "role": "被上诉人",
+            "type": "2"
+          }
+        ],
+        "caseReason": "侵害作品信息网络传播权纠纷",
+        "caseType": "民事案件",
+        "court": "江苏省高级人民法院",
+        "docType": "民事裁定书",
+        "id": 17446540,
+        "judgeTime": "2016-07-26",
+        "lawsuitUrl": "https://www.tianyancha.com/lawsuit/b3cb9fb107db4f77bfd805e61cec6410",
+        "submitTime": 1469462400000,
+        "title": "上海玄霆娱乐信息科技有限公司苏州分公司与北京百度网讯科技有限公司管辖裁定书",
+        "uuid": "b3cb9fb107db4f77bfd805e61cec6410"
+      },
+      {
+        "caseMoney": "",
+        "caseNo": "（2016）豫08民终1426号",
+        "casePersons": [
+          {
+            "emotion": null,
+            "gid": "3105819146",
+            "name": "合一信息技术（北京）有限公司",
+            "result": "",
+            "role": "上诉人",
+            "type": "2"
+          },
+          {
+            "emotion": null,
+            "gid": "",
+            "name": "张小磊",
+            "result": "",
+            "role": "上诉人",
+            "type": ""
+          },
+          {
+            "emotion": null,
+            "gid": "22822",
+            "name": "北京百度网讯科技有限公司",
+            "result": "",
+            "role": "被上诉人",
+            "type": "2"
+          },
+          {
+            "emotion": null,
+            "gid": "9519792",
+            "name": "深圳市腾讯计算机系统有限公司",
+            "result": "",
+            "role": "被上诉人",
+            "type": "2"
+          }
+        ],
+        "caseReason": "网络侵权责任纠纷",
+        "caseType": "民事案件",
+        "court": "河南省焦作市中级人民法院",
+        "docType": "民事判决书",
+        "id": 16947118,
+        "judgeTime": "2016-07-25",
+        "lawsuitUrl": "https://www.tianyancha.com/lawsuit/12211944dbec404cb856dc95a1c5ed3d",
+        "submitTime": 1469376000000,
+        "title": "张小磊与合一信息技术（北京）有限公司、北京百度网讯科技有限公司网络侵权责任纠纷二审民事判决书",
+        "uuid": "12211944dbec404cb856dc95a1c5ed3d"
+      },
+      {
+        "caseMoney": "",
+        "caseNo": "（2016）苏民辖终148号",
+        "casePersons": [
+          {
+            "emotion": -1,
+            "gid": "22822",
+            "name": "北京百度网讯科技有限公司",
+            "result": "驳回上诉",
+            "role": "上诉人",
+            "type": "2"
+          },
+          {
+            "emotion": 1,
+            "gid": "2352018706",
+            "name": "上海玄霆娱乐信息科技有限公司苏州分公司",
+            "result": "驳回对方上诉",
+            "role": "被上诉人",
+            "type": "2"
+          }
+        ],
+        "caseReason": "侵害作品信息网络传播权纠纷",
+        "caseType": "",
+        "court": "江苏省高级人民法院",
+        "docType": "裁定书",
+        "id": 23847021,
+        "judgeTime": "2016-07-22",
+        "lawsuitUrl": "https://www.tianyancha.com/lawsuit/531f5fdb6e384b0e83c482bf5aec7ddc",
+        "submitTime": 1469116800000,
+        "title": "上海玄霆娱乐信息科技有限公司苏州分公司与北京百度网讯科技有限公司管辖裁定书",
+        "uuid": "531f5fdb6e384b0e83c482bf5aec7ddc"
+      },
+      {
+        "caseMoney": "",
+        "caseNo": "（2016）苏民辖终163号",
+        "casePersons": [
+          {
+            "emotion": -1,
+            "gid": "22822",
+            "name": "北京百度网讯科技有限公司",
+            "result": "驳回上诉",
+            "role": "上诉人",
+            "type": "2"
+          },
+          {
+            "emotion": 1,
+            "gid": "2352018706",
+            "name": "上海玄霆娱乐信息科技有限公司苏州分公司",
+            "result": "驳回对方上诉",
+            "role": "被上诉人",
+            "type": "2"
+          }
+        ],
+        "caseReason": "侵害作品信息网络传播权纠纷",
+        "caseType": "",
+        "court": "江苏省高级人民法院",
+        "docType": "裁定书",
+        "id": 23847564,
+        "judgeTime": "2016-07-22",
+        "lawsuitUrl": "https://www.tianyancha.com/lawsuit/4bb50a3470c0437684266034f8719bf1",
+        "submitTime": 1469116800000,
+        "title": "上海玄霆娱乐信息科技有限公司苏州分公司与北京百度网讯科技有限公司管辖裁定书",
+        "uuid": "4bb50a3470c0437684266034f8719bf1"
+      },
+      {
+        "caseMoney": "",
+        "caseNo": "（2016）沪民辖终57号",
+        "casePersons": [
+          {
+            "emotion": null,
+            "gid": "22822",
+            "name": "北京百度网讯科技有限公司",
+            "result": "",
+            "role": "上诉人",
+            "type": "2"
+          },
+          {
+            "emotion": null,
+            "gid": "23289175",
+            "name": "百度在线网络技术（北京）有限公司",
+            "result": "",
+            "role": "上诉人",
+            "type": "2"
+          },
+          {
+            "emotion": null,
+            "gid": "2321853237",
+            "name": "深圳市世纪光速信息技术有限公司",
+            "result": "",
+            "role": "被上诉人",
+            "type": "2"
+          }
+        ],
+        "caseReason": "侵害发明专利权纠纷",
+        "caseType": "管辖案件",
+        "court": "上海市高级人民法院",
+        "docType": "裁定书",
+        "id": 21026584,
+        "judgeTime": "2016-05-09",
+        "lawsuitUrl": "https://www.tianyancha.com/lawsuit/5ee954f8497a4964a8a29d1832a70a70",
+        "submitTime": 1469030400000,
+        "title": "百度在线网络技术(北京)有限公司、北京百度网讯科技有限公司与深圳市世纪光速信息技术有限公司等侵害发明专利权纠纷管辖民事裁定书",
+        "uuid": "5ee954f8497a4964a8a29d1832a70a70"
+      },
+      {
+        "caseMoney": "",
+        "caseNo": "（2016）沪民辖终56号",
+        "casePersons": [
+          {
+            "emotion": null,
+            "gid": "22822",
+            "name": "北京百度网讯科技有限公司",
+            "result": "",
+            "role": "上诉人",
+            "type": "2"
+          },
+          {
+            "emotion": null,
+            "gid": "23289175",
+            "name": "百度在线网络技术（北京）有限公司",
+            "result": "",
+            "role": "上诉人",
+            "type": "2"
+          },
+          {
+            "emotion": null,
+            "gid": "27035690",
+            "name": "北京搜狗科技发展有限公司",
+            "result": "",
+            "role": "被上诉人",
+            "type": "2"
+          }
+        ],
+        "caseReason": "侵害发明专利权纠纷",
+        "caseType": "管辖案件",
+        "court": "上海市高级人民法院",
+        "docType": "裁定书",
+        "id": 21026588,
+        "judgeTime": "2016-05-09",
+        "lawsuitUrl": "https://www.tianyancha.com/lawsuit/446d07e1bc29459bb3f092ac092f3353",
+        "submitTime": 1469030400000,
+        "title": "百度在线网络技术(北京)有限公司、北京百度网讯科技有限公司与北京搜狗科技发展有限公司、上海天熙贸易有限公司侵害发明专利权纠纷管辖民事裁定书",
+        "uuid": "446d07e1bc29459bb3f092ac092f3353"
+      },
+      {
+        "caseMoney": "",
+        "caseNo": "（2016）沪民辖终59号",
+        "casePersons": [
+          {
+            "emotion": null,
+            "gid": "22822",
+            "name": "北京百度网讯科技有限公司",
+            "result": "",
+            "role": "上诉人",
+            "type": "2"
+          },
+          {
+            "emotion": null,
+            "gid": "23289175",
+            "name": "百度在线网络技术（北京）有限公司",
+            "result": "",
+            "role": "上诉人",
+            "type": "2"
+          },
+          {
+            "emotion": null,
+            "gid": "27035690",
+            "name": "北京搜狗科技发展有限公司",
+            "result": "",
+            "role": "被上诉人",
+            "type": "2"
+          }
+        ],
+        "caseReason": "侵害发明专利权纠纷",
+        "caseType": "管辖案件",
+        "court": "上海市高级人民法院",
+        "docType": "裁定书",
+        "id": 21025639,
+        "judgeTime": "2016-05-09",
+        "lawsuitUrl": "https://www.tianyancha.com/lawsuit/7b30d0110f1e4edeb52909439169602d",
+        "submitTime": 1469030400000,
+        "title": "百度在线网络技术(北京)有限公司、北京百度网讯科技有限公司与北京搜狗科技发展有限公司、上海天熙贸易有限公司侵害发明专利权纠纷管辖民事裁定书",
+        "uuid": "7b30d0110f1e4edeb52909439169602d"
+      },
+      {
+        "caseMoney": "",
+        "caseNo": "（2016）苏民辖终124号",
+        "casePersons": [
+          {
+            "emotion": -1,
+            "gid": "22822",
+            "name": "北京百度网讯科技有限公司",
+            "result": "驳回上诉",
+            "role": "上诉人",
+            "type": "2"
+          },
+          {
+            "emotion": 1,
+            "gid": "2352018706",
+            "name": "上海玄霆娱乐信息科技有限公司苏州分公司",
+            "result": "驳回对方上诉",
+            "role": "被上诉人",
+            "type": "2"
+          }
+        ],
+        "caseReason": "侵害作品信息网络传播权纠纷",
+        "caseType": "",
+        "court": "江苏省高级人民法院",
+        "docType": "裁定书",
+        "id": 24002324,
+        "judgeTime": "2016-07-20",
+        "lawsuitUrl": "https://www.tianyancha.com/lawsuit/edc49e00447b46ac9674ea693f8e9e47",
+        "submitTime": 1468944000000,
+        "title": "上海玄霆娱乐信息科技有限公司苏州分公司与北京百度网讯科技有限公司管辖裁定书",
+        "uuid": "edc49e00447b46ac9674ea693f8e9e47"
+      },
+      {
+        "caseMoney": "",
+        "caseNo": "（2016）苏民辖终126号",
+        "casePersons": [
+          {
+            "emotion": null,
+            "gid": "22822",
+            "name": "北京百度网讯科技有限公司",
+            "result": "",
+            "role": "上诉人",
+            "type": "2"
+          },
+          {
+            "emotion": null,
+            "gid": "2352018706",
+            "name": "上海玄霆娱乐信息科技有限公司苏州分公司",
+            "result": "",
+            "role": "被上诉人",
+            "type": "2"
+          }
+        ],
+        "caseReason": "侵害作品信息网络传播权纠纷",
+        "caseType": "民事案件",
+        "court": "江苏省高级人民法院",
+        "docType": "管辖裁定书",
+        "id": 17446534,
+        "judgeTime": "2016-07-20",
+        "lawsuitUrl": "https://www.tianyancha.com/lawsuit/f1407e69e03a4ba29b079cbdeb74acef",
+        "submitTime": 1468944000000,
+        "title": "上海玄霆娱乐信息科技有限公司苏州分公司与北京百度网讯科技有限公司管辖裁定书",
+        "uuid": "f1407e69e03a4ba29b079cbdeb74acef"
+      },
+      {
+        "caseMoney": "5000元",
+        "caseNo": "2015年海民（知）初字第40225号",
+        "casePersons": [
+          {
+            "emotion": 0,
+            "gid": "",
+            "name": "赵小华",
+            "result": "部分支持",
+            "role": "原告",
+            "type": ""
+          },
+          {
+            "emotion": 0,
+            "gid": "22822",
+            "name": "北京百度网讯科技有限公司",
+            "result": "部分支持",
+            "role": "被告",
+            "type": "2"
+          }
+        ],
+        "caseReason": "著作权权属、侵权纠纷",
+        "caseType": "民事",
+        "court": "北京市海淀区人民法院",
+        "docType": "民事判决书",
+        "id": 256006538,
+        "judgeTime": "",
+        "lawsuitUrl": "https://www.tianyancha.com/lawsuit/78fe8a080e3948889ca50741f6b82084",
+        "submitTime": 1468857600000,
+        "title": "赵小华与北京百度网讯科技有限公司著作权权属、侵权纠纷一审民事判决书",
+        "uuid": "78fe8a080e3948889ca50741f6b82084"
+      },
+      {
+        "caseMoney": "",
+        "caseNo": "（2016）粤01民辖终576号",
+        "casePersons": [
+          {
+            "emotion": -1,
+            "gid": "22822",
+            "name": "北京百度网讯科技有限公司",
+            "result": "驳回上诉",
+            "role": "上诉人",
+            "type": "2"
+          },
+          {
+            "emotion": 1,
+            "gid": "",
+            "name": "周汉智",
+            "result": "驳回对方上诉",
+            "role": "被上诉人",
+            "type": ""
+          }
+        ],
+        "caseReason": "名誉权纠纷",
+        "caseType": "管辖案件",
+        "court": "广东省广州市中级人民法院",
+        "docType": "裁定书",
+        "id": 21037770,
+        "judgeTime": "2016-03-02",
+        "lawsuitUrl": "https://www.tianyancha.com/lawsuit/278ac5faaa9647b5bdaf5628448e21d7",
+        "submitTime": 1468857600000,
+        "title": "周汉智与北京百度网讯科技有限公司名誉权纠纷2016民辖终576二审民事裁定书",
+        "uuid": "278ac5faaa9647b5bdaf5628448e21d7"
+      },
+      {
+        "caseMoney": "",
+        "caseNo": "2015年海民初字第29321号",
+        "casePersons": [
+          {
+            "emotion": -1,
+            "gid": "7633209",
+            "name": "北京耐奥广告有限公司",
+            "result": "败诉",
+            "role": "原告",
+            "type": "2"
+          },
+          {
+            "emotion": 1,
+            "gid": "22822",
+            "name": "北京百度网讯科技有限公司",
+            "result": "胜诉",
+            "role": "被告",
+            "type": "2"
+          }
+        ],
+        "caseReason": "名誉权纠纷",
+        "caseType": "民事",
+        "court": "北京市海淀区人民法院",
+        "docType": "民事判决书",
+        "id": 255996895,
+        "judgeTime": "",
+        "lawsuitUrl": "https://www.tianyancha.com/lawsuit/99e1e7864bdf4324853c4fc9cc42dc22",
+        "submitTime": 1468857600000,
+        "title": "北京耐奥广告有限公司与北京百度网讯科技有限公司名誉权纠纷一审民事判决书",
+        "uuid": "99e1e7864bdf4324853c4fc9cc42dc22"
+      },
+      {
+        "caseMoney": "",
+        "caseNo": "（2016）京01民终3854号",
+        "casePersons": [
+          {
+            "emotion": null,
+            "gid": "97463356",
+            "name": "北京版中版文化传媒有限公司",
+            "result": "",
+            "role": "上诉人",
+            "type": "2"
+          },
+          {
+            "emotion": null,
+            "gid": "22822",
+            "name": "北京百度网讯科技有限公司",
+            "result": "",
+            "role": "被上诉人",
+            "type": "2"
+          }
+        ],
+        "caseReason": "名誉权纠纷",
+        "caseType": "民事案件",
+        "court": "北京市第一中级人民法院",
+        "docType": "权纠纷一案",
+        "id": 17157380,
+        "judgeTime": "2016-07-15",
+        "lawsuitUrl": "https://www.tianyancha.com/lawsuit/03b160145def45e2b4affff5f7efadff",
+        "submitTime": 1468512000000,
+        "title": "北京版中版文化传媒有限公司上诉北京百度网讯科技有限公司名誉权纠纷一案",
+        "uuid": "03b160145def45e2b4affff5f7efadff"
+      }
+    ],
+    "total": 676
+  }
+}

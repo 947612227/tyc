@@ -1,0 +1,119 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "execution": "",
+        "lawbreaking": "",
+        "publish_time": 1451836800000,
+        "punish_basis": "《中华人民共和国大气污染防治法》第五十六条第一款、第三款",
+        "punish_content": "责令该单位立即改正违法行为行为并处罚款贰万元整",
+        "punish_department": "东胜区环境保护局",
+        "punish_number": "东环罚发[2016]1号",
+        "punish_reason": "筒仓外堆煤未采取有效污染防治措施"
+      },
+      {
+        "execution": "",
+        "lawbreaking": "",
+        "publish_time": 1451836800000,
+        "punish_basis": "《中华人民共和国水污染防治法》第七十五条第二款",
+        "punish_content": "责令该单位立即停止中水外排行为并处罚款三万元整",
+        "punish_department": "东胜区环境保护局",
+        "punish_number": "东环罚发[2016]2号",
+        "punish_reason": "未按环评要求回用矿井水，私设暗管违规排放处理后的矿井水"
+      },
+      {
+        "execution": "",
+        "lawbreaking": "",
+        "publish_time": 1464796800000,
+        "punish_basis": "《中华人民共和国大气污染防治法》第七十二条",
+        "punish_content": "处罚款贰万元整责令你公司立即改正以上环境违法行为",
+        "punish_department": "东胜区环境保护局",
+        "punish_number": "东环罚发[2016]11号",
+        "punish_reason": "贮存煤炭未进行密闭，且未采取有效措施防治扬尘污染"
+      },
+      {
+        "execution": "",
+        "lawbreaking": "",
+        "publish_time": 1466611200000,
+        "punish_basis": "《中华人民共和国环境保护法》第五十九条",
+        "punish_content": "处罚款陆万元整责令你公司立即整改环境违法行为",
+        "punish_department": "东胜区环境保护局",
+        "punish_number": "东环罚发[2016]14号",
+        "punish_reason": "贮存煤炭未进行密封，且未采取有效措施防治扬尘污染"
+      },
+      {
+        "execution": "",
+        "lawbreaking": "",
+        "publish_time": 1473782400000,
+        "punish_basis": "《中华人民共和国大气污染防治法》第七十二条",
+        "punish_content": "处罚款贰万元整",
+        "punish_department": "东胜区环境保护局",
+        "punish_number": "东环罚[2016]23号",
+        "punish_reason": "贮存煤炭未进行密封，且未采取有效措施防治扬尘污染"
+      },
+      {
+        "execution": "",
+        "lawbreaking": "",
+        "publish_time": 1474646400000,
+        "punish_basis": "《中华人民共和国行政处罚法》第二十三条和《中华人民共和国环境保护法》第五十九条",
+        "punish_content": "处罚款壹拾万元整",
+        "punish_department": "东胜区环境保护局",
+        "punish_number": "东环连罚字[2016]1号",
+        "punish_reason": "贮存煤炭未进行密封，且未采取有效措施防治扬尘污染"
+      },
+      {
+        "execution": "",
+        "lawbreaking": "",
+        "publish_time": 1560182400000,
+        "punish_basis": "",
+        "punish_content": "",
+        "punish_department": "鄂尔多斯市生态环境局",
+        "punish_number": "鄂环罚[2019]76号",
+        "punish_reason": ""
+      },
+      {
+        "execution": "",
+        "lawbreaking": "",
+        "publish_time": 1560182400000,
+        "punish_basis": "",
+        "punish_content": "",
+        "punish_department": "鄂尔多斯市生态环境局",
+        "punish_number": "鄂环罚[2019]74号",
+        "punish_reason": ""
+      },
+      {
+        "execution": "",
+        "lawbreaking": "",
+        "publish_time": 1560182400000,
+        "punish_basis": "",
+        "punish_content": "",
+        "punish_department": "鄂尔多斯市生态环境局",
+        "punish_number": "鄂环罚[2019]73号",
+        "punish_reason": ""
+      },
+      {
+        "execution": "",
+        "lawbreaking": "",
+        "publish_time": 1560182400000,
+        "punish_basis": "",
+        "punish_content": "",
+        "punish_department": "鄂尔多斯市生态环境局",
+        "punish_number": "鄂环罚[2019]77号",
+        "punish_reason": ""
+      },
+      {
+        "execution": "",
+        "lawbreaking": "",
+        "publish_time": 1560182400000,
+        "punish_basis": "",
+        "punish_content": "",
+        "punish_department": "鄂尔多斯市生态环境局",
+        "punish_number": "鄂环罚[2019]75号",
+        "punish_reason": ""
+      }
+    ],
+    "total": 11
+  }
+}

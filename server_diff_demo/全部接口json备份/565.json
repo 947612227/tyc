@@ -1,0 +1,21 @@
+{
+  "data": {
+    "count": 1,
+    "items": [
+      {
+        "id": 1468145,
+        "putDate": 1507824000000,
+        "putDepartment": "深圳市市场和质量监督管理委员会福田局",
+        "putReason": "被列入经营异常名录届满3年仍未履行相关义务的",
+        "removeDate": 1544630400000,
+        "removeDepartment": "深圳市市场和质量监督管理委员会福田局",
+        "removeReason": "已注销"
+      }
+    ]
+  },
+  "isLogin": 0,
+  "message": "",
+  "special": "",
+  "state": "ok",
+  "vipMessage": ""
+}

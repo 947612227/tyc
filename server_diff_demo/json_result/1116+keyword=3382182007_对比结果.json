@@ -1,0 +1,65 @@
+被测服务:
+请求:
+http://10.39.222.108:20064/services/open/ic/baseinfo/normal?keyword=3382182007
+参数：http://10.39.222.108:20064/services/open/ic/baseinfo/normal?keyword=3382182007
+
+
+找到的差异点是：
+
+
+被测接口调用结果:
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "actualCapital": "",
+    "actualCapitalCurrency": "",
+    "alias": "肴鲜",
+    "approvedTime": 1572192000000,
+    "base": "heb",
+    "bondName": null,
+    "bondNum": null,
+    "bondType": null,
+    "businessScope": "预包装食品 熟食 销售（依法须经批准的项目，经相关部门批准后方可开展经营活动）",
+    "cancelDate": 1602777600000,
+    "cancelReason": "",
+    "city": "保定市",
+    "companyOrgType": "个体工商户",
+    "creditCode": "92130638MA0E7PH55D",
+    "district": "安新县",
+    "estiblishTime": 1572192000000,
+    "fromTime": null,
+    "historyNameList": null,
+    "historyNames": null,
+    "id": 3382182007,
+    "industry": "零售业",
+    "industryAll": {
+      "category": "批发和零售业",
+      "categoryBig": "零售业",
+      "categoryMiddle": "食品、饮料及烟草制品专门零售",
+      "categorySmall": ""
+    },
+    "isMicroEnt": 1,
+    "legalPersonName": "黄鑫",
+    "name": "雄县雄州镇肴鲜熟食店",
+    "orgNumber": "MA0E7PH55",
+    "percentileScore": 1000,
+    "property3": "",
+    "regCapital": null,
+    "regCapitalCurrency": "人民币",
+    "regInstitute": "雄县市场监督管理局",
+    "regLocation": "河北省雄安新区雄县文昌大街313号",
+    "regNumber": "",
+    "regStatus": "注销",
+    "revokeDate": null,
+    "revokeReason": "",
+    "socialStaffNum": null,
+    "staffNumRange": null,
+    "tags": "注销;小微企业",
+    "taxNumber": "92130638MA0E7PH55D",
+    "toTime": null,
+    "type": 1,
+    "updateTimes": 1603221382000,
+    "usedBondName": null
+  }
+}

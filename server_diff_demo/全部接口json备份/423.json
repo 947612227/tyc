@@ -1,0 +1,135 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "court": "常州市武进区人民法院",
+        "detail": [
+          {
+            "consult_price": 20256474,
+            "initial_price": 14179532,
+            "jid": 782862,
+            "title": "常州市武进区银通农村小额贷款股份有限公司2000万股股权"
+          }
+        ],
+        "eventTime": "",
+        "id": "782862",
+        "introduction": "江苏省常州市武进区人民法院关于常州市武进区银通农村小额贷款股份有限公司2000万股股权的拍卖公告（第一次）常州市人民法院将于2018年...",
+        "pubTime": "2017-11-30 16:52",
+        "recordHash": "",
+        "scopeDate": "2018-01-02至2018-01-03",
+        "sourceId": "766116",
+        "title": "常州市武进区人民法院关于常州市武进区银通农村小额贷款股份有限公司2000万股股权（第一次拍卖）的公告",
+        "uniqueHash": "",
+        "url": "http://static.tianyancha.com/judicialAuction/itemData/c8c10d7866d4ce85ff76cf9e9b92ed9d/content/content"
+      },
+      {
+        "court": "常州市武进区人民法院",
+        "detail": [
+          {
+            "consult_price": 15029523,
+            "initial_price": 15029523,
+            "jid": 63,
+            "title": "常州市武进区银通农村小额贷款股份有限公司1500万股股权"
+          }
+        ],
+        "eventTime": "",
+        "id": "63",
+        "introduction": "江苏省常州市武进区人民法院关于常州市武进区银通农村小额贷款股份有限公司1500万股股权的拍卖公告（第一次）常州市人民法院将于2017年...",
+        "pubTime": "2017-08-10 11:33",
+        "recordHash": "",
+        "scopeDate": "2017-09-17至2017-09-18",
+        "sourceId": "601756",
+        "title": "常州市武进区人民法院关于常州市武进区银通农村小额贷款股份有限公司1500万股股权（第一次拍卖）的公告",
+        "uniqueHash": "",
+        "url": "http://static.tianyancha.com/judicialAuction/itemData/1af4fbcd141d4b08f1416e3a201770b3/content/content"
+      },
+      {
+        "court": "常州市武进区人民法院",
+        "detail": [
+          {
+            "consult_price": 19534647,
+            "initial_price": 15082400.0,
+            "jid": 156778,
+            "title": "常州市武进区银通农村小额贷款股份有限公司1500万股股份"
+          }
+        ],
+        "eventTime": "",
+        "id": "156778",
+        "introduction": "江苏省常州市武进区人民法院关于常州市武进区银通农村小额贷款股份有限公司1500万股股份（第一次） 江苏省常州市武进区人民法院将于201...",
+        "pubTime": "2017-03-28 15:41",
+        "recordHash": "",
+        "scopeDate": "2017-04-04至2017-04-05",
+        "sourceId": "475944",
+        "title": "常州市武进区人民法院关于常州市武进区银通农村小额贷款股份有限公司1500万股股份的公告(二次)",
+        "uniqueHash": "",
+        "url": "http://static.tianyancha.com/judicialAuction/itemData/bce2f6687caaec7afa3c06b5c6a19b94/content/content"
+      },
+      {
+        "court": "常州市武进区人民法院",
+        "detail": [
+          {
+            "consult_price": 19534647,
+            "initial_price": 19534647,
+            "jid": 181305,
+            "title": "常州市武进区银通农村小额贷款股份有限公司1500万股股份"
+          }
+        ],
+        "eventTime": "",
+        "id": "181305",
+        "introduction": "江苏省常州市武进区人民法院关于常州市武进区银通农村小额贷款股份有限公司1500万股股份（第一次） 江苏省常州市武进区人民法院将于201...",
+        "pubTime": "2017-02-17 15:36",
+        "recordHash": "",
+        "scopeDate": "2017-03-20至2017-03-21",
+        "sourceId": "450767",
+        "title": "常州市武进区人民法院关于常州市武进区银通农村小额贷款股份有限公司1500万股股份的公告",
+        "uniqueHash": "",
+        "url": "http://static.tianyancha.com/judicialAuction/itemData/d7bfb7e23bd906f8294146e973225b15/content/content"
+      },
+      {
+        "court": "常州市武进区人民法院",
+        "detail": [
+          {
+            "consult_price": 21789287,
+            "initial_price": 17431430.0,
+            "jid": 360751,
+            "title": "常州市武进区银通农村小额贷款股份有限公司2000万股股份"
+          }
+        ],
+        "eventTime": "",
+        "id": "360751",
+        "introduction": "江苏省常州市武进区人民法院关于被执行人持有的常州市武进区银通农村小额贷款股份有限公司2000万股股份的拍卖公告（第二次） 江苏省常州市...",
+        "pubTime": "2016-05-27 08:52",
+        "recordHash": "",
+        "scopeDate": "2016-06-16至2016-06-17",
+        "sourceId": "272431",
+        "title": "常州市武进区人民法院关于被执行人持有的常州市武进区银通农村小额贷款股份有限公司2000万股股份的公告(二次)",
+        "uniqueHash": "",
+        "url": "http://static.tianyancha.com/judicialAuction/itemData/ee28c1bfc4553dd2c4faeb9c3536e7b5/content/content"
+      },
+      {
+        "court": "常州市武进区人民法院",
+        "detail": [
+          {
+            "consult_price": 21789287,
+            "initial_price": 21789287,
+            "jid": 382640,
+            "title": "常州市武进区银通农村小额贷款股份有限公司2000万股股份"
+          }
+        ],
+        "eventTime": "",
+        "id": "382640",
+        "introduction": "江苏省常州市武进区人民法院关于被执行人持有的常州市武进区银通农村小额贷款股份有限公司2000万股股份的拍卖公告 江苏省常州市武进区人民...",
+        "pubTime": "2016-04-13 09:09",
+        "recordHash": "",
+        "scopeDate": "2016-05-05至2016-05-06",
+        "sourceId": "249344",
+        "title": "常州市武进区人民法院关于被执行人持有的常州市武进区银通农村小额贷款股份有限公司2000万股股份的公告",
+        "uniqueHash": "",
+        "url": "http://static.tianyancha.com/judicialAuction/itemData/e8a5435cd3579e302113e83e58e2ddac/content/content"
+      }
+    ],
+    "total": 6
+  }
+}

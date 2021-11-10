@@ -1,0 +1,19 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "alias": "中诚信",
+        "bondCreditLevel": "A-1",
+        "gid": 24498476,
+        "logo": "https://img5.tianyancha.com/logo/lll/c659587305caf2e66605cc4565769263.png@!f_200x200",
+        "ratingCompanyName": "中诚信国际信用评级有限责任公司",
+        "ratingDate": "2021-03-09",
+        "ratingOutlook": "稳定",
+        "subjectLevel": "AAA"
+      }
+    ],
+    "total": 1
+  }
+}

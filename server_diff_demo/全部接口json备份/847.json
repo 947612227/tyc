@@ -1,0 +1,87 @@
+{
+  "error_code": 0,
+  "reason": "ok",
+  "result": {
+    "items": [
+      {
+        "base": "bj",
+        "content": "罚款30000元。",
+        "decisionDate": "2020-10-28",
+        "departmentName": "北京市海淀区市场监督管理局",
+        "description": null,
+        "legalPersonName": "梁志祥",
+        "name": "北京百度网讯科技有限公司",
+        "publishDate": null,
+        "punishNumber": "京海市监处字〔2020〕第444号",
+        "regNum": "-",
+        "type": "违反了《中华人民共和国广告法》第三十四条第二款的规定"
+      },
+      {
+        "base": "bj",
+        "content": "罚款30000元。",
+        "decisionDate": "2020-10-28",
+        "departmentName": "北京市海淀区市场监督管理局",
+        "description": null,
+        "legalPersonName": "梁志祥",
+        "name": "北京百度网讯科技有限公司",
+        "publishDate": null,
+        "punishNumber": "京海市监处字〔2020〕第445号",
+        "regNum": "-",
+        "type": "违反了《中华人民共和国广告法》第三十四条第二款的规定"
+      },
+      {
+        "base": "bj",
+        "content": "罚款200000元。",
+        "decisionDate": "2020-07-21",
+        "departmentName": "北京市海淀区市场监督管理局",
+        "description": null,
+        "legalPersonName": "梁志祥",
+        "name": "北京百度网讯科技有限公司",
+        "publishDate": null,
+        "punishNumber": "京海市监处字〔2020〕第303号",
+        "regNum": "-",
+        "type": "违反了《中华人民共和国广告法》第九条第（七）项的规定"
+      },
+      {
+        "base": "bj",
+        "content": "罚款30000元。",
+        "decisionDate": "2019-12-03",
+        "departmentName": "北京市工商行政管理局海淀分局",
+        "description": null,
+        "legalPersonName": "-",
+        "name": "北京百度网讯科技有限公司",
+        "publishDate": "2019-12-10",
+        "punishNumber": "京海市监工罚（2019）986号",
+        "regNum": "-",
+        "type": "违反了《中华人民共和国广告法》第三十四条第二款的规定"
+      },
+      {
+        "base": "bj",
+        "content": "1，没收广告费用26220.46元2，罚款600000元",
+        "decisionDate": "2018-11-20",
+        "departmentName": "北京市工商行政管理局海淀分局",
+        "description": null,
+        "legalPersonName": "梁志祥",
+        "name": "北京百度网讯科技有限公司",
+        "publishDate": null,
+        "punishNumber": "京工商海处字〔2018〕第2286号",
+        "regNum": "-",
+        "type": "违反了《中华人民共和国广告法》第九条第（八）项的规定"
+      },
+      {
+        "base": "bj",
+        "content": "1.没收广告费用142393.15元2.罚款427179.45元",
+        "decisionDate": "2018-08-17",
+        "departmentName": "北京市工商行政管理局海淀分局",
+        "description": null,
+        "legalPersonName": "-",
+        "name": "北京百度网讯科技有限公司",
+        "publishDate": "2018-08-24",
+        "punishNumber": "京工商海处字〔2018〕第1583号",
+        "regNum": "-",
+        "type": "违反了《中华人民共和国广告法》第四十六条的规定"
+      }
+    ],
+    "total": 6
+  }
+}
